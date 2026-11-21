@@ -1,0 +1,610 @@
+Privacy Policy
+
+What is the Privacy Policy and what does it cover?
+
+Effective October 16, 2026 | View printable version | View previous versions
+
+Section Highlights
+Meta wants you to understand what information we collect, and how and why we use and share it. That's why we encourage you to read our Privacy Policy. It helps you use Meta Products in the way that's right for you.
+
+This Privacy Policy explains how we collect, use, share, retain and transfer information. This policy also explains your rights. Each section of this policy includes useful examples and uses plain language to help you more easily understand our data practices. We also provide links to resources where you can learn more about the privacy topics that interest you.
+
+It's important that you know how to control your privacy settings, so we also explain where you can manage your information in the settings of the Meta Products you use. You can update these settings to shape your experience.
+
+Read the full policy below.
+
+What information do we collect?
+
+Section Highlights
+The types of information we collect and process depend on how you use our products. For example, we collect different information for a user selling furniture in Marketplace than for a user asking Meta AI to write a joke. Even if you don't have an account, we still collect some information about you when you use our products.
+
+Here is the information we collect:
+
+What happens if you don't let us collect certain information?
+Some information is necessary for our products to work. Other information is optional, but your experience may be affected without it.
+
+What happens if the information we collect can't identify you?
+In some cases, third parties de-identify, aggregate or anonymize information so that it can no longer identify you before providing it to us. We use this information as described below and do not attempt to re-identify it.
+
+You're in control
+
+How do we use your information?
+
+Section Highlights
+We use the information we collect to provide you with a personalized experience (including ads) and for the other purposes detailed below.
+
+For some of these purposes, we use information across devices and across our products. The information we use for these purposes is automatically processed by our systems. In some cases, we also use manual review to access and review your information.
+
+To minimize the use of information tied to you personally, we sometimes de-identify, aggregate or anonymize it so that others can't identify you from it. We use this information as described in this section.
+
+Here's how we use your information:
+
+Provide, personalize and improve our products
+We use the information we have to provide and improve our products. This includes:
+- Detecting if our products are working properly, for example by troubleshooting to ensure systems are working and fixing them when they aren't.
+- Providing personalized features, content and recommendations, such as your Facebook Feed, Instagram Feed, Meta AI, Stories and ads.
+
+We use the information you choose to provide that is specially protected for these purposes, but not to show you ads.
+
+Learn more about how we use information to provide, personalize and improve our products:
+
+Promote safety, security and integrity
+We use the information we collect to help protect users from harm and to provide safe and secure products.
+
+Provide measurement, analytics and business services
+Many people rely on our products to run or promote their business or to share content. We help them measure the performance of their ads and other content, products and services.
+
+Communicate with you
+We use the information you provide us to communicate with you, such as through the contact details you enter on your profile.
+
+Conduct research and innovation for the public good
+We use the information we have, information from researchers and datasets from publicly available sources, professional groups and non-profit organizations to conduct and support research.
+
+Read more about our privacy policy
+
+How is your information shared on Meta Products or with integrated partners?
+
+Section Highlights
+On Meta Products
+Learn more about the circumstances in which your information may be shared on our products:
+
+Linked integrated partners
+You can choose to link to integrated partners that use our products. Once linked, the respective integrated partner will receive information about you and your activity.
+
+These integrated partners always have access to public information on our products. Learn more about the other information they receive and how they process your information:
+
+You're in control
+
+Section Highlights
+We never sell any of your information to anyone, now or in the future. We also require partners and other third parties to follow rules that determine the permissible and prohibited ways they can use and disclose the information we provide to them.
+
+Specifically, we share information with the following third parties:
+
+Partners
+Vendors
+Service providers
+Third parties
+Other third parties
+
+We also share information with other third parties to respond to legal requirements, comply with applicable law or prevent harm. Read the policy.
+
+When we sell or transfer all or part of our business to another party, we may provide your information to the new owner as part of the transaction, but only as permitted by law.
+
+How do Meta Companies work together?
+
+Section Highlights
+We are part of the Meta Companies, which work together to provide users with Meta Company Products. Meta Company Products include all Meta Products covered by this policy, as well as other products like WhatsApp.
+
+We share the information we collect with other Meta Companies, as well as shared infrastructure, systems and technology. Learn more about how we transfer information to other countries/regions.
+
+Subject to the terms and policies of the other Meta Companies, and as permitted by applicable law, we also process information about you that we receive from other Meta Companies. In some cases, Meta is a service provider to other Meta Companies. We act on their behalf and in accordance with their instructions and terms.
+
+Why do we share information among Meta Companies?
+Meta Products share information with other Meta Companies to:
+- Promote safety, security and integrity and comply with applicable law
+- Provide personalized offers, ads and other sponsored or commercial content
+- Develop, provide and personalize features and integrated tools
+- Understand how people use and interact with Meta Company Products
+
+View examples of why we share user information.
+
+More resources
+
+How can you manage or delete your information and exercise your rights?
+
+Section Highlights
+We provide you with a variety of tools to view, manage, download and delete your information. You can also manage your information by visiting the settings pages of the products you use. In addition, you may have other privacy rights under applicable law.
+
+To exercise your rights, you can visit our Help Center, your Facebook settings, Instagram settings and device settings.
+
+Take a Privacy Checkup
+
+View and manage information
+
+Transfer, download or delete your information
+
+You can visit here (Facebook) and here (Instagram) as well as the Facebook Help Center to learn how to manage your privacy settings. If you have any questions about this policy, you can contact us as described below. In some countries/regions, you can also contact the Data Protection Officer for Meta Platforms, Inc.; you may also be able to contact your local data protection regulator (DPA) directly, depending on your jurisdiction.
+
+How long do we retain your information?
+
+Section Highlights
+We retain information if it is necessary for us to provide our products, comply with legal obligations or protect our or others' rights and interests. We decide how long we need information on a case-by-case basis. Here are the factors we consider when deciding how long to keep information:
+- If we need the information to operate or provide our products. For example, we need to keep some of your information to maintain your account. Learn more.
+- The feature we use the information for and how that feature works. For example, messages sent using Messenger's vanish mode are retained for less time than regular messages. Learn more.
+- How long we need to retain the information to comply with certain legal obligations. See some examples.
+- If we need it for other legitimate purposes, such as to prevent harm, investigate possible violations of our terms or policies, promote safety and integrity, or protect ourselves, including our rights, property or products.
+
+In some instances, and for specific reasons, we keep information for longer. Read our policy to learn about the circumstances in which we may retain your information.
+
+How do we respond to legal requests, comply with applicable law and prevent harm?
+
+Section Highlights
+We access, preserve, use and share your information:
+- In response to legal requests, such as search warrants, court orders, production orders or subpoenas. These requests come from third parties such as civil litigants, law enforcement and other government authorities. Learn more about when we respond to legal requests.
+- In accordance with applicable law
+- To promote the safety, security and integrity of Meta Products, users, employees, property and the public. Learn more.
+
+We may access or preserve your information for an extended amount of time. Learn more.
+
+How will you know the policy has changed?
+
+We'll notify you before we make material changes to this policy. You'll have the opportunity to review the revised policy before you choose to continue using our products.
+
+How to contact Meta with questions
+
+You can visit here (Facebook) and here (Instagram) as well as the Facebook Help Center to learn how to manage your privacy settings. If you have questions about this policy, or have any questions, complaints or requests regarding your information, you can contact us as described below.
+
+You can contact us online or by mail at:
+
+Meta Platforms, Inc. ATTN: Privacy Operations 1 Meta Way Menlo Park, CA 94025
+
+Contact the Data Protection Officer for Meta Platforms, Inc.
+
+Why and how we process your information
+
+The categories of information we use, and why and how we process them, are described below:
+
+Personalize Meta Product experiences
+
+Why and how we process your information:
+Our systems automatically process information we've collected and stored about you and others to assess and understand your interests and preferences and provide you with a personalized experience in and across Meta Company Products in accordance with our terms. Here's how:
+- Personalize features and content (such as your Facebook Feed, Instagram Feed, features in AI at Meta, and Stories);
+- Personalize the ads you see; and
+- Provide recommendations in and outside of our products, such as people you may know, groups or events you may want to join or topics you may want to follow.
+
+Our advertising system determines which ads to show you first based on the audience the advertiser wants to reach. We then deliver ads to people who are likely to be interested in them. Learn more about how our advertising system works.
+
+Learn more about how we choose which ads to show you.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Content you create, such as posts, comments or audio
+- Content you provide through our camera or voice features, or through your camera roll settings
+- Metadata about content and messages, subject to applicable law
+- Information about your interactions with AI at Meta features and associated metadata. For example, content and messages generated by you or others interacting with these features
+- The types of content you view or interact with, and how you interact with it
+- The apps and features you use, and what you do in them
+- Your shopping or other transaction data
+- The hashtags you use
+- The time, frequency and duration of your activities on our products
+
+- Device characteristics and device software
+- What you do on your device, such as whether our app is in the foreground or your mouse is moving (which helps distinguish humans from machines)
+- Identifiers that distinguish your device from other users' devices
+- Device signals
+- Information you share through device settings (such as GPS location)
+- Location-related information
+- Information about the network your device is connected to
+- Reports about our products' performance on your device
+- Information collected through cookies and similar technologies
+
+Link your accounts
+
+Why and how we process your information:
+If you add your WhatsApp account with other accounts in Meta Company Products to your Accounts Center: Link your accounts in Meta Company Products with your WhatsApp account in the same Accounts Center and share your information with WhatsApp.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+Note: Below is a list of information from Meta. For information WhatsApp shares with Meta, see the WhatsApp Help Center article.
+
+Provide and improve Meta Products
+
+Why and how we process your information:
+To provide Meta Products, we need to collect, store, and, where necessary, share, analyze, review and organize information, and in some cases, not only through automated processing but also through manual (human) review, for the following purposes:
+- Create and maintain your account and profile
+- Link your Meta Product account (including your public profile information) with integrated partners to enable login or sharing of your information
+- Support content and status sharing
+- Provide and personalize features
+- Provide messaging services, voice/video calling features, and features to communicate and interact with others
+- Provide advertising products
+- Provide AI at Meta features to create and understand content (such as text, audio, images and video) and perform actions
+- Conduct analytics
+- Enable you to make purchases and payments using Meta Pay or other Meta checkout features
+- Detect if products are working properly, for example by troubleshooting to ensure systems are working and fixing them when they aren't
+
+We also use information to develop, research and test improvements to Meta Products. We use the information we have for the following purposes:
+- Develop and improve products and features,
+- Build and test new products and features to validate their effectiveness
+- Gather feedback on our ideas for products or features
+- Conduct surveys and other research to understand what you like about our products and brands, and where we can improve Meta Products and brands
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Content you create, such as posts, comments or audio
+- Your public profile information (including your name, username and profile picture)
+- Content you provide through our camera or voice features, or through your camera roll settings
+- Messages you send and receive, including their content, subject to applicable law
+- Metadata about content and messages, subject to applicable law
+- Information about your interactions with AI at Meta features and associated metadata. For example, content and messages generated by you or others interacting with these features
+- The types of content you view or interact with, and how you interact with it
+- The apps and features you use, and what you do in them
+- Purchases or other transactions you make, including truncated credit card information
+- The hashtags you use
+- The time, frequency and duration of your activities on our products
+- Your selfie photos or videos (if you provide them when contacting us for account support)
+
+- Device characteristics and device software
+- What you do on your device, such as whether our app is in the foreground or your mouse is moving (which helps distinguish humans from machines)
+- Identifiers that distinguish your device from other users' devices
+- Device signals
+- Information you share through device settings
+- Location-related information
+- Information about the network your device is connected to, including IP address
+- Information collected through cookies and similar technologies
+
+Develop and improve AI at Meta
+
+Why and how we process your information:
+To develop and improve AI at Meta for Meta Products and third parties.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Public content you or others create or share on Meta Products, such as posts, comments or audio
+- Information about your interactions with AI at Meta features and associated metadata. For example, content and messages generated by you or others interacting with these features.
+
+Promote safety, security and integrity within and across Meta Products
+
+Why and how we process your information:
+Meta Products are designed to research and help ensure the safety of users, the integrity of the service and the security of the products, in relation to the services provided and the users who use them in and across Meta Products. We process information we have about you, using automated processing and in some cases manual (human) review, for the following purposes:
+- Verify accounts and activity
+- Detect and address violations of our terms or policies. In some cases, decisions we make about violations are subject to review by the Oversight Board
+- Investigate suspicious activity
+- Detect, prevent and combat harmful or illegal behavior, such as reviewing content that users report to us and, in some cases, removing content
+- Detect and eliminate inequalities and racial bias against historically marginalized groups
+- Protect the life, physical and mental well-being, welfare or integrity of our users or others
+- Detect and prevent spam and other security issues and bad experiences
+- Detect and stop threats to our personnel and property
+- Maintain the integrity of our products
+
+For more information about safety and integrity on Meta Products, visit the Facebook Safety Help Center and Instagram Safety Tips.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Content you create, such as posts, comments or audio
+- Content you provide through our camera or voice features, or through your camera roll settings
+- Messages you send and receive, including their content, subject to applicable law
+- Metadata about content and messages, subject to applicable law
+- Information about your interactions with AI at Meta features and associated metadata. For example, content and messages generated by you or others interacting with these features
+- The types of content you view or interact with, and how you interact with it
+- The apps and features you use, and what you do in them
+- Purchases or other transactions you make, including truncated credit card information
+- The hashtags you use
+- The time, frequency and duration of your activities on our products
+- Your selfie photos or videos (if you provide them when contacting us for account support)
+
+- Device characteristics and device software
+- What you do on your device, such as whether our app is in the foreground or your mouse is moving (which helps distinguish humans from machines)
+- Identifiers that distinguish your device from other users' devices
+- Device signals
+- Information you share through device settings
+- Location-related information
+- Information about the network your device is connected to, including IP address
+- Information collected through cookies and similar technologies
+
+Communicate with you
+
+Why and how we process your information:
+We use information you provide us (such as your contact details on your profile) to send you communications, such as emails or in-product notices, for example:
+- We contact you via email or in-product notice about Meta Products, product-related issues and research, or to tell you about our terms and policies.
+
+We also use your contact details, such as your email address, to respond to you when you contact us.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Contact details on your profile and your communications with us
+- Content you create, such as posts, comments or audio
+- Content you provide through our camera or voice features, or through your camera roll settings
+
+- Device characteristics and device software
+- What you do on your device, such as whether our app is in the foreground or your mouse is moving (which helps distinguish humans from machines)
+- Identifiers that distinguish your device from other users' devices
+- Device signals
+- Information you share through device settings
+- Location-related information
+- Information about the network your device is connected to, including IP address
+- Information collected through cookies and similar technologies.
+
+Transfer, store or process your information globally
+
+Why and how we process your information:
+Transfer, store or process your information across borders, including between the US and other countries/regions: We share information we collect globally, both internally across our offices and data centers, and externally with our partners, third parties and service providers. Because Meta operates globally, we need to transfer information for the following purposes:
+- To operate and provide the services described in the terms applicable to Meta Products; including to support you sharing information and interacting with family and friends, no matter where they are in the world.
+- To fix, analyze and improve our products.
+
+See the "How do we transfer information?" section of the Meta Privacy Policy for more information.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Content you create, such as posts, comments or audio
+- Content you provide through our camera or voice features, or through your camera roll settings
+- Metadata about content and messages, subject to applicable law
+- Information about your interactions with AI at Meta features and associated metadata. For example, content and messages generated by you or others interacting with these features
+- The types of content you view or interact with, and how you interact with it
+- The apps and features you use, and what you do in them
+- Purchases or other transactions you make, including truncated credit card information
+- The hashtags you use
+- The time, frequency and duration of your activities on our products
+- Your selfie photos or videos (if you provide them when contacting us for account support)
+
+- Device characteristics and device software
+- What you do on your device, such as whether our app is in the foreground or your mouse is moving (which helps distinguish humans from machines)
+- Identifiers that distinguish your device from other users' devices
+- Device signals
+- Information you share through device settings
+- Location-related information
+- Information about the network your device is connected to, including IP address
+- Information collected through cookies and similar technologies
+
+Process information subject to special protections
+
+Why and how we process your information:
+To process information you provide that is subject to special protections under applicable law so that we can share it with others you allow, to provide, personalize and improve our products, and for analytics. We collect, store and publish information, and process it automatically or in some cases manually (by humans), for these purposes.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Any information subject to special protections that you choose to provide (such as your religious views, sexual orientation, political views, health, racial or ethnic origin, philosophical beliefs or trade union membership), or that you provide when you choose to participate in a survey, or that you expressly consent to provide
+
+Use information from third parties to show you personalized ads
+
+Why and how we process your information:
+Receive information from third parties to show you personalized ads: We use information that advertisers, merchants and other partners provide us about your activity off Meta Company Products, to show you personalized ads on our products and on websites, apps and devices that use our advertising services. We collect this information whether or not you are logged in to our products or have an account on our products. See the Cookie Policy for more information.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Information and content you provide, such as your name or email
+
+Share information with third parties at your request
+
+Why and how we process your information:
+The types of third parties and the categories of information shared vary based on the information you ask us to share. For example:
+- When you instruct us to share your email (or other contact details) with an advertiser, or other information you may allow, we will share this information so that the advertiser can contact you to provide you with more information about promotional products;
+- If you choose to integrate other apps, games or websites with Meta Products and login features, we will share your information with the relevant app, game or website so that you can log in.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Your contact details or profile information, etc.
+- Content you create, such as posts or comments
+
+Provide measurement, analytics and business services
+
+Why and how we process your information:
+Our systems use automated techniques and some manual (human) methods to process information we've collected and stored about you and others. We use this information for the following purposes:
+- To provide performance analysis and measurement reports to businesses, advertisers and other partners to help them and their clients measure the effectiveness and reach of ads, content and services, understand the types of people who view their content and ads on and off Meta Products, and how their content and ads perform on and off Meta Products;
+- To provide aggregated user analytics and performance analysis reports to help users, businesses, advertisers and other partners better understand the audiences they want to reach, the types of people who use their services, and how people interact with their content, websites, apps and services.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Content you create, such as posts, comments or audio
+- Content you provide through our camera or voice features, or through your camera roll settings
+- Information about your interactions with AI at Meta features and associated metadata. For example, content and messages generated by you or others interacting with these features
+- The types of content you view or interact with, and how you interact with it
+- The apps and features you use, and what you do in them
+- Your shopping or other transaction data
+- The hashtags you use
+- The time, frequency and duration of your activities on our products
+
+- Device characteristics and device software
+- What you do on your device, such as whether our app is in the foreground or your mouse is moving (which helps distinguish humans from machines)
+- Identifiers that distinguish your device from other users' devices
+- Device signals
+- Information you share through device settings
+- Location-related information
+- Information about the network your device is connected to, including IP address
+- Information collected through cookies and similar technologies
+
+Provide a seamless, consistent experience
+
+Why and how we process your information:
+Share information across Meta Companies:
+- To provide a seamless, consistent and rich experience across Meta Company Products, enabling users to interact, share and view content (including posts and videos) across apps, and to interact with content.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Content you create, such as posts, comments or audio
+- Content you provide through our camera or voice features, or through your camera roll settings
+- Metadata about content and messages, subject to applicable law
+- Information about your interactions with AI at Meta features and associated metadata. For example, content and messages generated by you or others interacting with these features
+- The types of content you view or interact with, and how you interact with it
+- The apps and features you use, and what you do in them
+- Your shopping or other transaction data
+- The hashtags you use
+- The time, frequency and duration of your activities on our products
+
+- Device characteristics and device software
+- What you do on your device, such as whether our app is in the foreground or your mouse is moving (which helps distinguish humans from machines)
+- Identifiers that distinguish your device from other users' devices
+- Device signals
+- Information you share through device settings
+- Location-related information
+- Information about the network your device is connected to, including IP address
+- Information collected through cookies and similar technologies
+
+Business intelligence and analytics
+
+Why and how we process your information:
+- To aggregate and understand your use of our products and accurately measure user and business-related data; and
+- To verify the metrics directly related to these aspects, so that we can formulate and improve product direction and research and development, and fulfill (shareholder/revenue) reporting obligations.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Content you create, such as posts, comments or audio
+- Content you provide through our camera or voice features, or through your camera roll settings
+- Metadata about content and messages, subject to applicable law
+- Information about your interactions with AI at Meta features and associated metadata. For example, content and messages generated by you or others interacting with these features
+- The types of content you view or interact with, and how you interact with it
+- The apps and features you use, and what you do in them
+- Your shopping or other transaction data
+- The hashtags you use
+- The time, frequency and duration of your activities on our products
+
+- Device characteristics and device software
+- What you do on your device, such as whether our app is in the foreground or your mouse is moving (which helps distinguish humans from machines)
+- Identifiers that distinguish your device from other users' devices
+- Device signals
+- Information you share through device settings
+- Location-related information
+- Information about the network your device is connected to, including IP address
+- Information collected through cookies and similar technologies
+
+Show personalized ads on Meta Audience Network
+
+Why and how we process your information:
+To identify you as a Meta Product user and show you personalized ads through Meta Audience Network when you visit other apps:
+- When you visit other apps, if we show you ads through Meta Audience Network, our systems automatically process information we've collected and stored about you and others to identify you as a Meta Product user and show you personalized ads.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Information you provide
+- Content you create, such as posts, comments or audio
+- Content you provide through our camera or voice features, or through your camera roll settings
+- Metadata about content and messages, subject to applicable law
+- Information about your interactions with AI at Meta features and associated metadata. For example, content and messages generated by you or others interacting with these features
+- The types of content you view or interact with, and how you interact with it
+- The apps and features you use, and what you do in them
+- Your shopping or other transaction data
+- The hashtags you use
+- The time, frequency and duration of your activities on our products
+
+- Device characteristics and device software
+- What you do on your device, such as whether our app is in the foreground or your mouse is moving (which helps distinguish humans from machines)
+- Identifiers that distinguish your device from other users' devices
+- Device signals
+- Information you share through device settings
+- Location-related information
+- Information about the network your device is connected to, including IP address
+- Information collected through cookies and similar technologies
+
+Provide marketing communications
+
+Why and how we process your information:
+- To share marketing communications with you in accordance with your settings and as permitted by applicable law.
+- In accordance with applicable law, we collect and store your information (such as your email) and use it to send you marketing communications.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Information and content you provide, including contact details such as your email
+
+Conduct research and innovation for the public good
+
+Why and how we process your information:
+- To conduct research and use the information we have (including information from researchers we partner with) to conduct and support research and innovation on topics of general social welfare, technological advancement, public interest, health and well-being.
+- For example, we analyze information about where groups of people go during a crisis. This can help relief organizations get resources to the places they are needed most.
+- When necessary for research and innovation for the public good, we collect, store, combine and analyze information, using automated processing techniques such as aggregation and manual (human) review procedures.
+- We support research in areas such as artificial intelligence and machine learning.
+
+Learn more about our research programs.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Content you create, such as posts, comments or audio
+- Content you provide through our camera or voice features, or through your camera roll settings
+- Metadata about content and messages, subject to applicable law
+- Information about your interactions with AI at Meta features and associated metadata. For example, content and messages generated by you or others interacting with these features
+- The types of content you view or interact with, and how you interact with it
+- The apps and features you use, and what you do in them
+- Your shopping or other transaction data
+- The hashtags you use
+- The time, frequency and duration of your activities on our products
+
+- Device characteristics and device software
+- What you do on your device, such as whether our app is in the foreground or your mouse is moving (which helps distinguish humans from machines)
+- Identifiers that distinguish your device from other users' devices
+- Device signals
+- Information you share through device settings
+- Location-related information
+- Information about the network your device is connected to, including IP address
+- Information collected through cookies and similar technologies
+
+Anonymize your information
+
+Why and how we process your information:
+In some cases, we anonymize the information we have about you (such as your activity on and off our products) and use the resulting information, for example, to provide and improve Meta Products, including ads.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Content you create, such as posts, comments or audio
+- Content you provide through our camera or voice features, or through your camera roll settings
+- Metadata about content and messages, subject to applicable law
+- Information about your interactions with AI at Meta features and associated metadata. For example, content and messages generated by you or others interacting with these features
+- The types of content you view or interact with, and how you interact with it
+- The apps and features you use, and what you do in them
+- Your shopping or other transaction data
+- The hashtags you use
+- The time, frequency and duration of your activities on our products
+
+- Device characteristics and device software
+- What you do on your device, such as whether our app is in the foreground or your mouse is moving (which helps distinguish humans from machines)
+- Identifiers that distinguish your device from other users' devices
+- Device signals
+- Information you share through device settings
+- Location-related information
+- Information about the network your device is connected to, including IP address
+- Information collected through cookies and similar technologies
+
+Share information with other parties, including law enforcement, and as required by law
+
+Why and how we process your information:
+See the "How do we respond to legal requests, prevent harm, and promote safety and integrity?" section of the Meta Privacy Policy for more information about when we share information with law enforcement and other parties.
+
+The categories of information we access, retain, use and share depend on the specific circumstances. For example, when responding to a legal request where not required by law, we typically provide limited information, such as contact details and login information.
+
+However, the information we process will depend on the specific purpose, which may include:
+- Responding to legal requests from third parties such as civil litigants, law enforcement and other government authorities;
+- Complying with applicable law or satisfying a valid legal purpose;
+- Promoting the safety, security and integrity of Meta Companies, Meta Products, users, employees, property and the public.
+
+Learn more about how we promote safety and integrity.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+- Content you create, such as posts, comments or audio
+- Content you provide through our camera or voice features, or through your camera roll settings
+- Metadata about content and messages, subject to applicable law
+- Information about your interactions with AI at Meta features and associated metadata. For example, content and messages generated by you or others interacting with these features
+- The types of content you view or interact with, and how you interact with it
+- The apps and features you use, and what you do in them
+- Your shopping or other transaction data
+- The hashtags you use
+- Your selfie photos or videos (if you provide them when contacting us for account support)
+
+- Device characteristics and device software
+- What you do on your device, such as whether our app is in the foreground or your mouse is moving (which helps distinguish humans from machines)
+- Identifiers that distinguish your device from other users' devices
+- Device signals
+- Information you share through device settings
+- Location-related information
+- Information about the network your device is connected to, including IP address
+- Information collected through cookies and similar technologies
+
+Process information as required by law
+
+Why and how we process your information:
+If we are required to disclose information, for example, in response to a valid legal request (such as a search warrant) for specific information, we will access, retain and/or share your information with regulators, law enforcement or other parties.
+
+How we process information depends on the specific circumstances. See the "How do we respond to legal requests, prevent harm, and promote safety and integrity?" section of the Meta Privacy Policy for more information. "Information for Law Enforcement" provides the operational procedures law enforcement needs to follow.
+
+The categories of information we use (see the "What information do we collect?" section for more detail on each category of information). The actual information we use depends on your circumstances, but may include any of the following:
+
+The categories of information depend on the specific circumstances of each mandatory request or obligation. We only share or otherwise process the information required to fulfill the relevant legal obligation. For example, for civil matters, we typically process limited information, such as contact details and login information. However, depending on the specific circumstances, the information we process may include:
+
+- Content you create, such as posts

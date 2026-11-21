@@ -1,0 +1,84 @@
+Privacy Policy
+Last Update: 23/06/2026
+
+At Nice One, we respect your interest in privacy and value our relationship with you. This Policy explains the types of personal information that we collect about our customers, how we use it, with whom we share it, the choices available to you regarding the use of such information, in addition to the measures we take to protect it, and the ways in which you may contact us regarding our policies and procedures.
+
+By providing us with your personal information, you agree to this Privacy Policy and authorize us to collect, use, and disclose such information in accordance with this Policy. However, you are not obligated to provide such information; if the required information is not provided, we may be unable to provide certain goods or services that depend on such information. If you do not agree to this Privacy Policy, or if you are visiting the Website from a country or territory where the use of the Website is prohibited, please do not continue browsing and exit the Website.
+
+We are committed to protecting the confidentiality of your personal data and will not collect any personal information unless you voluntarily choose to provide it through our official channels, such as the electronic portal, mobile applications, surveys, and registration forms. We also confirm that such information will not be used for any unlawful purpose or for any purpose outside the scope of processing your request and providing the services available to you.
+
+Information Collected Through Your Visit to the Nice One Website
+
+The Website servers automatically capture your Internet Protocol (IP) address when you visit the Website. (Your Internet Protocol address is the number assigned to the computer you use, which enables other devices connected to the Internet to identify the destination of the data transmitted from them and collect certain information such as browser type and search engine, without identifying your personal identity.) The Website's use of your Internet Protocol address helps diagnose problems occurring on its servers and also helps conduct the statistics necessary to measure Website usage (the number of visitors and the language of the computer you use). The Website does not permit any party outside its technical team to access your Internet Protocol address.
+
+When you visit one of the pages on our Website that contains a social media plugin, your browser will establish a direct connection with the servers of such social media plugins, such as Google and Facebook. These plugins transfer their content directly to your browser, which in turn incorporates such information into the Website, enabling the receipt of information relating to your access to the selected page on our Website. For this reason, data relating to your visit to the Nice One Website is transferred. Such data certainly does not include personal information such as your name or telephone number. If you do not wish to share data relating to your visit to the Nice One Website, you may disable tracking through your browser settings.
+
+Information Security
+
+Nice One is committed to applying the highest cybersecurity standards to protect the information and services provided through this Website. The Company also monitors data traffic within the Website to detect any attempts of unauthorized access, modification of its contents, or any actions that may cause damage to the Website. Nice One reserves the right to take legal action against any party responsible for such actions in accordance with the Anti-Cyber Crime Law and the regulations applicable in the Kingdom of Saudi Arabia.
+
+When registering on the Website, you may be asked to provide certain personal information such as your name, shipping address, email address, and telephone number, in addition to other personal data such as your date of birth. Such information is securely stored in our databases.
+
+Nice One ensures the protection of users' data against unauthorized access, alteration, disclosure, or deletion, in accordance with the applicable privacy policies.
+
+The Nice One Website servers are also encrypted using the SSL protocol to ensure the confidentiality of information during transmission. Financial data, such as credit card information, is encrypted before being sent directly to the relevant financial institution for processing, without being stored on our servers, in order to ensure the highest level of security and privacy.
+
+Information Storage
+
+We store your personal information on secure and protected servers. By providing your personal information, you agree to the transfer and storage of such information on our servers. We take all necessary precautions to maintain the confidentiality of information and protect it from unauthorized access, use, or disclosure.
+
+Despite our extensive efforts to ensure the protection of your data, it should be noted that the transmission of data over the Internet is not 100% secure. Therefore, we cannot guarantee the security of information while it is being transmitted to our Website, and this is at your own risk.
+
+Upon receiving the information, we apply strict procedures and advanced security features to prevent unauthorized access, whether through our servers or through your personal account. Therefore, we recommend taking all necessary measures to secure your account in order to reduce the likelihood of unauthorized access to your personal information.
+
+Email and Communications
+
+We may occasionally send you messages relating to promotional offers, marketing information, or events that we believe may be of interest to you. You have the right at any time to stop receiving such messages. You may easily unsubscribe from our marketing list by clicking the unsubscribe link included in any email message we send to you.
+
+We confirm that we will never share your email address with any third party without your consent. We may retain the content of any email messages you send to us if we decide to do so for the purposes of improving our services or following up on communications.
+
+Cookies
+
+The Nice One Website uses cookies to store the session on your browser. No personal information is collected through these cookies. They are used to enable you to use Website features such as adding products to the shopping cart. Cookies are automatically deleted after a period not exceeding 30 days, and you may delete them at any time through your browser settings.
+
+The Website also uses Google Analytics, a service provided by Google to analyze Website pages and understand how users interact with them. Google Analytics relies on cookies, and the information generated by cookies regarding your use of the Website may be transferred to Google's servers. Google uses this information to evaluate Website usage, prepare reports for Website operators, and provide other services related to Internet activity. This information may be shared with third parties if required by law or if a third party processes the data on behalf of Google.
+
+You may refuse the use of cookies through your browser settings; however, please note that this may affect certain Website functions and prevent you from fully benefiting from the Website. By using this Website, you agree to the processing of your data by Google for the purposes described above, provided that the processed data does not include any personal information and is limited only to data relating to your visit and activity on the Website.
+
+External Website Links
+
+Some of our links may direct you to external websites. We provide these links solely for your convenience. Please note that we are not responsible for the privacy practices of any external websites to which we refer. This Privacy Policy applies only to the personal information that we collect from our Website.
+
+In addition, we use a targeting policy that enables us to display advertisements that you wish to see on our Website. By targeting, we mean that we may advertise products that you have recently viewed on our partners' websites. This means that the advertisements displayed specifically to you, even on other companies' websites, are only the offers and advertisements that you wish to see. We do this by conducting a detailed analysis of the information collected through cookies on our Website in order to understand your interests as a user. This information is anonymous and does not contain your personal information or any data relating to you in customer records.
+
+Sharing Personal Data
+
+A portion of your personal data is shared with certain companies that complement your transactions. For example, your contact information and personal address are shared with shipping companies so that they may deliver your order. Please note that Nice One does not share your complete personal data; we only send the essential information required to complete your transactions.
+
+Any information voluntarily provided by you to us will not be disclosed to any third party and will be used solely for our customer service purposes. As our customer, we guarantee security, reliability, and confidentiality.
+
+You may request a copy of the personal data that we retain about you via email. For your protection, we may request proof of identity before providing any information, and we reserve the right to refuse to provide the requested information if satisfactory identification is not provided.
+
+Access to Contacts
+
+At Nice One, we access your contacts only after obtaining your explicit consent, for the purpose of facilitating the selection of contacts during credit gifting processes. We would like to assure you that Nice One does not retain any information relating to your contacts, and such data is used temporarily only to facilitate the requested process.
+
+Retention of Your Personal Data
+
+If you have concerns regarding your personal data, you have the right to request correction of any errors at any time. You also have the right to request that the use of your personal data for direct marketing purposes be discontinued.
+
+If you wish to delete your personal data or deactivate your account, you may send your request to us via email at: cybersec@niceonesa.com. All your personal data will be deleted if there is no associated shared data, such as shopping vouchers or orders. If associated shared data exists, your account will only be deactivated in order to ensure the integrity of the operations associated with such data.
+
+You may also contact us regarding any inquiries related to the Terms and Conditions or any aspect of your use of the system.
+
+Updates
+
+Nice One reserves the right to update this Privacy Policy at any time. Your rights set out in this Policy will not be reduced without your explicit consent.
+
+Any updates will be published on this page, and if the changes are significant, clear notice will be provided. We will also retain previous versions of the Privacy Policy in the archive for reference when needed.
+
+We recommend reviewing the Website periodically to stay informed of any updates or modifications to our Privacy Policy.
+
+Consent to the Privacy Policy
+
+Your use of the Website constitutes your acceptance of this Privacy Policy and the rules and terms governing it. If you do not agree to this Policy, you should not use any of the services provided through the Nice One Website

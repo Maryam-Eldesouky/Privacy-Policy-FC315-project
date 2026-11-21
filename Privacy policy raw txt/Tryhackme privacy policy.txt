@@ -1,0 +1,108 @@
+Privacy Policy
+Last updated: January 10, 2025
+
+Your privacy is important to us. It is TryHackMe's policy to respect your privacy regarding any personal data we may collect from you when you access our website, use our services or otherwise communicate with us.
+
+Who we are
+TryHackMe Ltd, a private limited company incorporated in England and Wales with company number 11673275, is the controller and responsible for your personal data (referred to as “TryHackMe”, "we", "us" or "our" in this privacy policy).
+
+Our registered office address is 128 City Road, London, United Kingdom, EC1V 2NX and our email address for any questions about this privacy policy or our privacy practices is support@tryhackme.com.
+
+Applicability of this privacy policy
+This privacy policy describes how TryHackMe processes personal data from you or relating to you when we are acting as the “data controller” in relation to that data. That includes where you are an individual subscriber to our platform and we process your personal data in the course of your subscription (e.g. when you set up an account with us).
+
+Our services are also offered to businesses, companies and/or other entities for professional use by their staff and other authorised users. We enter into specific agreements with our professional customers which include specific data protection provisions which apply when we are acting as a “data processor” on behalf of our professional customers. This privacy policy does not apply to the extent we are acting as a “data processor” on behalf of our professional customers.
+
+What data do we collect
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (see the section on Aggregated Data below).
+
+We collect and process different kinds of personal data about you which we have grouped together as follows:
+
+- Identity Data such as your first name, last name, username, password and any social media profiles you choose to link to your TryHackMe account.
+- Contact Data such as your address, email address and telephone number.
+- Profile Data such as your user biography, preferences, feedback and survey responses.
+- Occupation Data such as your job title and employer.
+- Financial Data such as your bank account and payment card details.
+- Transaction Data such as payments to and from you and details of products and services you have purchased from us.
+- Technical Data such as your internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our website.
+- Usage Data regarding how you use and interact with our website, products and services, such as completed rooms, learning progress, certifications and badges earned, strategies used, features interacted with, activity levels and other behavioural data when using our services.
+
+We may also collect and process Aggregated Data such as statistical or demographic data. Aggregated Data could be derived from your personal data but is not considered personal data in law as this data will not directly or indirectly reveal your identity. For example, we may aggregate or de-identify your Usage Data to calculate the percentage of users accessing a specific room, or the amount of time users on average take to complete a room, so that we can better understand larger groups of users. We will maintain and use Aggregated Data in de-identified form and not attempt to reidentify the information, unless required by law. If we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy. We may also share Aggregated Data that does not identify you with third parties where permitted by law.
+
+How do we collect your data
+We use different methods to collect data from and about you including through:
+
+- Direct interactions: You may give us your personal data, such as your Identity Data and Occupation Data, when you set up an account with us or correspond with us. This includes personal data you provide when you create a user account, subscribe to our services or publications, request marketing to be sent to you, enter a competition, give us feedback or otherwise contact us.
+- Automated technologies or interactions: As you interact with our website and use our services, we will automatically collect Technical Data and Usage Data.
+- Third parties or publicly available sources: We may receive personal data about you from third parties, such as our payment providers when you purchase products of services from us.
+
+Legal basis for processing your data
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+- Where we need to perform a contract we are about to enter into or have entered into with you.
+- Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+- Where we need to comply with a legal obligation.
+- Where you provide us with consent to process your data for specific purposes, in which case you will have the right to withdraw such consent at any time.
+
+Legitimate interest means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
+
+What do we use your data for
+We use your personal data in a manner which is consistent with this privacy policy as follows:
+
+- Provision of services: We use information such as your Identity Data and Contact Data to provide you with our services on the basis that such processing is necessary for the performance of a contract between you and us. This includes providing you with access to our platform, the administration of your account, billing, and notifying you of changes to our service or your account.
+- Personalising your experience: We also use your Usage Data (such as rooms you complete, how you interact during the completion of rooms, and your progress) to provide you with a personalised service, such as recommending a learning path most aligned with your goals and experience, or using automated technologies to give you personalised feedback, hints and tips when completing rooms. This processing is carried out on the basis that such processing is necessary for the performance of a contract between you and us and/or necessary for our legitimate interests.
+- Customer support: We use information such as your Identity Data, Contact Data and Usage Data to respond to your requests for assistance, such as password resets and general troubleshooting. We process your personal data on the basis that it is necessary for the performance of a contract between you and us.
+- Communications: We will use your personal data to communicate with you regarding your account and your use of our platform, such as to welcome you to the platform or confirm a subscription purchase. We process your personal data on the basis that it is necessary for the performance of a contract between you and us and/or necessary for our legitimate interests, such as to let you know about upcoming changes or improvements to our services.
+- Prize promotions and events: We will use your Identity Data, Contact Data and Usage Data to administer prize promotions and events in which you have decided to participate.
+- Monitoring, maintaining and improving our services: We use Technical Data and Usage Data for analytics and measurement to understand how our services are used by our users, to ensure that our services are working as intended, to make improvements to our services, and to develop new services such as new content, features or capabilities. We process your personal data on the basis that it is necessary for the performance of a contract between you and us and/or necessary for our legitimate interests.
+- Safety and security: We use Usage Data to protect the safety and security of our users, our platform and services. This includes using data to detect malware and malicious activities, and to monitor for violations of our terms of use, for example fraud prevention and anti-cheating during competitions. We process your personal data on the basis that it is necessary for the purpose of our legitimate interests to ensure the security and safety of our platform and services.
+- Legal and compliance: We process personal data when necessary to protect our legal rights or to comply with our legal obligations, for example if we receive a valid legal request from a regulator or law enforcement body to preserve or disclose certain information. The categories of information processed will depend on the specific scope of the relevant obligation.
+
+By default, users opt-in to receiving emails from TryHackMe about your usage, stats, and other parts of the site that you haven't used but may be interested in. You can opt out from these emails upon specific request - see our contact details for how to get in touch.
+
+How do we store your data
+TryHackMe will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information, including storing all the personal information you provide on secure servers. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We only retain collected information for as long as reasonably necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. In some circumstances we will anonymise and/or aggregate your data (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely.
+
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies. These third party sites are subject to their own privacy policies. If you have any questions about how we handle user data and personal information, feel free to contact us.
+
+Who we share your personal data with
+We do not share your personal information with companies, organisations or individuals outside of TryHackMe except in the following cases:
+
+- Certain limited user information is publicly available on our platform, such on our leaderboards and public aspects of your user profile (e.g. username, rank, badges, streak and completed rooms).
+- To trusted businesses or persons acting as service providers to help us operate and support our business, such as website and data hosting, payment processing, customer communications and product analytics. These third parties process data for us based on our instructions and in compliance with our privacy policy and any other appropriate confidentiality and security measures.
+- To our professional advisers such as lawyers, bankers, auditors and insurers.
+- To governmental, legal, regulatory, tax or similar authorities, ombudsmen, central and/or local government agencies; and/or law enforcement officials (if mandated by law and regulation or if required for the protection of our legitimate interests).
+- In connection with certain types of corporate transactions, such as in the event of a restructuring or the sale of all or a significant part of our business.
+
+International transfers
+Some of our service providers are based outside the UK so their processing of your personal data will involve a transfer of data outside the UK. Whenever we transfer your personal data out of the UK, we ensure a similar degree of protection is afforded to it, for example, by only transferring your personal data to countries that have been deemed to provide an adequate level of protection for personal data, or using specific contracts approved for use in the UK which give personal data the same protection it has in the UK.
+
+What are your data protection rights
+Under certain circumstances, you have the following rights with respect to your data:
+
+- The right to access: you have the right to request TryHackMe for copies of your personal data.
+- The right to rectification: you have the right to request that TryHackMe correct any information you believe is inaccurate. You also have the right to request our company to complete the information you believe is incomplete.
+- The right to erasure: you have the right to request that TryHackMe erase your personal data under certain conditions such as where personal data is no longer necessary in relation to the purposes for which it was collected or otherwise processed.
+- The right to restrict processing: you have the right to request that TryHackMe restrict the processing of your personal data, under certain conditions.
+- The right to object to processing: you have the right to object to TryHackMe processing your personal data, under certain conditions. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+- The right to data portability: you have the right to request that TryHackMe transfer that data that we have collected to another organization, or directly to you, under certain conditions.
+
+If you make a request, we have one month to respond to you. Occasionally it could take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. If you would like to exercise any of these rights, please contact us at our email: support@tryhackme.com.
+
+For more information on each of those rights, including the circumstances in which they apply, please contact us (see 'How to contact us' below) or see the Guidance from the UK Information Commissioner's Office (ICO) on individuals' rights.
+
+How to contact us
+If you wish to contact us please send an email to support@tryhackme.com.
+
+Changes to this privacy policy
+We may change this privacy notice from time to time - when we do we will inform you via the website.
+
+Do you need extra help?
+If you would like this notice in another format (for example: audio, large print, braille) please contact us (see 'How to contact us' above).
+
+How to complain
+Please contact us if you have any queries or concerns about our use of your personal data. We hope we will be able to resolve any issues you may have.
+
+You also have the right to lodge a complaint with the Information Commissioner using the details at https://ico.org.uk/make-a-complaint or by telephone: 0303123113.

@@ -1,0 +1,106 @@
+Privacy Policy
+University of Prince Mugrin - UPM
+
+Introduction
+UPM is committed to protecting the privacy and security of your personal information (“personal data”).
+
+This privacy policy describes how we collect and use your personal data during and after your studies with us, in accordance with the privacy regulations, such as the the Saudi PDPL and General Data Protection Regulation (GDPR), PCI DSS.
+
+It applies to all individuals who have or have had a contract for study with the UPM including all current and former undergraduates and postgraduates. It is important that you read this privacy notice, together with any other privacy policies we may provide on specific occasions when we are collecting or processing information about you, so that you are aware of how and why we are using the information. We may update this notice at any time.
+
+Data We Collect
+The information we hold about you may include, but is not limited to, the following:
+
+- Personal details such as name, address, email address, telephone number, marital status, nationality, date of birth, sex and gender identity, ID Photograph, household income, parental status.
+- Emergency contact information.
+- Education information and examination records.
+- Admissions records including information such as your test and interview scores and admission decision.
+- Visa, passport, and immigration information.
+- Fees and financial support records.
+- Supervision, teaching, and tutorial activities including engagement with online tools.
+- Feedback on course provision, services, and the student experience, collected through surveys, focus groups, and other activities.
+- Information about your engagement with the student administration and support services.
+- Information about your use of campus facilities and library facilities including borrowing and fines.
+- Information about your involvement in any college procedure, including the disciplinary procedure, academic appeals, complaints, periods of suspension, or dispensations from regulations.
+- Information about your use of our information and communications systems, including your communication preferences and your website and system interaction (cookies and similar technologies).
+- Information gathered through CCTV and building access information.
+
+How We Obtain Your Data
+We collect most of the information directly from students, through the application process and during online registration. We may also collect additional information from third parties (including colleges; former schools and higher education institutions; and government departments and agencies) or information that is in the public domain. We will collect and generate additional information about you throughout the period of your study.
+
+How We Use Your Data
+We use your data for several purposes connected with your studies, including, but not limited to:
+
+- Student admission and enrollment.
+- Teaching, academic assessment, and supervision.
+- Student administration and support services (such as career development, language development, and sports).
+- Funding and student financial support.
+- Supporting the provision of facilities and services such as access to IT facilities, libraries, accommodations, etc.
+- Support our equality responsibilities, quality assurance and planning processes.
+- Administration of procedures including in relation to discipline, complaints, appeals, academic integrity, etc.
+
+Legal Basis of Processing
+We set out below those circumstances where it is necessary for us to use your data:
+
+- Where we need to comply with a legal obligation
+- Where we have a contract with you
+- Where it is necessary to meet a task in the public interest
+- Where it is necessary to protect your vital interests or the vital interests of another person
+- Where it is necessary to meet our legitimate interests
+- Where we have your consent
+
+We process personal data for the purposes of our own legitimate interests, granted that those interests do not override any of our users’ own interests, rights, and freedoms.
+
+How We Share Your Data
+To perform our contractual and other legal responsibilities or purposes, we may, from time to time, need to share your information with the following types of organizations:
+
+Personal data may be shared with regulators in compliance with legal regulations.
+
+Personal data may be shared with external institutions or organizations that the College has collaboration or partnership agreements with.
+
+Personal data may also be shared with third parties when it is necessary to provide services to users, and/or for other legitimate interests. Third parties include service providers, professional advisors, and other members of UPM’s network.
+
+Third parties that may access personal data are fulfilling the following services: [web hosting, order/purchase fulfillment, IT and cloud services, advisory services, and other...]. These parties do [not] retain, share, or use personal data beyond the defined purpose of fulfilling the service.
+
+Where information is shared with third parties, we will seek to share the minimum amount necessary. All third-party service providers that process data on our behalf are required to take appropriate security measures to protect your data in line with our policies. We do not allow them to use your data for their own purposes. We permit them to process your data only for specified purposes and in accordance with our instructions.
+
+Where We Process Your Data
+If you are visiting our portal for [student information system] from outside Saudi Arabia, be aware you are sending personal information to our servers located in [Saudi Arania].
+
+How Long We Store Your Data
+We will only retain personal data for the duration necessary to fulfill the purposes for which it was collected. Personal data may also be retained for longer periods if it is solely for archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes. When defining the appropriate retention length, we adhere to relevant legal requirements.
+
+How We Protect Your Data
+Securing your data is a priority for us, both online and offline. We have implemented appropriate safeguards to prevent personal data from being lost, misused, accessed, altered, or disclosed by unauthorized parties.
+
+We collect credit card information when you place an order. This data is encrypted and secured throughout its transmission. Secure web access can be verified by the lock icon in your internet browser address bar and by the use of “https” at the beginning of the web address, where the “s” indicates a secure connection.
+
+Employees and third parties are provided with personal data on a need-to-know basis and are given only the minimum amount they require to complete their specific job. All employees are also subject to confidentiality agreements and undergo annual training on the proper handling of sensitive data.
+
+Procedures have been developed and tested to handle a potential data breach. These procedures are designed to ensure affected individuals and regulators are notified of the breach and damages can be minimized.
+
+Use of Cookies
+Cookies are used on [the website] for various purposes. These “cookies” are data elements stored on your hard drive that allow us to improve your usage of our website. By using a cookie to identify you, you do not necessarily need to log in with a password more than once from the same browser, saving you time when accessing our site. In addition, we use cookies for advertising products based on your usage history, storing and managing your preferences on the website, enabling content, and generally analyzing your usage. Usage of cookies may be linked to your personal data on the website. For more information.
+
+Your Rights Regarding Your Personal Data
+We aim to maintain data that is accurate and up to date. Under the circumstance that your personal data changes (e.g. moving addresses), please notify us of any changes or update your data.
+
+In certain instances, you have the legal right to the following:
+
+- Request all data we have collected about you, if any.
+- Request corrections to the personal data we have collected about you.
+- Request we delete or remove personal data when there is no legitimate need for us to continue processing it.
+- Object to the processing of personal data.
+- Request transfer of your personal data.
+- Opt out of contact with us at any time.
+- Express any concern about any data we have collected about you.
+
+To exercise these rights, please contact us via the email, mail, or phone.
+
+External Links
+On our website, you may encounter links to other websites. Be aware that we are not responsible for the content or privacy practices of these other sites. We encourage all users to read the privacy notices of any other sites that collect your personal data.
+
+Contact Information
+For any questions, concerns, or requests to exercise your rights outlined in this privacy notice, please contact us via email at [ict.helpdesk@upm.edu.sa], phone at [920000238]
+
+This privacy notice was last updated on [01/05/2026].

@@ -1,0 +1,82 @@
+Privacy Policy
+“Tawakkalna app”
+
+Article 1: Introduction:
+Tawakkalna Application aims to serve as the national super app for individuals in the Kingdom of Saudi Arabia by offering integrated services that enhance the quality of life for citizens, residents, and visitors. The Application has been developed to improve the daily user experience by providing smart and seamless services.
+
+In line with this commitment, user data is collected and processed to deliver a personalized and secure experience, in full compliance with applicable privacy protection standards. Access to Personal Data is strictly limited to the user or granted only with their explicit and prior consent, in accordance with the laws and regulations in force in the Kingdom of Saudi Arabia.
+
+Article 2: Data Collected and Collection Purpose:
+1- Directly Collected Data:
+This refers to the data entered directly by the user while using the Application, including information required to create an account. It also encompasses data provided when using services offered by service providers, for the purpose of benefiting from the services available through the Application. Service providers shall be obligated to protect and process user data in accordance with their respective privacy policies, which are made available on the service-specific pages within the Application.
+
+Data Required for Account Creation
+a. For Citizens and Residents
+National ID/Iqama Number: Used to verify the user's identity and personalize the provided services based on their information.
+Date of Birth: Used to validate the user's data and tailor the services accordingly.
+Nationality: (For residents only) Used to customize services and content in line with the user's nationality.
+
+b. For Visitors and GCC Citizens
+Passport Number: Used to verify the user's identity and personalize the provided services based on their information.
+GCC ID Number: Used to verify the user's identity and personalize the provided services based on their information.
+Date of Birth: Used to validate the user's data and tailor the services accordingly.
+Nationality: Used to customize services and content in line with the user's nationality.
+Mobile Number: Used to communicate with the user, such as sending notifications or completing required procedures.
+
+2- Indirectly Collected Data:
+This type of data is collected only after obtaining the user's explicit consent and is used to enhance the user experience, provide personalized services, and ensure seamless integration with the services embedded within the Application. The collected data includes the following:
+Device Information: Such as operating system type, device language, and browser type. This data is used to improve the performance of the Application, facilitate technical support, and address technical issues.
+Files Stored on the Device: Such as images and documents. Access to such files is requested only when necessary to upload required documents for certain government services or applications.
+Geolocation Data (GPS): Used to enable services that rely on the user's location or to identify the nearest service provider.
+
+Article 3: Data Collection Methods:
+The data required to verify the user's identity and enable access to the services provided through the Application is collected from the following sources:
+1. Direct Collection from the User:
+Data entered by the user directly when creating an account or interacting with services within the Application.
+2. Indirect Collection from Entities:
+Personal Data is obtained from Data Owner and Data Source entities, whether government or private, in accordance with the laws and regulations in force in the Kingdom of Saudi Arabia. The user's consent to use a given service shall be deemed an explicit authorization for the Tawakkalna Application Ecosystem to share the relevant data with the service provider, to the extent necessary for service delivery and in compliance with applicable legal and technical requirements.
+
+Article 4: Personal Data Use:
+Personal Data collected directly from the user or indirectly from service providers shall be used for the purpose of delivering effective and secure digital services. Such data is collected through user registration or upon the user’s consent when utilizing services. It is then processed to enable service delivery and improve the user experience. The data is stored securely using modern encryption techniques and retained only for the period necessary to fulfill its intended purpose. Once the data is no longer needed, or upon the user's request, it is securely destroyed in a manner that precludes its recovery. Personal Data shall not be shared with any third party without the user’s consent. The user retains full rights to access, modify, or request the deletion of their data.
+
+Article 5: Personal Data Storage and Destruction:
+Personal Data is stored within the Kingdom of Saudi Arabia, in a secure and trusted environment managed by the National Information Center. This data is subject to administrative, organizational, and technical protection controls that ensure its confidentiality, integrity, and protection against unauthorized access.
+
+Personal Data is retained only for the period required by applicable laws and regulations, or as necessitated by legal obligations for service delivery or fulfillment of contractual and legal requirements.
+
+Users have the right to request the deletion of their Personal Data by submitting a formal request to delete their account on Tawakkalna Application. Such requests are handled in accordance with the approved procedures. Upon the approval of such request, the user’s associated data is permanently and irrevocably destroyed and cannot be recovered after the deletion process is completed.
+
+In cases where certain data cannot be deleted, such inability stems from a legal or contractual requirement to retain such data, or the presence of a legal basis precluding its destruction. In such cases, the user may request to restrict the processing of their data or object to its use, in accordance with the provisions of the Personal Data Protection Law in the Kingdom of Saudi Arabia.
+
+Article 6: Legal Basis for Personal Data Collection and Processing:
+The collection and processing of Personal Data are founded upon the Data Subject's explicit consent. This enables the achievement of the Data Subject’s interests or objectives through the Tawakkalna Application by consolidating services from various providers into a unified platform, allowing the Data Subject to benefit from them in an automated and efficient manner.
+The Data Subject may withdraw their consent at any time, unless another legal basis prevails. To do so, they may contact the Tawakkalna Ecosystem through the communication channels specified in Article 9.
+
+Article 7: Rights of the Data Subject:
+- Right to Be Informed: The Data Subject has the right to be informed about the methods used to collect their data, the legal basis for such collection and processing, how the data is processed, stored, and destroyed, and with whom it may be shared. Full details are provided in this Privacy Policy, and further inquiries may be directed to us through the communication channels specified in Article 9.
+- Right to Access Personal Data: The Data Subject has the right to directly access and review their Personal Data.
+- Right to Obtain Personal Data: The Data Subject has the right to request a copy of their Personal Data. Requests may be submitted via the email address provided in Article 9, and the data shall be provided free of charge within seven (7) business days, through the designated method of delivery.
+- Right to Correct Personal Data: The Data Subject has the right to request the correction of any Personal Data they believe to be inaccurate, incorrect, or incomplete. Requests for correction may be submitted via the email address provided in Article 9, and the data shall be reviewed and updated within seven (7) business days, in relation to data collected through the Tawakkalna Application. For data controlled by a service provider, the Data Subject shall be informed of the relevant Data Owner Entity to whom the correction request should be addressed. The Data Subject shall also be notified of the outcome via the designated method of communication.
+- Right to Destroy Personal Data: Under certain circumstances, the Data Subject has the right to request the destruction of their Personal Data collected through the Tawakkalna Application (unless a legal provision specifies a mandatory retention period or contractual obligations apply). As for data controlled by a service provider, the Data Subject may contact the relevant entity directly to request its destruction.
+- Right to Withdraw Consent for Data Processing: The Data Subject may withdraw their consent to the processing of their Personal Data at any time, unless there are legitimate grounds that require otherwise (such as the presence of another legal basis in addition to the Data Subject’s prior consent).
+
+Article 8: Sharing/Exchange of Personal Data:
+Personal Data is shared exclusively with service providers integrated into the Tawakkalna Application, and only upon obtaining the Data Subject’s explicit consent for each specific instance of data sharing to enable the provision of the requested service. Service providers shall be strictly obligated to uphold the confidentiality of Personal Data and prohibited from using it for any other purpose or from disclosing it to any third party. This obligation is governed by each provider’s respective Privacy Policy, as detailed on the service-specific page within the Application.
+
+Article 9: Exercising the Rights of the Data Subject:
+- The Data Subject has the right to request access/correction/destruction of their Personal Data by contacting the following email address: (contact@tawakkalna.sa). Such requests shall be processed within a period of thirty (30) days. This period may be extended by a further thirty (30) days should the fulfillment of the request necessitate exceptional effort, provided that the Data Subject is duly notified of such extension.
+
+Article 10: Personal Data Protection Officer:
+- Name: Data Management Office at the Saudi Data & AI Authority (SDAIA).
+- Email: Dmo@sdaia.gov.sa
+
+Article 11: Complaints and Inquiries:
+For any complaints or inquiries related to this Privacy Policy or the handling of Personal Data, the Tawakkalna Ecosystem can be contacted via the following email address (contact@tawakkalna.sa). If no response is received within seven (7) business days, the complaint or inquiry may be escalated to the Data Management Office at SDAIA by contacting: (Dmo@sdaia.gov.sa). Should the issue remain unresolved or unanswered within another seven (7) business days, it may then be escalated to the National Data Management Office via the designated email address: (pr@ndmo.gov.sa).
+
+Article 12: Privacy Policy Updates:
+- The last update to this Privacy Policy was made on September 12, 2025.
+- The Tawakkalna Ecosystem reserves the right to add or amend any of the provisions contained within this Privacy Policy. The Tawakkalna Application shall provide notice to the Data Subject regarding any such modifications thereto. Should the Data Subject not accept any alteration to this Privacy Policy, the Tawakkalna Ecosystem reserves the right to terminate the Data Subject’s account.
+- Arabic shall be the approved language for the interpretation and application of the Terms and Conditions herein. In the event of any discrepancy in interpretation between the Arabic version and any translated version, the Arabic version shall prevail.
+
+Article 13: Website/Application Management:
+Supervising Entity of Tawakkalna Application: The Saudi Data & AI Authority (SDAIA).

@@ -1,0 +1,119 @@
+. Overview
+The Saudi National Bank (“SNB,” the “Bank,” “we,” “us,” or “our”) plays a vital role in Saudi Arabia’s financial sector by providing a wide range of services. These include retail banking services for personal accounts and loans, corporate banking and business solutions, investment and wealth management services, and Islamic banking products that comply with Sharia principles. The Bank also provides treasury services, digital banking innovations, and other financial services. For further information or assistance, please contact the Bank through the available channels listed in Section 15, “Complaints or Inquiries.”
+
+The Saudi National Bank (“SNB,” “we,” or the “Bank”) is committed to protecting your privacy and complying with the highest data protection standards, as stipulated in the Kingdom of Saudi Arabia’s Personal Data Protection Law (“KSA PDPL” or the “Law”).
+
+Personal data includes any information that specifically identifies an individual or makes them identifiable, either directly or indirectly (“Personal Data”). This may include, but is not limited to, your name, address, photograph, and other information. This Privacy Policy explains how the Bank collects, processes, and protects your Personal Data. It aims to ensure transparency in our data-handling practices and enable you to make informed decisions regarding your privacy.
+
+2. Purpose
+
+The purpose of this Policy is to provide you, our valued client (the “Client”), with clarity on how the Bank collects, uses, stores, shares, and otherwise processes your Personal Data in accordance with applicable laws and regulations. This forms an essential part of our commitment to providing personalized products and services tailored to your specific needs. The Bank ensures that your Personal Data is processed transparently and lawfully, while applying the highest comprehensive security measures to protect it against unauthorized access, disclosure, or destruction.
+
+3. Your Personal Data
+
+The Bank collects your Personal Data, including financial data, regardless of its information classification, to the extent necessary to provide personalized products and services to a high standard. This may include a range of information, including but not limited to:
+Personal information, such as your name, date of birth, home address, email address, telephone or mobile number, identification number, and other personal information, as well as your account number, credit history, income information, loan information, beneficiary information, and other financial information.
+Furthermore, we may process Personal Data relating to minors or individuals who lack legal capacity. In such cases, their parents or legal guardians will be notified, and their consent will be obtained.
+Your Personal Data may be processed through various channels, including third parties, government entities, websites, mobile applications, telephone calls, emails, chats, IP addresses, device identifiers, and other means. The purposes for which this data may be used include, but are not limited to:
+• Account Management: We may process Personal Data to manage accounts, including opening new accounts, closing, and updating accounts.
+• Transaction Processing: We may use Personal Data to process financial transactions, such as deposits, withdrawals, transfers, collections, and payments.
+• Risk Assessment and Fraud Prevention: We may analyze Personal Data to assess the risks associated with providing services to you and prevent fraudulent activities.
+• Credit Assessment: We may use Personal Data to assess clients’ creditworthiness when they apply for loans, mortgages, or credit cards.
+• Client Service: We may use your Personal Data to provide you with support, respond to inquiries, and resolve issues related to accounts and transactions.
+
+• Marketing and Promotions: Subject to your consent, we may use your Personal Data for marketing purposes, such as offering new products or promotions tailored to clients’ financial needs and preferences.
+• Compliance with Legal and Regulatory Requirements: We may retain your Personal Data to comply with various legal and regulatory requirements, including Anti-Money Laundering (AML) and Know Your Client (KYC) regulations.
+• Account Statements and Reports: We may use your Personal Data to issue account statements, reports, and other financial documents.
+• Security and Authentication: We may use your Personal Data for security purposes, including identity verification and protection against unauthorized access to accounts.
+• Research and Analysis: We may use your Personal Data for research and analysis to improve our products and services, develop new offerings, and better understand client behavior and preferences.
+• Complaint Handling and Dispute Resolution: We may use Personal Data to effectively address complaints, disputes, and inquiries.
+When we rely on consent as the lawful basis for processing (see Section 4), we will provide you with comprehensive details about the information required and its intended purpose. This enables you to make informed decisions about consenting to the processing of your Personal Data.
+You have certain rights regarding the Personal Data processed. For more information about your rights and how to exercise them, please refer to Section 9 of this Privacy Policy, as  that section provides comprehensive details about your rights and outlines the process for exercising them.
+Please note that processing your Personal Data is necessary to provide you with products or services. Failure to collect Personal Data may expose us to a wide range of risks, including regulatory noncompliance, increased fraud, limited client insights, and/or reputational damage.
+
+4. Legal Basis for Processing Personal Data
+
+The Bank will collect and process your Personal Data in accordance with the Kingdom of Saudi Arabia’s Personal Data Protection Law based on the following:
+• Consent: Where obtaining consent is legally required, including the consent of a legal guardian if the Personal Data subject has limited or no legal capacity.
+• Achieving a Clear Interest for You: Where processing achieves a clear interest for you and contacting you is impossible or difficult.
+• Compliance with a Legal Obligation: Where processing is required under applicable laws or to fulfill a legal obligation imposed on the Bank.
+• Performance of an Agreement to Which You Are a Party: Where processing is necessary to perform the agreement or take measures related to it.
+• The Bank’s Legitimate Interests: Where processing is necessary to achieve a legitimate interest of the Bank, provided that it does not prejudice your rights or interests and does not involve  sensitive  data.
+
+ 
+
+5. Disclosure
+
+As required for the purposes stated above (see Section 4), the Bank may disclose your Personal Data. Under the Kingdom of Saudi Arabia’s Personal Data Protection Law, disclosure means enabling any person other than the Bank to access, collect, or use Personal Data by any means and for any purpose.
+Your Personal Data may be disclosed, as applicable, on one or more occasions or on an ongoing basis, depending on the specified purpose. Disclosure may occur to the following parties:
+• Other subsidiaries and/or entities within SNB Group.
+• Our contractors that provide data processing, professional, or administrative services to us, such as information technology companies, etc.
+• Insurance, healthcare, legal, and other service providers.
+• Any relevant regulatory authorities, including government entities and other public bodies, etc., or other third parties as required by law or in accordance with regulatory obligations or other policies applicable to us or you.
+We may disclose your Personal Data in accordance with the Kingdom of Saudi Arabia’s Personal Data Protection Law in the following circumstances:
+• If you have provided your consent to the disclosure.
+• If your Personal Data was collected from a publicly available source.
+• If the entity requesting the disclosure is a public entity and the collection or processing of your Personal Data is required in the public interest, for security purposes, to implement another law, or to meet judicial requirements.
+• If disclosure is necessary to protect public health or public safety, or to protect the life or health of specific individuals.
+• If the disclosure will involve only subsequent processing conducted in a manner that makes it impossible to identify you directly or indirectly.
+• If disclosure is necessary to achieve our legitimate interests. In such cases, no  sensitive  data, such as health data, will be processed.
+
+6. Data Transfers
+
+We may share your Personal Data with internal parties, such as SNB entities, and external parties, such as regulatory authorities, service providers, and partners, etc. This may include data relating to children and individuals who lack legal capacity and will be limited to the extent necessary to fulfill the purposes stated above (see Section 4).
+Where permitted by law, this may involve transferring your Personal Data outside the Kingdom of Saudi Arabia. Such transfers will be conducted in accordance with the legal provisions governing cross-border transfers of Personal Data, as stipulated in the Kingdom of Saudi Arabia’s Personal Data Protection Law and other relevant laws and regulations.
+
+7. Data Security
+
+We have implemented appropriate technical measures, administrative controls, and legal safeguards to:
+• Protect your Personal Data and  sensitive  data, including data relating to children and individuals who lack legal capacity, against accidental loss, unauthorized access, misuse, alteration, or disclosure. These safeguards include access controls, network security, and communication security protocols.
+• Address any suspected breaches of your Personal Data promptly and comprehensively in accordance with legal requirements. If such a breach occurs, we will notify the Personal Data subject and the competent authority as required under the Kingdom of Saudi Arabia’s Personal Data Protection Law.
+
+ 
+
+8. Data Retention and Destruction
+
+• We will retain your Personal Data, including Personal Data relating to children and individuals who lack legal capacity, for the period required under the Kingdom of Saudi Arabia’s Personal Data Protection Law or for any other period necessary to fulfill our operational obligations. These obligations may include managing accounts, facilitating client relationship management, responding to legal claims or regulatory requests, and other related purposes.
+• All data retained within the Kingdom of Saudi Arabia is stored on the Bank’s servers. Once the specified purpose has been fulfilled, the data will be securely destroyed using approved methods and in the manner determined by the Bank in accordance with its internal policies. This may include shredding paper documents and destroying hard drives to ensure that the data cannot be recovered or accessed in any way, unless retaining Personal Data for a longer period  is necessary to comply with applicable laws or for another lawful purpose. In certain cases, data may be stored or processed outside the Kingdom in accordance with the Saudi Central Bank’s instructions, the Personal Data Protection Law, and its implementing regulations.
+
+ 
+
+9. Rights of Personal Data Subjects
+
+Under the Kingdom of Saudi Arabia’s Personal Data Protection Law, you are entitled to exercise the following rights:
+
+1. Right of Access: You may access the Personal Data and  sensitive  data we hold about you.
+2. Right to Be Informed: You have the right to be informed of the legal basis and purpose for collecting and processing your data.
+3. Right to Obtain Personal Data: You have the right to request a copy of the Personal Data we hold about you in a clear and readable format.
+4. Right to Request Correction, Completion, or Updating: You have the right to request the correction, completion, or updating of your Personal Data or  sensitive  data if you believe that any of the data we hold about you is inaccurate or incomplete.
+5. Right to Request the Destruction of Your Personal Data: You have the right to request the destruction of your Personal Data when the purpose for which it was processed no longer exists, unless there is a lawful basis for retaining it. The Bank may retain the data where required by applicable laws or regulations.
+6. Right to Withdraw Consent: While you have the right to withdraw your consent to the processing of your Personal Data, please be aware that this right may be limited or difficult to exercise in the following circumstances:
+a) If the Bank is required to retain your Personal Data or  sensitive  data under applicable laws, regulations, or other legal requirements.
+b) If processing your Personal Data or  sensitive  data is necessary to perform a contract or provide you with a service that cannot be completed without such data.
+7. Right to Submit a Complaint to the Competent Authority: You have the right to submit a complaint to the competent authority within 90 days of receiving the outcome of your request.
+8. Right to Claim Compensation for Material or Moral Damage: You have the right to seek compensation by filing a claim before the competent court if you suffer material or moral damage resulting from any violation stipulated in the Personal Data Protection Law or its implementing regulations.
+
+You may submit a request to exercise your rights by completing the Data Subject Request Form.
+
+Please note that the Bank will respond to your request within 30 days. If additional time is required, the Bank may extend this period by a further 30 days and will notify you accordingly.
+
+10. Social Media
+
+The Saudi National Bank operates across various social media platforms to inform, assist, and engage with you with the aim of improving our products and services. We kindly ask that you do not share Personal Data or  sensitive  data through our social media channels. Please note that the Saudi National Bank is not responsible for any information shared on these platforms, except for content published by our authorized employees.
+
+11. Marketing by the Bank
+
+We may use your Personal Data for marketing or advertising purposes to inform you about our products and services, subject to  the provided consent. You may ask us to stop sending you marketing communications by contacting SNB Client Service at +966 920001000 or through the Contact Us page.
+
+12. Your Use of Our Website
+
+We may use cookies solely for fraud prevention purposes. A cookie is a small piece of information stored on your computer’s hard drive that tracks your interactions with the website (“Cookies”). This allows us to detect and prevent fraudulent activities.
+
+13. Review and Updates
+
+This Privacy Policy is subject to periodic updates. It was last updated in July 2026.
+
+14. Complaints or Inquiries
+
+• For inquiries about the Bank’s Privacy Policy or to request further information, please contact us at +966 920001000.
+• If you believe that you were unable to exercise your rights regarding the processing of your Personal Data within the legally prescribed timeframe, or if you object to the outcome of your request, you may submit a complaint to the competent authority through SAMA Cares within 90 days of receiving the outcome of your request.

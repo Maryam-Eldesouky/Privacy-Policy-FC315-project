@@ -1,0 +1,298 @@
+User Privacy Policy
+Last update: 23 April 2026
+
+Summary
+
+When you use ToYou, you trust us with your information and ToYou is committed to retaining your trust and your privacy. Our commitment starts with helping you understand our privacy practices. This policy explains the information we collect, how it is used, shared, retained, protected and user choices regarding this information. By visiting ToYou, you are accepting the practices described in this policy and so we recommend our visitors and users to read this policy.
+
+Data collection and use
+
+Scope
+
+This policy applies to users of ToYou’s services anywhere in the world, including users of ToYou’s apps, websites, tools, features or other services.
+
+This policy describes how ToYou and its aﬃliates collect and use personal information to provide our services. This policy applies to all users of our services anywhere in the world where this privacy policy is referenced, regardless of how you access or use them, including through mobile devices, unless covered by a separate privacy policy. This policy speciﬁcally applies to:
+
+- Consumers: users who request or receive transport
+- Representatives: users who provide transport individually or through partner transport companies
+- Delivery consumers: users who request deliveries of food or other items
+- Delivery representatives: users who provide delivery Services
+
+This policy also applies to those who provide information to ToYou in connection with an application to use our services, or whose information ToYou otherwise receives in connection with its services (such as contact information of individuals associated with ToYou restaurant partners). All those subject to this policy are referred to as “users” for purposes of this policy.
+
+The practices described in this policy are subject to applicable laws in the places in which we operate. This means that we only engage in the practices described in this policy in a particular country or region if permitted under the laws of those places. Please contact us if you have questions on our practices in your country or region.
+
+We may change this policy at any time by posting the updated version on this site including the eﬀective date of the updated version. We will announce any signiﬁcant changes to this policy through ToYou apps, website or through other means, such as email.
+
+Data controller
+
+ToYou provides services to users throughout the world. If you use our services in the Kingdom of Saudi Arabia, Aram Meem for Trading Services LLC is the data controller for your information.
+
+If you live in the Kingdom of Saudi Arabia, the data controller for the information you provide or that is collected by ToYou or its aﬃliates is:
+Aram Meem for Trading Services LLC
+Alwaseel Tower 2, Building No. 6676, 6th Floor, Al Olaya street, Al-Olaya district
+P.O. Box 55598, Riyadh 11544, Saudi Arabia
+
+The controller of your personal information is the registered local entity in the country in which you use our services.
+
+Questions, comments and complaints about ToYou’s data practices can be submitted to ToYou’s data protection oﬃce through privacypolicyandcookiestatement@toyou.io.
+
+We process personal information inside and outside of the Kingdom of Saudi Arabia. ToYou transfers information of users outside the Kingdom of Saudi Arabia on the basis of mechanisms approved under applicable laws.
+
+The information we collect
+
+ToYou collects:
+- Information that you provide to ToYou, such as when you create your ToYou account.
+- Information created when you use our services, such as location, usage and device information.
+- Information from other sources, such as ToYou representatives and third parties that use ToYou APIs.
+
+This may include your name, email, phone number, login name and password, address, payment or banking information (including related payment veriﬁcation information), government identiﬁcation numbers, date of birth, photo and signature. This also includes representative vehicle or insurance information. This also includes the preferences and settings that you enable for your ToYou account.
+
+- Background check information: We may collect background check information if you sign up to use ToYou’s services as a representative or delivery representative. This may include information such as your driving history or criminal record (where permitted by law). This information may be collected by a vendor on ToYou’s behalf.
+
+- Demographic data: We may collect demographic information about you, including through user surveys. This includes information such as access dates and times, app features or pages viewed, app crashes and other system activity, type of browser and third-party sites or service you were using before interacting with our services. In some cases, we collect this information through cookies, pixel tags, and similar technologies that create and maintain unique identiﬁers.
+
+- Device information: We may collect information about the devices you use to access our services, including the hardware models, device IP address, operating systems and versions, software, ﬁle names and versions, preferred languages, unique device identiﬁers, advertising identiﬁers, serial numbers, device motion information, and mobile network information.
+
+- Communications data: We enable users to communicate with each other and ToYou through ToYou apps, websites and other services. For example, we enable representatives and consumers and delivery representatives and consumers to call or text each other (in some countries, without disclosing their telephone numbers to each other). To provide this service, ToYou receives some information regarding the calls or texts, including the date and time of the call/text, and the content of the communications.
+
+- Customer support call recordings: When you contact our customer support team by phone, we may record the call for quality assurance, staff training and service improvement purposes. You will be informed by an automated message at the start of the call that it may be recorded. By continuing the call, you acknowledge this notice.
+
+How we use your information
+
+ToYou collects and uses information to enable reliable and convenient transportation, delivery and other products and services. We also use the information we collect:
+- To enhance the safety and security of our users and services
+- For customer support
+- For research and development
+- To enable communications to or between users
+- To provide promotions or contests
+- In connection with legal proceedings
+
+ToYou does not sell or share your personal information to third parties for third party direct marketing purposes.
+
+ToYou uses the information it collects for purposes including:
+
+1. Providing services and features
+ToYou uses the information we collect to provide, personalise, maintain and improve our products and services. This includes using the information to:
+- Create and update your account
+- Verify your identity
+- Enable transport, deliveries and other services. This includes automated processing of your information to enable Flexible Pricing, in which the price of a trip is determined based on constantly varying factors such as the estimated time and/or distance of the predicted route, estimated traﬃc, and the number of consumers and representatives using ToYou at a given moment
+- Process or facilitate payments for those services
+- Oﬀer, obtain, provide or facilitate insurance or ﬁnance solutions in connection with our services
+- To track the progress of your trip or delivery
+- Enable features that allow you to share information with other people, such as when you submit a compliment about a representative, refer a friend to ToYou, split fares or share your ETA
+- Enable features to personalise your ToYou account, such as creating bookmarks for your favourite places, and to enable quick access to previous destinations
+- Enable Convenience features that might make it easier for users with disabilities to use our services, such as those which enable deaf or hard-of-hearing representatives to alert their consumers of their disabilities, allow only text messages from consumers, and to receive ﬂashing trip request notiﬁcations instead of sound notiﬁcations.
+- Perform internal operations necessary to provide our services, including to troubleshoot software bugs and operational problems, to conduct data analysis, testing, and research, and to monitor and analyse usage and activity trends.
+
+2. Safety and security
+We use your data to help maintain the safety, security and integrity of our services and users. This includes, for example:
+- Screening representatives and delivery representatives prior to enabling their use of our services and at subsequent intervals, including thorough reviews of background checks where permitted by law, to prevent use of our services by unsafe drivers.
+- Using information from representative’s devices to identify unsafe driving behaviour such as speeding or harsh braking and acceleration, and to raise awareness among representatives regarding such behaviours.
+- our ID check feature, which helps ensure that representatives using the app matches the ToYou account we have on ﬁle, preventing fraud and helping to protect other users.
+- Using device, location, proﬁle, usage and other information to prevent, detect, and combat fraud or unsafe activities. This includes processing of such information, in certain countries, to identify practices or patterns that indicate fraud or risk of safety incidents. This may also include information from third parties. In certain cases such incidents may lead to deactivation by means of an automated decision-making process. Users have the right to object to this type of processing; see Special information for users, Section 1, D below for more information.
+- Using user ratings to encourage improvement by aﬀected users, and as grounds for deactivating users with ratings below a certain minimum as may be required in their region. Calculation and deactivation may be done through an automated decision-making process. Users have the right to object to this type of processing; see Special information for users, Section 1, D below for more information.
+
+3. Customer support
+ToYou uses the information we collect (including recordings of customer support calls after notice to you and with your consent) to assist you when you contact our customer support services, including to:
+- Direct your questions to the appropriate customer support person
+- Investigate and address your concerns
+- Monitor and improve our customer support responses
+
+4. Research and development
+We may use the information we collect for testing, research, analysis and product development. This allows us to improve and enhance the safety and security of our services, develop new features and products, and facilitate insurance and ﬁnance solutions in connection with our services.
+
+5. Communications among users
+ToYou uses the information we collect to enable communications between our users. For example, a representative may text or call a consumer to conﬁrm a pick-up location, or a restaurant or delivery representative may call a delivery consumer with information about their order.
+
+6. Communications from ToYou
+ToYou may use the information we collect to communicate with you about products, services, promotions, studies, surveys, news, updates and events.
+ToYou may also use the information to promote and process contests, fulﬁl any related awards, and serve you relevant ads and content about our services and those of our business partners. You may receive some of these communications based on your proﬁle as a ToYou user. Users have the right to object to this type of processing; see Special information for users, Section 1, D below for more information.
+
+7. Legal proceedings and requirements
+We may use the information we collect to investigate or address claims or disputes relating to your use of ToYou’s services, or as otherwise allowed by applicable law, or as requested by regulators, government entities and oﬃcial inquiries.
+
+8. Use of data for AI model training and service improvement
+We may use and share certain personal data collected through the ToYou app for two related purposes: (a) sharing with third-party artificial intelligence providers for the purpose of training, developing and improving AI and machine learning models (“AI Training”); and (b) using your data internally to analyse, enhance and improve our products, services and user experience (“Service Improvement”). Together, these are referred to as “AI and Improvement Purposes”. Sensitive personal data as defined under applicable laws, including health data, biometric data, financial data and criminal records, will not be used for AI and Improvement Purposes. We apply pseudonymisation, aggregation and data minimisation techniques before using or sharing data for these purposes. Only the minimum data necessary for each specific AI and Improvement Purpose is used or shared. For Service Improvement purposes, data is processed internally by ToYou and its affiliates and is not shared with third parties except where strictly necessary and subject to appropriate data protection safeguards.
+
+Information sharing and disclosure
+
+Some of ToYou’s products, services and features require that we share information with other users or at your request. We may also share your information with our service providers, aﬃliates, representatives, subsidiaries and business partners, for legal reasons or in connection with claims or disputes.
+
+ToYou may share the information we collect:
+
+1. With other users
+- For example, if you are a consumer, we may share your ﬁrst name, average consumer rating given by representatives, and pick-up and/or drop-oﬀ locations with representatives. If you share your trip with another consumer, that consumer may be told your name and may see your pick-up and/or drop-oﬀ location.
+
+2. If you are a representative or delivery representative, we may share information with your consumer(s) including name and photo; vehicle make, model, colour, licence plate and vehicle photo; location; average rating provided by consumers; total number of trips; for how long you have been using the ToYou app; and contact information (depending upon applicable laws). If you choose to complete a representative proﬁle, we may also share any information associated with that proﬁle, including information that you submit and compliments that past consumers have submitted about you. The consumer/delivery consumer will also receive a receipt containing information such as a breakdown of amounts charged, your ﬁrst name, photo and a map of the route you took.
+
+3. At your request
+This includes sharing your information with:
+- Other people at your request. For example, we may share your ETA and location with a friend at your request, or your trip information when you split a fare with a friend.
+- ToYou business partners. For example, if you requested a service through a partnership or promotional oﬀering made by a third party, ToYou may share your information with those third parties. This may include, for example, other apps or websites that integrate with our APIs, vehicle suppliers, or services, or those with an API or service with which we integrate, or business partners with whom ToYou may partner with to deliver a promotion, a contest or a specialised service.
+
+4. With the general public when you submit content to a public forum
+We love to hear from our users including through public forums such as ToYou blogs, social media and certain features on our network. When you communicate with us through those channels, your communications may be viewable by the public.
+
+5. With the owner of ToYou accounts that you may use
+If you use a proﬁle associated with another party, we may share your trip information with the owner of that proﬁle. This occurs, for example, if you are:
+- A representative using an account owned by a third-party transport ToYou.
+- A consumer who takes a trip arranged by a friend or under a Family proﬁle.
+- A delivery representative acting as a substitute (U.K. only).
+
+6. With ToYou subsidiaries and aﬃliates
+We share information with our subsidiaries and aﬃliates to help us provide our services or conduct data processing on our behalf.
+
+7. With ToYou service providers and business partners
+ToYou may provide information to its vendors, consultants, marketing partners, research ﬁrms and other service providers or business partners. This may include, for example:
+- Payment processors and facilitators.
+- Background check providers (representatives and delivery representative only).
+- Cloud storage providers.
+- Marketing partners and marketing platform providers.
+- Data analytics providers.
+- Research partners, including those performing surveys or research projects in partnership with ToYou or on ToYou’s behalf.
+- Vendors that assist ToYou to enhance the safety and security of its apps.
+- Consultants, lawyers, accountants and other professional service providers.
+- Fleet partners.
+- Insurance and ﬁnance partners.
+- Airports.
+- Other local taxi providers.
+- Restaurant partners.
+- Vehicle solution vendors or third-party vehicle suppliers.
+
+8. For legal reasons or in the event of a dispute
+ToYou may share your information if we believe it is required by applicable law, regulation, operating agreement, legal process or governmental request, or where the disclosure is otherwise appropriate due to safety or similar concerns.
+This includes sharing your information with law enforcement oﬃcials, government authorities, airports (if required by the airport authorities as a condition of operating on airport property), or other third parties as necessary to enforce our Terms and Conditions/Term of Service, user agreements, or other policies, to protect ToYou’s rights or property or the rights, safety or property of others, or in the event of a claim or dispute relating to your use of our services. If you use another person’s credit card, we may be required by law to share information with that credit card holder, including trip information.
+This also includes sharing your information with others in connection with, or during negotiations of, any merger, sale of ToYou assets, consolidation or restructuring, ﬁnancing, or acquisition of all or a portion of our business by or into another ToYou.
+
+9. With your consent
+ToYou may share your information other than as described in this policy if we notify you and you consent to the sharing.
+
+Information retention and deletion
+
+- ToYou retains user proﬁle and other information for as long as you maintain your ToYou account.
+- ToYou retains transaction, location, usage and other information for 7 years in connection with regulatory, tax, insurance or other requirements in the places in which we operate. ToYou thereafter deletes or anonymises such information in accordance with applicable laws.
+- If you withdraw consent to the collection or use of personal information for optional features, such as features that use your calendar or address book, ToYou deletes such personal information.
+- Users may request deletion of their accounts at any time. Following such request, ToYou deletes the information that it is not required to retain, and restricts access to or use of any information it is required to retain.
+- ToYou requires user proﬁle information in order to provide its services and retains such information for as long you maintain your ToYou account.
+- ToYou retains certain information, including transaction, location, device and usage information, for a minimum of 7 years in connection with regulatory, tax, insurance and other requirements in the places in which it operates. Once such information is no longer necessary to provide ToYou’s services, enable customer support, enhance the user experience or for other operational purposes, ToYou takes steps to prevent access to or use of such information for any purpose other than compliance with these requirements or for purposes of safety, security and fraud prevention and detection.
+- If you are an iOS user, you may request deletion of your account at any time within the ToYou app by tapping on More > User’s Proﬁle > Delete Account. Android users may request deletion of their accounts at any time by emailing us at privacypolicyandcookiestatement@ToYou.io.
+- Following such requests, ToYou deletes the information that it is not required to retain. Any amount in the user’s ToYou wallet balance will be lost following account deletion. In certain circumstances, ToYou may be unable to delete your account, such as if there is an outstanding credit on your account or an unresolved claim or dispute. Upon resolution of the issue preventing deletion, ToYou will delete your account as described above.
+- ToYou may also retain certain information if necessary for its legitimate business interests, such as fraud prevention and enhancing users' safety and security. For example, if ToYou shuts down a user's account because of unsafe behaviour or security incidents, ToYou may retain certain information about that account to prevent that user from opening a new ToYou account in the future.
+
+Special information for users
+
+This section summarises ToYou’s grounds for processing personal information and the rights of users as relates to ToYou’s handling of personal information. This section provides information as relates to users’ rights and ToYou’s responsibilities.
+
+1. User rights
+If you are a ToYou user, you have the following rights with respect to ToYou’s handling of your personal information. To exercise these rights, please see below or submit your request to privacypolicyandcookiestatement@ToYou.io.
+Users may also request explanation, correction, deletion or copies of their personal data through privacypolicyandcookiestatement@toyou.io.
+
+A. Explanation and copies of your data 
+- You have the right to request an explanation of the information that ToYou has about you and how ToYou uses that information.
+- You also have the right to receive a copy of the information that ToYou collects about you if collected on the basis of consent or because ToYou requires the information to provide the services that you request.
+
+B. Correction
+If ToYou has information about you that you believe is inaccurate, you have the right to request correction of your information. Please see the section titled “Explanation, copies and correction” below for more information on correcting, or requesting correction of, your information.
+
+C. Deletion
+iOS users may request deletion of their accounts at any time within the ToYou app as described in the “Information retention & deletion” section above. Android users may request deletion of their accounts at any time by emailing us at the email address set out above. We may retain certain information about you as required by law and for legitimate business purposes permitted by law.
+Please see the “Information retention & deletion” section above for more information regarding ToYou’s retention and deletion practices.
+
+D. Objections and complaints
+EU users have the right to object to ToYou’s processing of personal data, including for marketing purposes based on proﬁling and/or automated decision-making. ToYou may continue to process your information notwithstanding the objection to the extent permitted under applicable regulations.
+
+2. Grounds for processing
+ToYou processes the information of users based on one or more of the grounds below:
+A. This processing is necessary to provide the services and features you request
+- ToYou must collect and use certain information in order to provide its services. This includes:
+- User proﬁle information that is necessary to establish and maintain your account, including to verify your identity; enable communications with you about your trips, orders and accounts; and to enable you to make or receive payments.
+- Background check information necessary to enable representatives to provide transportation services through the ToYou app.
+- Representative location information, which is necessary to match representatives with consumers and to track trips while in progress and suggest navigation.
+- Transaction information, which is necessary to generate and maintain in connection with your use of ToYou’s services.
+- Usage information, which is necessary to maintain, optimise and enhance ToYou’s services, including to determine, sometimes in combination with other information, incentives, connect consumers and representatives, and calculate costs of trips and representative payments.
+- Collection and use of this information is a requirement for using ToYou’s apps.
+
+B. The processing is necessary to protect the vital interests of our users or of others
+ToYou may process personal information, including disclosing data to law enforcement authorities in case of threats to the safety of users or of others.
+
+C. The processing is necessary for ToYou’s legitimate interests
+- ToYou collects and uses personal information to the extent necessary for its legitimate interests. This includes collecting and using information:
+- To maintain and enhance our users' safety and security. For example, we collect background check information (where permitted by law) to prevent unsafe users from providing services through our apps. We also use personal information to prevent use of our services by users who have engaged in inappropriate or dangerous behaviour, such as by retaining information of banned users to prevent their use of ToYou’s apps. We also use usage information to prevent matching of consumers and representatives for whom there is higher risk of conﬂict (e.g. because they have been the subject of prior complaints from other users).
+- To prevent, detect and combat fraud in connection with the use of our services. For example, ToYou uses user proﬁle, location, device and usage information to identify and prevent circumstances when users attempt to defraud ToYou or other users.
+- To inform law enforcement oﬃcials regarding criminal acts or threats to public safety.
+- To provide customer support.
+- To optimise our service and develop new services. This includes, for example, identifying the best pick-up/drop-oﬀ locations, recommending (new) features, improving navigation, enhancing pricing and matching consumers and representatives or delivery consumers and delivery representatives.
+- For research and analytical purposes. This includes, for example, analysing usage trends to improve the user experience and enhance the safety and security of our services.
+- For direct marketing purposes. This includes, for example, analysing data to identify trends and tailor marketing messages to user needs.
+- To enforce ToYou’s Terms of Service.
+
+D. The processing is necessary for the legitimate interests of other persons or parties
+- ToYou collects and uses personal information to the extent necessary for the interests of other persons or the general public. This includes sharing information in connection with legal or insurance claims, to protect the rights and safety of others.
+- ToYou may also process personal information when necessary in regard to a substantial public interest, on the basis of applicable laws.
+
+E. The processing is necessary to fulﬁl ToYou’s legal obligations
+- ToYou is subject to legal requirements in the jurisdictions in which it operates that require us to collect, process, disclose and retain your personal data. For example, ToYou is subject to laws and regulations in many cities and countries that require it to collect and retain information about your trips, to retain such information for extended periods of time, and to provide copies of such information to governmental or other authorities. ToYou uses your information to comply with such laws to the extent they apply to your use of the ToYou apps.
+- ToYou may also share information with law enforcement, or requests by third parties pursuant to legal processes. For more information about such sharing.
+
+Consent
+- ToYou may collect and use your information on the basis of your consent. You may revoke your consent at any time. If you revoke your consent, you will not be able to use any service or feature that requires collection or use of the information we collected or used on the basis of consent.
+- ToYou relies on consent in connection with data collections or uses that are necessary to enhance the user experience, to enable optional services or features, or to communicate with you. The following types of data are collected or used on the basis of user consent.
+- Location information (consumers)
+- Share live location (consumers)
+- Notiﬁcations: Account and trip updates
+- Notiﬁcations: Discounts and news
+- Address book/contacts
+- Calendar syncing
+- Accessibility features
+- Please see the choice and transparency section below for further information about these types of data collection and use, how to opt in or out of them, and the eﬀect of opting out of these on your use of ToYou’s apps.
+- ToYou may also collect personal information about you through voluntary surveys. Your responses to such surveys are collected on the basis of consent and will be deleted once no longer necessary for the purposes collected.
+
+Choice and transparency
+
+ToYou provides means for you to see and control the information that ToYou collects, including through:
+- in-app privacy settings
+- device permissions
+- in-app ratings pages
+- marketing opt-outs
+- You may also request that ToYou provide you with explanation, copies or correction of your data.
+
+The privacy prompts in the ToYou app gives users the ability to set their location and contact sharing preferences, and their preferences for receiving mobile notiﬁcations from ToYou. Information on these settings, how to set or change these settings, and the eﬀect of turning oﬀ these settings is described below.
+
+- Location information
+- ToYou uses device location services to make it easier to get a safe, reliable trip whenever you need one. Location data helps improve our services, including pick-ups, navigation and customer support.
+- You may enable/disable or adjust ToYou’s collection of representatives location information at any time through the Privacy settings menu of the ToYou app or via the settings on your mobile device. You may use the ToYou app if you have not enabled location sharing, but it may be more diﬃcult for your driver to locate you.
+- Notiﬁcations: Account and trip updates
+- ToYou provides users with trip status notiﬁcations and updates related to your account. These notiﬁcations are a necessary part of using the ToYou app and cannot be disabled.
+- Notiﬁcations: Discounts and news
+- ToYou may send you push notiﬁcations about discounts and news through ToYou app or your registered email.
+- Address book/contacts
+- You may enable ToYou to periodically sync with the address book/contacts information on your mobile device and store your contact information on our servers. This includes the names, phone numbers, emails addresses and other information that you store in your address book contacts. This information is necessary to enable features such as fare splitting, sharing your trip status and making personalised recommendations for you and other consumers.
+- You may enable/disable contact syncing at any time via the Privacy settings menu in the ToYou app. If you disable contact syncing, you will not be able to use features that use your contacts' information.
+- Calendar syncing
+- You may enable ToYou to access and store the calendar data on your mobile device. Your calendar data might include event titles; responses (yes, no, maybe); start and end time of event; associated location descriptions; and number of attendees. We use this information to suggest destinations based on your calendar events and to customise your ToYou experience.
+
+A. DEVICE PERMISSIONS
+- Most mobile platforms (iOS, Android, etc.) have deﬁned certain types of device data that apps cannot access without your consent. These platforms have diﬀerent permission systems for obtaining your consent. The iOS platform will alert you the ﬁrst time the ToYou app wants permission to access certain types of data and will let you consent (or not consent) to that request. Android devices will notify you of the permissions that the ToYou app seeks before you ﬁrst use the app. Your use of the app constitutes your consent.
+
+B. RATINGS LOOK-UP
+- After every order, delivery consumers may be able to rate delivery representative, as well as give feedback on how the order went.
+- Your delivery representative rating is available once a delivery representative is assigned to that order.
+
+C. EXPLANATIONS, COPIES AND CORRECTION
+You may request:
+- Receiving a copy of the information ToYou has collected about you.
+- Request correction of any inaccurate information that ToYou has about you.
+You can make these requests by contacting ToYou at privacypolicyandcookiestatement@ToYou.io.
+You can also edit the name, phone number and email address associated with your account through the Settings menu in ToYou’s apps. You can also look up your trip, order and delivery history in the ToYou apps.
+
+D. MARKETING OPT-OUTS
+You may opt out of receiving promotional emails from ToYou by submitting a request by email to privacypolicyandcookiestatement@ToYou.io. You may also opt out of receiving emails and other messages from ToYou by following the instructions in those messages. Please note that if you opt out, we may still send you non-promotional messages, such as receipts for your trips or information about your account.
+
+Updates to this policy
+
+We may occasionally update this policy and if we make signiﬁcant changes, we will notify you of the changes through the ToYou apps or through other means, such as email. If you use our services after an update, you consent to the updated policy.
+We encourage you to periodically review this policy for the latest information on our privacy practices.
+
+-END OF PRIVACY POLICY-
+version: A7kdm39xP2qwe8Lm1zNc5vRt6yUi3oPa9sDf4GhJ

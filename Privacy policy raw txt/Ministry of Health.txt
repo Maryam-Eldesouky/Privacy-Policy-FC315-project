@@ -1,0 +1,91 @@
+Privacy and Information Confidentiality
+
+Introduction:
+The Ministry of Health (MoH) in the Kingdom of Saudi Arabia is committed to protecting the privacy and security of individuals’ personal data in alignment with all applicable laws and regulations, especially the Personal Data Protection Law (PDPL), issued by Royal Decree No. (M/19) dated 09/02/1443H and its amendments.
+
+This policy outlines how the MoH collects, uses, stores, and protects personal data. It also explains data subjects' rights and how they can exercise those rights, aiming to strengthen transparency and trust between the Ministry and its beneficiaries.
+
+This policy applies to all individuals whose personal data is collected through MoH services, including citizens, residents, and visitors. It covers data collected directly or indirectly through MoH platforms, health applications, and physical or electronic transactions at MoH facilities.
+
+Types of Personal Data Collected
+To deliver healthcare services, the MoH collects various types of personal data. These include:
+- Personal Information: Full name, date of birth, nationality, national ID number, gender, emergency contact.
+- Contact Information: Home address, phone numbers, email.
+- Family Information: Marital status, spouse and children details (where medically relevant).
+- Health Information: Medical records, diagnoses, treatment plans, prescriptions, vaccination records, public health program participation, Hajj and Umrah health services.
+- Financial Information: Payment records, bank details, insurance data, and payer information.
+- Professional Information: Data related to healthcare providers, certifications, qualifications, and professional experience.
+- Sensitive Data: Health-related records or data that indicate an individual’s health condition.
+- Digital Interactions: Service preferences, website and platform usage analytics.
+
+How We Collect and Use Your Personal Data:
+Data is collected through various channels depending on the service:
+- Directly via forms, mobile applications, or digital platforms when registering or interacting with MoH services.
+- Indirectly via other entities that share data for health-related purposes.
+
+Purposes include:
+- Delivering healthcare services, consultations, and prescriptions.
+- Managing large gatherings (e.g., Hajj, Umrah).
+- Fulfilling legal and regulatory obligations.
+- Public health protection and disease monitoring.
+- Managing payments, insurance claims, and financial services.
+- Conducting medical research and education.
+- Coordinating healthcare services and hospital operations.
+- Communicating with patients about appointments and treatments.
+- Ensuring the security and integrity of healthcare systems and information.
+
+Legal Basis for Processing:
+The MoH processes personal data based on the following legal grounds under the PDPL:
+- Contractual Obligation: When required to deliver healthcare services.
+- Legal Compliance: For meeting legal or regulatory requirements.
+- Public Interest: When necessary to protect public health or control epidemics.
+- Vital Interests: To preserve an individual’s life or health.
+- Legitimate Interest: For lawful and justifiable purposes that do not compromise individuals’ rights.
+- Consent: Explicit consent for sensitive or specialized treatments.
+
+Processing Activities:
+The Ministry only processes personal data for the purposes for which it was collected:
+- Collection: Through secure systems and platforms.
+- Storage: In MoH data centers or through authorized cloud service providers.
+- Usage: To deliver services, improve performance, and support analysis.
+- Sharing: With authorized entities and service providers when necessary.
+- Destruction: Secure deletion or anonymization once data is no longer required.
+
+Data Sharing and Disclosure:
+Personal data may be shared under specific conditions with:
+- Healthcare Providers: To facilitate treatment or related services.
+- Regulatory Authorities: For legal reporting or public health functions.
+- Third-Party Contractors: For administrative purposes with strict compliance safeguards.
+- Any data transfers outside Saudi Arabia will be governed by the PDPL and its executive regulations.
+
+Data Retention and Destruction:
+Personal data will be securely retained on servers at MoH or its approved service providers. Retention periods comply with legal and operational requirements. After these periods, data will be securely deleted or anonymized to prevent recovery.
+
+Your Rights:
+Under the PDPL, you have the following rights:
+- Right to Know: How your data is used and under what legal basis.
+- Right to Access: Receive an electronic copy of your personal data (PDF or similar format) by contacting 937 or through the health portal.
+- Right to Rectification: Correct inaccurate or incomplete personal data.
+- Right to Erasure: Request deletion of personal data when no longer needed.
+- Right to Withdraw Consent: Revoke your consent at any time (unless lawful grounds remain).
+- Right to Complain: Submit complaints to the Saudi Data and Artificial Intelligence Authority (SDAIA) if unsatisfied with how your data is handled.
+
+Complaints and Objections:
+The Ministry of Health treats complaints about data privacy seriously and transparently. You can:
+- Call 937 (24/7), or
+- Email the designated privacy mailbox.
+Complaints will be addressed within 15 working days. If unresolved, you may escalate the complaint to SDAIA.
+
+Data Protection Officer (DPO):
+The MoH has appointed a Data Protection Officer to ensure compliance with the PDPL. The DPO:
+- Offers advice and oversight on all personal data-related activities.
+- Ensures all operations align with legal requirements.
+- Reports to senior management and can escalate concerns to leadership.
+- Supports accountability and transparency in all data handling.
+
+To contact the DPO
+
+Policy Review and Updates
+This Privacy Policy is published on the MoH website and will be updated regularly to reflect legal or operational changes. The latest update date will be displayed at the top of the policy.
+
+Last Update : 27 September 2026 10:21 AM

@@ -1,0 +1,149 @@
+Jarir Marketing Privacy Policy
+
+1. Introduction
+
+At Jarir Marketing, we hold the privacy of our valued customers in the highest regard and have always maintained an unwavering commitment to the utmost protection of their personal data. In alignment with the Kingdom of Saudi Arabia's Personal Data Protection Law (PDPL) and other relevant data protection standards, this Privacy Policy outlines our careful and well-established practices concerning the collection, use, and safeguarding of personal information. By using any of our services, you acknowledge and accept our Privacy Policy.
+
+2. Definitions
+
+For the purposes of this policy, the following terms are used:
+
+Personal Data Protection Law (PDPL): Saudi Arabia's legal framework for the collection, processing, and protection of personal data, ensuring privacy rights and compliance by organizations.
+Personal Data: Any information relating to an identifiable individual, either directly or indirectly, such as a name, email address, phone number, or any other identifying details.
+Processing: Any operation performed on personal data, including but not limited to collection, use, storage, modification, or disclosure of the data.
+Data Subjects: Individuals whose personal data is collected, stored, or processed by an organization. This typically includes customers, employees, or other individuals interacting with the organization.
+Anonymization: The process of irreversibly altering personal data so that an individual can no longer be identified, either directly or indirectly. Once data has been anonymized, it cannot be re-identified and is no longer considered personal data under the Personal Data Protection Law (PDPL).
+
+3. Data Controller Information
+
+Jarir Marketing Company is the data controller responsible for determining the purposes and means of processing your personal data under this Privacy Policy.
+
+Data Controller: Jarir Marketing Company
+Head Office: Olaya Street, Jarir Plaza Building, P.O. Box 3196, Riyadh 11471, Kingdom of Saudi Arabia
+Privacy Contact:
+
+4. Data Collection
+
+We collect personal data that you provide to us directly, as well as data generated when you use our services or visit our premises, through the following interactions:
+
+Purchasing our products and services: When you place an order or make a purchase.
+Registering for or using our online services: When you create an account, log in, or browse and use our website, applications, or other digital platforms.
+Customer care services: When you contact us through our communication channels with inquiries, requests, or support needs related to your account, orders, and services.
+Newsletters, forms, and surveys: When you subscribe to our newsletter, fill out forms, or take part in surveys.
+CCTV monitoring: When you visit our premises where CCTV systems are used for security and safety purposes.
+Job applications: When you apply for job opportunities through our digital platforms or other channels.
+
+5. Personal Data We Collect
+
+Depending on how you interact with us, we may collect the following categories of personal data:
+
+Identity Information: Name, nationality (where required), and identification information (where legally required).
+Contact Information: Mobile number, email address, address, and delivery information.
+Transaction Information: Purchase history, orders, payment transaction records, and warranty and service information.
+Technical Information: IP address, device information, browser information, application usage information, and cookies and similar technologies.
+Customer Service Information: Communication records, complaints, requests, and feedback.
+Employment Information: Resume/CV information, qualifications, and employment application details.
+CCTV Information: Images and recordings captured within Jarir premises for security purposes.
+
+We do not intentionally collect sensitive personal data unless required by law or necessary to provide a specific service.
+
+You may choose not to provide your personal data. However, where the information is necessary to process a purchase, arrange delivery, handle a return or refund, provide a requested service, or meet applicable legal requirements, we may be unable to complete the relevant transaction or service without it.
+
+6. Legal Basis for Processing Personal Data
+
+We process your personal data on the following legal bases, ensuring full transparency and alignment with applicable regulations:
+
+Your consent: Where required, such as when you subscribe to receive personalized marketing communications or offers.
+Contractual necessity: To fulfill requested services / transactions.
+Compliance with legal obligations: To adhere to Saudi Arabian law, such as maintaining accurate records for tax purposes or responding to lawful governmental requests.
+Legitimate purpose: To be able to serve you, include enhancing your customer experience by improving our products, services, and personalized offerings, while ensuring these interests are aligned with your rights and expectations.
+
+7. Purpose of Data Processing
+
+We process your personal data to deliver an exceptional and personalized experience with your consent where applicable. Our purposes for processing include:
+
+Ensuring compliance with legal requirements.
+Maintaining the integrity of our terms and policies.
+Executing requested products & services.
+Maintaining communication regarding your account, transactions, inquiries, subscribed services, requested repairs, or other customer service-related matters.
+Conducting aggregated data analysis to serve you better.
+Administering contests, surveys, or other site features to execute the required services/transactions with better experience.
+Sending you exclusive marketing communications and personalized offers, including targeted advertising designed to reflect your preferences.
+Processing and evaluating employment applications submitted through our platforms or other approved channels, ensuring fair consideration for relevant opportunities.
+
+8. Data Sharing and Disclosure
+
+We share your personal data with third parties solely when it is essential for delivering our services to you, complying with legal obligations, or safeguarding our rights. This may involve sharing your information with:
+
+Trusted payment processors to facilitate transactions.
+Logistics providers manage deliveries.
+Communication & Marketing service providers send you essential transactional updates regarding your account or purchases and offers. And with your consent, to send you tailored offers, engage with you, and provide a personalized experience.
+Warranty authorized service providers to fulfil requested warranty repairs.
+
+In all cases, we ensure that third parties process your data only for intended purposes, in compliance with privacy laws, and with safeguards in place. We may also disclose your data to meet current and future legal obligations, such as responding to governmental requests or legal proceedings, in line with the PDPL.
+
+9. Data Storage, Retention & Security.
+
+We take your data security seriously, implementing robust technical and organizational measures to protect against unauthorized access, alteration, disclosure, or destruction. Our website is regularly scanned for vulnerabilities, and sensitive information, including credit card details, is encrypted using Secure Socket Layer (SSL) technology. Personal data is stored behind secure networks, accessible only by authorized personnel who are required to maintain confidentiality. Transactions are securely processed through a gateway provider and are not stored on our servers.
+
+We retain your personal data for the period necessary to fulfill the purposes for which it was collected as per our retention policy, or as required by applicable laws and regulations. When your data is no longer required for these purposes and when the legal retention period expires, we will take appropriate measures to either securely delete or anonymize your personal data, ensuring it can no longer be identified or accessed. If we transfer your personal data across borders, we ensure that these transfers comply with all applicable legal requirements. We implement adequate safeguards, such as contractual agreements with service providers, to protect your data during the transfer.
+
+10. Data Subject Rights
+
+At Jarir Marketing, we prioritize your privacy and ensure you can exercise your rights under the Personal Data Protection Law (PDPL), which include:
+
+Right to Be Informed: To know how your data is collected, processed, and shared, as detailed in our Privacy Policy.
+Right to Access: You can request access to your data and receive a copy.
+Right to Rectification: If your data is inaccurate or incomplete, you can update your records through your account or you can submit a request, and we will promptly update our records.
+Right to Erasure: You can request the deletion or anonymization of your data if it is no longer needed or legally required to be retained.
+Right to Withdraw Consent: You can withdraw consent at any time, and we will stop processing your data unless another legal basis applies.
+
+Exercising Your Rights
+
+To exercise your rights, please access our designated Data Rights Request Form through the following link: . Jarir will verify requests for security purposes and respond within legally required timelines required by law, ensuring your data is handled securely and in compliance with the PDPL.
+
+Handling Data Subject Requests
+
+When you exercise your rights, we will promptly acknowledge your request and process it within 30 days. If your request is complex or requires verification, we may extend this by an additional 30 days, as allowed by law, and will inform you of the delay. All requests are handled securely and in compliance with legal obligations
+
+Managing Your Consent Settings
+
+To manage your communication preferences, you can visit our Communication Preferences and Privacy Center within your account. Here, you can easily update your consent settings, including how you receive marketing communications.
+
+If you do not have an account, you can still manage your communication preferences by visiting this link: .
+
+11. Children's Privacy
+
+We do not knowingly collect or process personal data from individuals under the age of 16. If you are a parent or guardian and believe that your child has provided us with personal data, please contact us immediately. We will take prompt action to review the request and, where applicable, ensure the data is securely deleted or anonymized in compliance with the Personal Data Protection Law (PDPL).
+
+12. Cookie Consent
+
+Cookie consent refers to the permission you grant for our website to store or retrieve information on your device, primarily using cookies. This information enables us to understand your preferences, elevate your browsing experience, and provide services tailored specifically to you.
+
+Upon your first visit to our website, you will be prompted to provide consent for the use of cookies, except for function cookies, which are essential for the website's seamless operation and do not require consent. You can customize your preferences for other categories of cookies, such as marketing, preferences, measurement, and social media cookies.
+
+To manage or update your cookie preferences at any time, simply click on the icon located at the bottom left of the website or the application. This will provide you with access to our Cookie Settings page, where you can adjust your consent or revoke it for any non-essential cookies.
+
+13. Types of Cookies We Use
+
+We utilize different categories of cookies and similar technologies on our website to enhance functionality, improve your experience, and deliver personalized content:
+
+Function Cookies: These cookies and similar technologies are strictly necessary to operate the website or deliver the services you have requested from us. They do not require consent and cannot be deactivated, as they ensure the website functions properly.
+Marketing Cookies: These cookies and similar technologies help us deliver personalized advertisements and marketing content tailored to your interests, while also allowing us to measure the effectiveness of our campaigns.
+Preferences Cookies: These cookies and similar technologies enhance your user experience by remembering your preferences, providing personalized functionality, and ensuring a more tailored browsing experience.
+Measurement Cookies: These cookies and similar technologies enable us to measure the number of visitors to our website and analyze how users interact with our services. This helps us make data-driven improvements to our website's performance and usability.
+Social Media Cookies: These cookies and similar technologies allow you to engage with external content, networks, and platforms, facilitating social interactions and sharing of our content across your social media channels.
+
+Also, we use a 'Cookie Policy' cookie to store your consent preferences, including the domain, duration, and your selected cookie categories.
+
+14. Changes to the Privacy Policy
+
+We may update this Privacy Policy to reflect changes in our business practices, services, legal obligations, or to enhance the protection of your personal data. Any updates will be posted on this page.
+
+15. Complaints and Dispute Resolution
+
+If you have any concerns regarding the handling of your personal data, we encourage you to contact us at . We are committed to addressing your concerns promptly and effectively. Should you feel that our response does not meet your expectations, you have the right to escalate your complaint to the Saudi Data & Artificial Intelligence Authority (SDAIA).
+
+16. Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy or how we manage your personal data, please feel free to reach out to us at . We are here to assist you and ensure your privacy is protected.

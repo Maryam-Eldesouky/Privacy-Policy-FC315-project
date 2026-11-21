@@ -1,0 +1,136 @@
+Privacy Policy
+
+Last updated: May 30, 2025
+
+Welcome to Keeta! We value your trust and are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and protect your personal data when you visit our website or use our services. By using our website or services, you agree to, or depending on your jurisdiction, acknowledge, the terms of this Privacy Policy.
+
+Our website and services are provided and operated by KEETA TECHNOLOGIES PTE. LTD., with its registered address at 8 Wilkie Road #03-01 Wilkie Edge Singapore 228095 (“Keeta”, “we” or “us”).
+
+1. What Information We Collect
+
+We collect personal data and business-related information that you voluntarily provide to us or that we collect automatically when you interact with our websites and services. The specific types of information we collect depend on how you engage with Keeta (e.g., as a business partner, delivery partner, or website visitor) and may include:
+
+- Identity and Contact Information: Full name, email address, phone number (including WhatsApp), city or region of operation, and contact details provided by merchants or delivery partners when registering or expressing interest in partnering with Keeta.
+- Business and Professional Information: Business name (e.g., restaurant or 3PL partners), business registration number (e.g., CNPJ), business or store address, and the number of delivery personnel (for 3PL partners).
+- Location Information: Geolocation data when location services are enabled on your device, and declared city or service region during using our service.
+- Operational and Logistics Information: Type of delivery vehicle (e.g., bike, scooter, car), and assigned delivery zone or area.
+- Technical and Usage Information: IP address, device identifiers, browser type and settings, access times, pages viewed, and usage data related to interactions with our website or services.
+- Communications and Support Data: Records of inquiries, feedback, or communications through online forms, support channels, or partner onboarding.
+
+2. How We Use Your Information
+
+We use the personal data and business information we collect for the following purposes:
+
+Business Development and Partnership Management: To manage and follow up on merchant partnership inquiries, 3PL recruitment, and freelancer onboarding, ensuring effective collaboration and support. Data used: Identity and Contact Information; Business and Professional Information; Communications and Support Data.
+
+Providing and Improving Our Services: To operate our platform, manage accounts, and provide the services you request, including delivery services, merchant registration, and logistics coordination. Data used: Identity and Contact Information; Business and Professional Information; Operational and Logistics Information; Technical and Usage Information; Location Information.
+
+Communication: To send updates, offers, and important notices related to our services, respond to inquiries, feedback, or questions, and follow up on business development and partnership opportunities. Data used: Identity and Contact Information; Communications and Support Data.
+
+Service Optimization and Personalization: To enhance your experience, analyze platform usage, and improve our services based on how you interact with the platform. Data used: Technical and Usage Information; Operational and Logistics Information.
+
+Compliance with Legal Obligations: To comply with applicable laws and regulations and protect our legal rights and interests. Data used: Identity and Contact Information; Business and Professional Information; Operational and Logistics Information; Location Information.
+
+Security and Fraud Prevention: To monitor and secure the platform, detect fraud, and prevent unauthorized activities. Data used: Technical and Usage Information; Identity and Contact Information; Location Information.
+
+3. How We Use Cookies and Similar Technologies
+
+Cookies are small text files stored on your browser or device. Cookies allow us to recognize your preferences in order to tailor our pages and services to your specific needs. Some information is saved in these text files so that, when you visit our pages again, your browser or device is recognized and configured according to your previous preferences.
+
+Cookies usually have an expiration date. Some cookies, for example, are automatically deleted when the browser is closed, while others may be stored on the device for a longer period until they are manually deleted.
+
+We may use the following types of cookies under this Policy:
+
+- Strictly necessary cookies, to ensure our pages or services function properly, such as authenticating logins. If you wish to continue accessing our pages or services, it will not be possible to refuse these types of cookies;
+- Analytics cookies, to improve the content of our pages or services by providing information about how they are used and how often they are visited;
+- Functionality cookies, to store information you previously provided, such as your language preferences, in order to enhance your browsing experience;
+- Marketing cookies, to allow us to display advertisements that are more relevant to your interests, avoid showing you the same ads repeatedly, and optimize the delivery of our promotional content.
+
+If you wish to refuse the installation of these cookies on your device or opt to remove cookies, you can do so through your browser settings. For more information on how to configure cookie usage in your browser, please refer to the website of your browser’s developer.
+
+It is important to clarify that we are not responsible for the use of cookies by third parties. Cookies placed by third parties may continue to track your online activities, so we recommend regularly managing the cookies installed in your browser.
+
+4. How We Share Your Information
+
+We may share your personal data and business information under the following circumstances:
+
+- Service Providers: We may share your information with third-party service providers who assist us in providing and improving our services. For example, we use Google Forms to gather business inquiries or customer feedback. These providers are obligated to protect your information and use it only for the purposes for which it was shared.
+- Affiliates and Subsidiaries: We may share your information with our affiliates or subsidiaries for purposes such as service optimization, internal operations, and ensuring consistent user experience across our platforms.
+- Corporate Transactions: We may disclose or transfer your information in connection with any actual or contemplated merger, acquisition, sale of company assets, financing, corporate restructuring, or similar event. In such cases, we will take appropriate measures to ensure that your information continues to be handled in accordance with this Privacy Policy and applicable data protection laws.
+- Legal and Regulatory Disclosure: We may disclose your information to law enforcement agencies, regulatory authorities, government bodies, courts, or other third parties where we believe it is necessary or appropriate to comply with applicable laws, regulations, court orders, or legal processes, or pursuant to any commercial arrangement (including with card networks or payment processors).
+
+5. Where We Store Your Information
+
+Your information may be stored and processed on servers located in jurisdictions outside the one where you reside, including, but not limited to, Germany, Saudi Arabia, and Hong Kong. As data protection laws vary across jurisdictions, with some offering different or lower levels of protection, we apply the safeguards described in this Privacy Policy and in the applicable data protection law to keep your personal data secure regardless of the location of processing.
+
+Where required by applicable laws, we will ensure an adequate level of protection for your personal data when it is transferred internationally. This may include entering into data transfer agreements incorporating standard contractual clauses, conducting transfer impact assessments, obtaining your consent, or implementing other safeguards recognized under applicable data protection regulations. In all cases, we will ensure that any such transfers comply with the requirements of relevant laws and are subject to appropriate protections. If you do not wish for your personal data to be transferred to, processed, accessed, or stored in jurisdictions outside your country, you should refrain from using our services.
+
+6. Your Rights and Choices
+
+You have certain rights and choices regarding your personal data, subject to local laws and regulations. These may include the right to access, delete, update, or rectify your data, to be informed of the processing of your data, to file complaints with authorities, and potentially other rights. To exercise these rights or for any questions about your personal data, please contact us at email.dpo@keetainc.com. We will respond to your requests in accordance with applicable laws and within a reasonable timeframe.
+
+7. How Long We Keep Your Data
+
+We retain your personal data only for as long as necessary to fulfill the purposes described in this Privacy Policy, unless there is another legitimate reason for its retention, such as compliance with legal, regulatory, or contractual obligations, among other circumstances permitted by law or justified by public interest. Retention periods vary based on the specific processing purposes and circumstances. Upon expiration of the retention period, we will securely delete or anonymize your personal data in accordance with applicable legal requirements.
+
+8. Information Relating to Children
+
+We do not seek or knowingly collect any personal data about children under the legal age of consent in the applicable jurisdiction. If you learn that anyone younger than legal age of consent has unlawfully provided us with their personal data in relation to our services, please contact us and we will make commercially reasonable efforts to delete such information from our database.
+
+9. How We Protect Your Data
+
+We implement appropriate technical, administrative, and physical safeguards to protect your personal data from loss, misuse, unauthorized access, disclosure, alteration, and destruction. However, no method of transmission or storage over the Internet is completely secure. If you suspect that your personal data has been compromised or improperly disclosed, please contact us immediately using the contact details provided in this Privacy Policy so we can take prompt action.
+
+10. Third-party Services
+
+We may provide links to other websites and services for your convenience of access and reference. These services and websites may operate independently from us and may have their own privacy notices or policies, which we strongly suggest you review before you use any of their services or conduct any activities on those websites. To the extent that any linked websites you visit are not owned or controlled by us, we are not responsible for their contents, their privacy practices and the quality of their services.
+
+11. Updates to the Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices, legal requirements, or our services. When we make updates, we will update the “Last Updated” date at the top of this Policy on our website. We encourage you to review this policy periodically. Your continued use of the website and services after any changes signifies your acceptance or, depending on your jurisdiction, acknowledgment of the updated Privacy Policy. If you do not agree with any changes, please stop using the website and services.
+
+12. Contact Us
+
+If you have any questions or comments about our Privacy Policy or the terms mentioned, you may contact us at email.dpo@keetainc.com.
+
+13. Additional Terms for Certain Jurisdictions
+
+Certain jurisdictions have additional terms described below under applicable laws. If you are located in any jurisdiction set out below, the additional terms outlined below apply to you in addition to the other terms of this Privacy Policy. In case of any conflicts between the other terms of this Privacy Policy and the applicable additional terms described below, the terms described below shall govern.
+
+Brasil
+
+Exercise of Data Protection Rights
+
+Under Brazilian law, you have specific rights regarding your personal data. We are committed to ensuring transparency and enabling you to exercise your rights effectively, which include.
+
+Confirmation of whether we process your personal data;
+
+Access to your personal data;
+
+Correction of incomplete, inaccurate, or outdated data;
+
+Anonymization, restriction, or deletion of unnecessary or excessive data, or data processed in noncompliance with the LGPD;
+
+Portability of your data to another service provider, subject to commercial and industrial secrets;
+
+Objection to the processing of your personal data when the processing is not based on your consent or when not in compliance with the LGPD;
+
+Deletion of personal data processed based on your consent, except where retention is authorized;
+
+Information about public and private entities with which we have shared your data;
+
+Information about the possibility of not providing consent and the consequences of such refusal;
+
+Withdrawal of previously given consent, at any time, without affecting the lawfulness of processing based on consent before its withdrawal;
+
+Request a review of decisions made solely based on automated processing that affect your interests, including decisions related to your personal, professional, consumer, or credit profile, or aspects of your personality;
+
+If you are not satisfied with the way we handle your request, lodge a complaint with the Brazilian National Data Protection Authority (Autoridade Nacional de Proteção de Dados – ANPD).
+
+Limitations to Your Rights
+
+In certain cases, we may be unable to comply with your request, either partially or entirely. Such circumstances may include, for example: (i) when compliance is technically unfeasible given the nature of our business; (ii) when compliance would violate our intellectual property or trade secrets; or (iii) when compliance would jeopardize the rights of third parties. In such cases, we will provide a clear explanation of the reasons for our decision.
+
+International Data Transfers
+
+In order to provide you with our services, your personal data may be transferred to and processed in jurisdictions outside Brazil, including Germany, Saudi Arabia, and Hong Kong. We will ensure that such transfers comply with the requirements of the General Data Protection Law (LGPD) and are subject to appropriate safeguards even while your personal data is being processed outside Brazil, such as by adopting standard contractual clauses or implementing other legally recognized transfer mechanisms under Brazilian law.

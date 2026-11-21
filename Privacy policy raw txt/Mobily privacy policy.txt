@@ -1,0 +1,171 @@
+Mobily Privacy Notice
+Last updated: April 2026
+
+Etihad Etisalat Company (Mobily) has established this Privacy Notice for the handling of Personal Data of data subjects using the Mobily Website (hereinafter referred to as “You”, “Your” or “Yours”). Mobily is committed to protecting the privacy and security of its customers’ personal data and has developed this privacy notice to demonstrate that commitment. This Privacy Notice has been prepared in compliance with the Personal Data Protection Law issued by Royal Decree No. (M/19) Dated 9/2/1443H and its Implementing Regulations. The Privacy Notice ensures transparency regarding how and why personal data is collected, used, and retained, and explains your rights under the PDPL. By using our products and services, you acknowledge and accept the terms of this Privacy Notice.
+
+Who Are We?
+Etihad Etisalat Company (Mobily) is one of the Kingdom of Saudi Arabia’s leading telecommunications and digital services providers. As the Controller of your Personal Data, Mobily is responsible for determining the purposes and means of processing your information in accordance with the Personal Data Protection Law (“PDPL” hereinafter)
+
+Registered Address: Kingdom Center, Olaya Road, P.O. Box 9979 Riyadh 11423, KSA
+
+Collection and Use of Personal Information
+Please note that providing some personal information is essential to access Mobily’s services, as required by the Communications and Information Technology Law issued under Royal Decree No. M/106, dated 2/11/1443H, and its executive regulations. If there is any change in your provided data (such as the national address, contact information, or renewal/update of identity), please notify us to take the necessary actions. If your data is not updated within the required time period, Mobily reserves the right to suspend or stop processing the data in accordance with the Communications Law.
+
+You can browse our website and use our online services without providing any personal information directly. However, Mobily may automatically collect some information to enhance your experience, offer better service, or analyze data and generate internal reports that meet business requirements. This includes, but is not limited to, your IP address, cookies, browser type and version, device information, operating system, regional settings, and other details related to your interactions with the website, such as pages visited and browsing duration.
+
+Lawful Basis of Processing Your Personal Data
+We (including third parties) will process your personal data as per the following lawful basis:
+
+- Consent: Personal data of data subjects will be processed only with their explicit consent for certain activities where lawful basis of processing is consent, such as information sales and marketing. Further, explicit consent will also be collected for processing credit & health data and for activities involving automated decision making, unless specific legal exceptions apply.
+- Contractual Obligation: Processing is necessary to provide services and fulfill our service obligations to You, such as delivering products or managing customer accounts
+- Legal Obligation: Processing is required to comply with applicable Saudi law and government regulations, including those related to public health, security, or legal reporting.
+- Legitimate Interest: We may process personal data where it is necessary for legitimate business purposes, provided such processing does not override Your rights and freedoms.
+
+Why do We Collect and Use Your Personal Data?
+We collect, use, and process your personal data for organizational, improvement, and development purposes, including but not limited to the following:
+
+- To enable us to develop, enhance, market and deliver products and services effectively to You.
+- To provide and improve telecommunications and digital services while ensuring seamless and reliable customer experience
+- Respond to inquiries, resolve complaints efficiently, and enhance overall service quality across all customer touchpoints
+- Enhance and personalize Our products and services based on Your needs and usage behavior, and keep You informed about new offerings, features, and promotions that may be of relevant to You.
+- Analyze data and usage trends to improve internal operations, enhance network performance, and support informed business decisions
+- Process usage data to identify and prevent fraudulent activities, misuse, or potential harm to Our networks, and to facilitate debt recovery and management of outstanding customer obligations related to the use of Our services
+- Comply with applicable laws, regulations, and official requests from competent authorities.
+- Evaluate, onboard, and manage vendors, suppliers, and partners who support in delivering products and services on Our behalf
+- Contribute to the growth and development of the telecommunications sector by supporting research, analysis, and innovation initiatives
+
+Mobily uses third-party analytics tools to gather statistical information about our website’s performance and usage patterns. This data is aggregated and used to assess the quality of our services and identify areas for improvement, without being linked to specific individuals.
+
+While some of this data may not directly identify you, when combined with other information, it can constitute personal data. Mobily treats this information responsibly and in accordance with PDPL and its implementing regulations.
+
+What Personal Data Do We Collect and Process?
+We may collect and process the following personal data:
+
+- Identification and contact details such as name, national ID or Iqama number, date of birth, nationality, gender, address, mobile number, and email address, to verify your identity, activate services, manage your account, and communicate with you.
+- Service and usage information including call, SMS, and data usage details, device identifiers, cookies, and location data needed to operate, maintain, and improve our services
+- Customer interaction records such as inquiries, complaints, feedback, and communication with Mobily’s customer support channels.
+- Network and operational data used to ensure service reliability, detect and resolve technical issues, and enhance network performance.
+- Vendor and partner information such as business contact details required for onboarding, contracting, and service delivery.
+
+How We Collect Your Personal Data
+We collect personal data through various channels, including:
+
+- Products and Services: When You register, subscribe, or enter into a contract to use Our telecommunications or digital services.
+- Direct Interactions: When you fill out forms, contact us through our website, email, customer care channels, enquire/purchase our products and services at Our shops and branches, or participate in promotions.
+- Social media: When You engage with Us through Our official social media pages or respond to campaigns and posts.
+- Website and App Usage: When You browse or use Our digital platforms, including information such as the date and time of visit, browser type, device details, and referring pages.
+- Feedback and Surveys: When You provide feedback or participate in online surveys to help Us enhance Our products and customer experience.
+
+How Long Do We Store Your Personal Data
+We retain your personal data only for as long as necessary to fulfill the purposes for which it was collected, to respond to inquiries, resolve disputes, and meet legal or regulatory obligations. Retention periods may vary depending on the type of data and applicable legal requirements. When personal data is no longer required, Mobily securely deletes, anonymizes, or disposes of it in accordance with internal policies and relevant laws to ensure your privacy is protected.
+
+Collection of Data of Minors or Legally Incompetent
+We are committed to protecting the privacy of all our customers.
+
+Individuals under the age of 15: We do not collect or process any personal data from individuals under the age of 15.
+
+Individuals aged 15 to 17 (Minors): In the Kingdom of Saudi Arabia (KSA), individuals aged 15 or older may subscribe to certain Mobily products and services. For these subscriptions and the processing of their Personal Data, it is necessary that the subscription is entered into with the express consent and involvement of their legal guardian or parent, who is responsible for the contractual obligations.
+
+Information Security
+Data transmission over the Internet cannot be considered completely secure. However, the information provided by you is protected with the highest standards of privacy and security. In all our websites and applications, SSL encryption standards are used to protect data traffic. We protect your personal data from unauthorized access by means of access control measures and physical security measures.
+
+Links to Other Websites
+Our website and mobile apps may include links to third-party websites, each with its own privacy notice. We do not control these sites and are not responsible for how they handle your personal data. We recommend reviewing their privacy policies to understand how they manage your information.
+
+Social Media
+We may engage with you on social media platforms to provide information, respond to inquiries, and promote our products and services. Please note that any information you post or disclose on our social media pages may be visible to the public. Therefore, you will be responsible for exercising and maintain the necessary caution when sharing any personal data through our page on a social media platform.
+
+Changes to Privacy Notice
+We reserve the right to update and amend this Privacy Notice periodically to ensure we maintain the highest standards of data protection and continue to enhance Your customer experience. Any modifications to this Notice will be published here, replacing the prior version. We recommend that You review this page regularly to remain informed of any changes.
+
+Contact Us
+For Privacy Related Matters:
+If you have any questions, concerns, or requests related to the processing of your personal data, or if you wish to exercise your rights, you may contact our Privacy Office at:
+Email: DataPrivacy@mobily.com.sa
+
+For Technical Assistance:
+For any issues related to system access, technical errors, application performance, or general IT support, please reach out to our Technical Support Team:
+Email: info@mobily.com.sa
+Phone: +966 (0) 560 101 100
+
+Your Rights Under PDPL and How to Exercise Them
+As a Mobily customer, You have the following rights:
+
+- Right to be Informed: You must be informed about the reasons for collecting Your personal data, the identity of the data controller, and any potential risks of not providing the requested data.
+- Right of Access: You can request access to Your personal data.
+- Right to Correction: You may request corrections or updates to inaccurate or incomplete personal data held by the Us
+- Right to Erasure: You can request the deletion of your personal data if it is no longer necessary for the original purpose or if You withdraw consent.
+- Right to Withdraw Consent: You can withdraw previously given consent at any time, except where the law mandates otherwise.
+- Right to Obtain Personal Data: You can request a copy of your personal data in a readable format to understand what is being held about You.
+- Right to File a Complaint: You have the right to submit a complaint to the relevant regulatory authority if You believe their personal data has been misused or their data privacy rights have been violated, in accordance with applicable laws.
+
+Mobily is committed to informing you of your rights and has established dedicated channels to help you exercise them. We aim to respond to all data protection–related requests or complaints within 30 days and maintain records of all submissions in accordance with PDPL requirements
+
+If you wish to exercise your rights, you may contact our Privacy Office at:
+Email: DataPrivacy@mobily.com.sa
+
+You may also contact our Customer Care to exercise your rights at:
+1100 (if calling from a Mobily number) or
++966 (0) 560 101 100 (if calling from another operator)
+
+The ability to exercise certain rights such as access, correction, or erasure may be subject to lawful limitations where the continued processing of Personal Data is required to comply with applicable regulations, fulfil contractual obligations, support security and fraud-prevention measures, or where the data is relevant to ongoing investigations or necessary for the establishment, exercise, or defense of legal claims.
+
+Mobily requires all employees and individuals with access to Personal Data to handle such data in accordance with the PDPL, its Implementing Regulations, this Privacy Notice, and internal policies. Any unauthorized access, use, disclosure, alteration, destruction, or other misuse of Personal Data is strictly prohibited.
+
+Non-compliance may result in disciplinary action in accordance with Mobily’s HR policies, including warnings, suspension of access, or termination of employment. Mobily reserves the right to pursue all appropriate legal remedies in instances of intentional, reckless, or negligent misuse of Personal Data, including seeking compensation for damages or losses arising from such misconduct.
+
+Mobily Website Usage of Cookies
+We use cookies and similar technologies to ensure website functionality, enhance Your experience, and continuously improve our services
+
+We use cookies to:
+- Protect users from fraud and strengthen website and network security.
+- Analyze how visitors use our website and digital platforms to improve usability and performance.
+- Understand customer interests and identify products, services, or offers that may be most relevant.
+- Deliver personalized content and marketing across Mobily’s website, apps, and social media platforms.
+- Ensure that personal data collected through cookies is processed only for the purposes for which it was originally collected.
+
+1: Personal Data Collected Through Cookies
+We may collect the following information when you visit our website:
+- Device and equipment details, browsing patterns, and interaction data.
+- Technical details such as IP address, browser type, operating system, and connection information.
+- Website usage information, including visit duration, pages accessed, navigation paths, and time of requests.
+- Location data (where enabled) to optimize service functionality.
+
+This information helps Mobily understand how visitors interact with its website, allowing for improved security, functionality, and customer experience
+
+2: Categories of Cookies Used on Mobily’s Website
+Our website uses the following categories of cookies:
+- Strictly Necessary Cookies: Essential for website functionality, enabling secure login, navigation, and use of key site features.
+- Performance Cookies: Collect anonymous data on how visitors use the website to help improve performance and usability.
+- Functionality Cookies: To remember user preferences (such as language, region, or login details) to provide a more personalized experience.
+- Marketing and Third-Party Cookies: Used by Us and our trusted partners (such as Google Analytics and Facebook Pixel) to analyze site traffic, enhance digital marketing, and measure campaign effectiveness.
+
+We maintain the highest standards of confidentiality and ensure that data collected through cookies is handled responsibly and securely.
+
+3: How to Enable or Disable Cookies
+By continuing to browse or use this website, you explicitly consent to the placement and use of cookies and to the collection, use, and transfer, whether in electronic or other form, of your personal data in accordance with the Mobily Privacy Notice.
+
+If you do not wish to accept cookies, you may adjust your browser settings to block or delete them. The links below provide instructions for the most used browsers:
+Google Chrome – (chrome://settings/clearBrowserData)
+Microsoft Edge – (edge://settings/clearbrowserdata)
+Mozilla Firefox – (https://support.mozilla.org/en-US/kb/delete-browsing-search-download-history-firefox)
+Opera – (https://help.opera.com/en/latest/web-preferences/#cookies)
+Apple Safari – (https://support.apple.com/en-in/105082)
+
+4: What Happens if You Disable Cookies?
+If you disable cookies, certain features of Our website may not function properly. You may experience limited access to secure areas, slower page loading, or loss of stored preferences such as language or login details. Disabling cookies may also reduce personalization and affect your ability to complete transactions or interact with specific website features.
+
+While You can manage cookies to enhance privacy, doing so may impact the full functionality and convenience of your browsing experience on Our website.
+
+Appendix
+Definitions:
+“Personal Data” means any data, regardless of its source or form, that may lead to identifying an individual specifically, or that may directly or indirectly make it possible to identify an individual, including name, personal identification number, addresses, contact numbers, license numbers, records, personal assets, bank and credit card numbers, photos and videos of an individual, and any other data of personal nature.
+“PDPL” means the Personal Data Protection Law in the Kingdom of Saudi Arabia issued by a Royal Decree M/19 dated 09/02/1443AH corresponding to September 16, 2021, and approving resolution No. 98 dated 07/02/1443AH corresponding to September 2021, which the latest update to the PDPL came into force on September 14, 2023. Any reference to PDPL shall include the latest amendment and update thereof and any subsequent amendments or updates thereto.
+“Privacy Notice” means this privacy notice including its terms and conditions stipulated herein.
+“Regulations” means the applicable implementing regulations of the PDPL.
+“Mobily” means Etihad Etisalat Company, a Saudi joint stock company incorporated under the Commercial Law of the Kingdom of Saudi Arabia. Any reference to “We”, “Our”, or “Us” shall mean and refer to Mobily.
+“Utilization” means Your use of the Website, whether for requesting a certain service or product, submitting a complaint, applying for a job, and/or any other use may be applicable on the Website from time to time, for which the Personal Data is required.
+“Website” means Mobily’s website having the domain name of mobily.com.sa, which this Privacy Notice governs the Personal Data entered the Website.
+“Cookie” means small text files stored on Your device when you visit our website. Where these identify You (e.g., through device ID, login data, or IP address), they are considered Personal Data. Mobily uses Cookies to support Website functionality and improve user experience.
+“Controller” means any natural or legal person, public or private entity, or any other body that alone or jointly with others determines the purposes and means of processing Personal Data.
+“Processor” means any natural or legal person, public or private entity, or any other body that processes personal data on behalf of the Controller.

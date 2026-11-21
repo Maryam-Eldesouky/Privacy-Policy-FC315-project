@@ -1,0 +1,63 @@
+Privacy Statement
+
+The National Cybersecurity Authority (NCA) was established under Royal Decree No. (55775) dated 01/12/1438H, with its regulation issued by Royal Decree No. (6801) dated 11/02/1439H and amended by Royal Decree No. (7053) dated 02/02/1443H.
+NCA is committed to respecting user data and information and is obliged to maintain the confidentiality and privacy of personal data as per relevant regulations. To this end, a privacy policy has been prepared to understand how personal data is collected, its purpose, methods of sharing, exchanging, and storing it, and the rights of Data subject. Using the Authority's website constitutes user consent to the privacy policy as per the regulatory requirements under the personal data protection laws and its regulations.
+
+1. Personal Data Collected and Its Purpose
+
+The Authority collects only necessary personal data where it collects the following personal data through its website:
+Personal Data: Full Name, date of birth, national identity number or residence number, age, sex.
+Location Data
+Contact Information: Email Address, Mobile number.
+Cookies Data
+
+This is for the purpose of following up on any inquiries, suggestions, complaints, or to answer questionnaires.
+
+2. Methods of Collecting Personal Data
+
+The Authority collects personal data through what is provided directly through the use of forms, which clarify whether the data that will be collected is mandatory or optional. Personal data is also collected and obtained "directly or indirectly," through the use of various methods, as follows:
+
+A. Direct methods to obtain personal data: Data provided by the data subject to the site.
+
+B. Indirect methods to obtain personal data: Data from cookies collected when visiting the Authority's site.
+
+3. How is Your Personal Data Processed?
+
+The personal data collected from you is processed directly or indirectly to carry out the tasks and responsibilities assigned to the Authority and in a manner that achieves the purposes specified in this policy. Personal data will only be processed by those authorized to do so in accordance with their competencies, and according to what is determined by the approved policies for this purpose. Failure to do so may result in collecting your personal data may affect your ability to benefit from the services provided by the Authority.
+
+4. Data Sharing/ Data Exchange
+
+The Authority is committed to maintain the privacy of personal data and not disclosing it following the data sharing controls approved by regulatory bodies. NCA complies with the provisions of data confidentiality and non-disclosure as per the personal data protection law and its regulations.
+
+5. Storing and Destroying Personal Data
+
+Personal data is securely stored within the Kingdom of Saudi Arabia's geographical boundaries to ensure the preservation of the nation's digital sovereignty over this data. The Authority adheres to the highest standards and practices to ensure the security and protection of data. It also adheres to national regulations and instructions related to destroying personal data and disposing of it once the purpose of its collection is fulfilled or archiving it securely to prevent misuse or unauthorized access.
+
+6. Data Subject Rights
+
+Under the personal data protection law, issued by Royal Decree No. (M/19) of 9/2/1443H, amended by Royal Decree No. (M/148) of 05/09/1444H, and its regulation, users have the following rights, dependent on the purpose for which data is collected and processed:
+
+The right to be informed: The data subject has the right to know the methods of data collection, the legal basis for its collection and processing, the purpose of collection, how it is processed, stored, and destroyed, and with whom it will be shared. Full details can be accessed through this privacy policy.
+
+The right to access personal data and request a copy: The personal data subject has the right to access their data and request a copy, which will be provided at no cost via the designated email. The Authority may restrict this right under conditions defined by the personal data protection law and its regulations.
+
+The right to rectify personal data: The subject has the right to request the correction of their data if it is inaccurate, incorrect, or incomplete via the email below. The data will be reviewed and updated, and the data subject will be notified. The Authority may request supporting documents and evidence for the correction request whenever necessary to correct, update, or complete data, and these documents will be destroyed after the verification process.
+
+The right to destroy personal data: Under certain circumstances, the data subject has the right to request the destruction of their data unless there is a legal provision specifying a certain retention period or contractual requirements.
+
+The data subject has the right to exercise their statutory rights according to applicable laws and regulations by communicating via the following mail:
+
+DMO@nca.gov.sa.
+
+7. Privacy Policy Updates:
+
+The Authority reserves the right to add or change any policy provisions as necessary.
+The Arabic language is the official language used in the application of terms and conditions, and it shall prevail in the event of a discrepancy between the Arabic and English texts.
+
+For more information about the related policies and laws referred to in this policy, you may use any of following links:
+
+Personal Data Protection Law
+The Implementing Regulation of the Personal Data Protection Law
+Data Sharing Policy
+
+Last Update at: 30/04/2026 - 12:05pm Saudi time

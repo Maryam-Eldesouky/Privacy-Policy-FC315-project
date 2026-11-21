@@ -1,0 +1,355 @@
+Privacy Policy
+
+Effective Date: September 2024
+
+At Electronic Speed Trading Company LLC ("Jeeny," "We," "Us," or "Our"), protecting Your privacy is one of Our main priorities. This privacy policy .(referred to hereafter as the " Policy") explains how Jeeny collects, processes, and protects Your Personal Data when You use the Jeeny platform through Your mobile device hereinafter referred to as (the "Application" or "Platform"). Jeeny is a licensed ride-hailing platform operating under Electronic Speed Trading Company LLC. organized under the laws of the Kingdom of Saudi Arabia (hereinafter referred to as "KSA"), registered in the commercial register of Jeddah under registration number 4030249941 and unified number 7001776199, with its principal office located in Riyadh, Qurtubah District, Al-Thumama Street 13248, KSA. Our primary activities include providing safe, efficient, and reliable transportation services to passengers through a network of registered drivers using our Application ("Services"). We target individuals within KSA who seek convenient transportation services, and we ensure compliance with all applicable transport regulations and data protection laws. Our Services and Application are regulated and supervised by the Transport General Authority.
+
+We are fully committed to providing the highest level of protection for Your Personal Data (referred to hereafter as "Personal Data" or "Data") in accordance with the Personal Data Protection Law- the Saudi Cabinet Decision No. 1443/98 regarding the approval and adoption of personal Data protection, (hereinafter referred to as "PDPL") as Well as Royal Decree No. M 148 issued on 05/05/1444H and their associated executive regulations, as amended from time to time. (hereinafter collectively referred to as the "Law")
+
+As the Data Controller under the Law, Jeeny determines the purposes and means of processing Your Personal Data. This Privacy Policy outlines the specific categories of Personal Data We collect, the purposes for which We use it, and the safeguards We implement to protect it. We process Your Personal Data in line with the principles set out in this Policy read in light with the Law to ensure it is handled securely and lawfully when You use Our Services provided through the Application
+
+This Privacy Policy applies to all users of the Application, including passengers, drivers, business partners, and anyone who interacts with Our Services through the Application, as well as Jeeny employees and job applicants whose Personal Data may be collected, processed, or stored even if they do not directly use the Application (collectively referred to as "Users" and individually referred to as "You," "Your," or "User").
+
+By Using the Application that provide Our Services, You agree to the terms of this Privacy Policy. If You do not accept these terms, We request that You discontinue Using the Application, as refusal to accept the Privacy Policy may limit Your ability to access the Services provided by Jeeny.
+
+Please note that this Privacy Policy may be updated to reflect changes in Our practices or any amendments to the Law including the Personal Data Protection Law, Executive Regulations, or new requirements from SDAIA. We encourage You to review this Policy regularly to stay informed about how Your Personal Data is collected, used, and protected.
+
+For more detailed information on what Personal Data We collect, how it is processed, shared, and Your rights under the Law, please refer to the relevant sections of this Privacy Policy.
+
+1. Collection of Personal Data ( What Data do we Collect?)
+
+We collect Personal Data from Users to provide, enhance, and improve Our Services. This Data is collected directly from You, through the Jeeny mobile application (the "Application"), or from third parties with Your consent. The Data We collect is essential for fulfilling Our legal obligations and ensuring the smooth operation of the Application. If You choose not to provide certain Personal Data or request its deletion, this may limit Our ability to provide You with certain Services.
+
+It is Your responsibility to ensure that the Personal Data you provide to Jeeny is accurate, complete, up-to-date and not forged or fake. By providing your Data, you confirm that the information is correct and that You will promptly inform Jeeny of any changes or inaccuracies.
+
+If inaccurate or outdated information is provided, this may impact our ability to offer Services effectively or comply with legal requirements. Jeeny cannot be held liable for any issues arising from inaccurate or incomplete Data provided by the User.
+
+Data Categories and Types Collected
+
+1. (Account Data)
+
+Passengers:
+
+Data Collected:
+Full name
+Mobile number
+Email address
+Location Data (pickup/drop-off points)
+Other information that You voluntarily provide
+
+Drivers:
+
+Data Collected: (Account Data)
+Full Name
+National ID
+Mobile number
+Email address
+Vehicle information from Vehicle Registration Certificate
+Driving license and driving authorizations
+Personal picture
+Images/video, including photos or videos submitted to verify Your identity such as through facial verification technologies
+Evidence of health or fitness to provide Services (if required under Applicable Laws)
+Other information which We reasonably require as per the Law or that You choose to provide
+
+Employees
+Identification details (e.g., full name, national ID, passport)
+Contact details (e.g., email, phone number, address)
+Employment records (e.g., CV, employment history, performance reviews)
+Financial information (e.g., bank account, salary)
+Biometric data, where required for identity verification or access control
+Health data, only as required for legal or regulatory purposes
+Disciplinary or grievance records, if any
+
+2. Payment Data: Data collected for payment purposes, including but not limited to bank card numbers, CVV, expiry date, Name of the card holder payment amounts, and transaction history;
+3. Usage Information: We automatically collect information about Your interactions with Our Services, including:
+
+1. Device Information: IP address, device type, operating system, app version.
+2. Usage Data: Pages visited, features Used, time spent on the app.
+
+500. Location Information: Real-time GPS location Data, pickup and drop-off locations.
+
+When We gather enough Personal Data from You to set up an account, We will create a unique account number known as Your "Jeeny Account ID." This ID is exclusive to You and serves as a means for Us to identify You across Our different Services and locations
+
+Methods of Collecting Personal Data
+
+To make data collection clear and transparent, We classify the methods used to collect Personal Data as follows:
+
+1. Data Collected Directly from You: This Data is gathered through means such as
+
+Electronic forms: Empty fields, dropdown lists, radio buttons, and other form elements you fill in on the Application.
+Account creation and updates: Data entered when setting up or updating Your account.
+
+2. Data Collected Indirectly: This data is gathered automatically using technology, such as:
+
+Automatic collection tools: Including analytics platforms and interconnections with third-party entities, enabling us to gather location data, usage patterns, and device information
+Data collected from Our Lead Agents
+
+2. Why We Collect Your Information (Purpose)
+
+We collect Your Personal Data to provide, support, and enhance the Services offered through the Application. The Personal Data We collect is used for specified, explicit, and legitimate purposes directly related to our Services as a ride-hailing platform, in accordance with the Law. Jeeny ensures that Data collection is limited to the minimum necessary for each purpose and complies with data minimization principles, collecting only Data that is relevant, adequate, and necessary.
+
+We rely on several legal bases to collect and process Your Personal Data, including Your consent, compliance with legal obligations, and legitimate interests. Additionally, where required, Data may be processed based on the agreement with the Data Subject (You) or for security and public interest purposes
+
+A. Passengers
+
+Account Creation and Management: To create and manage your account within the Application. Legal Basis: Agreement and legitimate interest.
+Facilitate Ride Bookings: To match passengers with nearby drivers by collecting contact and location information, ensuring a seamless ride experience. Legal Basis: Agreement, legitimate interest, and consent (where necessary for location tracking).
+Enhance User Experience: To analyze usage data and improve your experience by personalizing the Application's features and services. Legal Basis: Legitimate interest and User consent.
+Communication and Notifications: To send updates on ride status, promotions, and essential communications. Legal Basis: Legitimate interest and consent (for marketing/promotional content).
+Process Payments: To securely process payments for Services. Legal Basis: Agreement and compliance with legal requirements.
+Safety and Security: To verify identities, ensure ride safety, and prevent fraudulent activities by monitoring patterns and analyzing history. Legal Basis: Security purposes and legitimate interest.
+Compliance with Legal Obligations: To comply with applicable laws and respond to requests from authorities. Legal Basis: Compliance with legal requirements.
+
+B. Drivers
+
+Identity and Eligibility Verification: To verify driver identity and ensure legal compliance for providing ride-hailing services. Legal Basis: Compliance with legal requirements and agreement.
+Ride-Matching and Facilitation: To efficiently match drivers with passengers using location and vehicle data. Legal Basis: Legitimate interest and agreement.
+Ensuring Passenger Safety and Security: To track real-time activity and prevent fraud using identity verification tools like facial recognition. Legal Basis: Security purposes and public safety.
+Communication and Immediate Updates: To facilitate communication between drivers and passengers, as well as operational updates. Legal Basis: Legitimate interest.
+Service Quality Enhancement: To improve user experience by analyzing driver performance and interactions. Legal Basis: Legitimate interest.
+Compliance with Regulatory Requirements: To fulfill obligations like health checks and reporting to regulatory bodies. Legal Basis: Compliance with legal requirements.
+
+C. Usage Information
+
+Device and Application Functionality: To ensure smooth operation and security of the Application by collecting device information. Legal Basis: Legitimate interest.
+Analyzing Usage Patterns: To understand user interactions and improve the Application. Legal Basis: Legitimate interest.
+Location-Based Services: To facilitate ride services and optimal navigation. Legal Basis: Consent and legitimate interest.
+
+D. Communication
+
+Notifications and Updates: To send essential updates about rides, promotions, and new features. Legal Basis: Consent (for marketing) and legitimate interest.
+Customer Support: To respond to inquiries and provide support. Legal Basis: Agreement.
+
+E. Safety, Security, and Legal Compliance
+
+Identity Verification: To verify identities and prevent fraud. Legal Basis: Security purposes.
+Monitoring and Analysis: To detect security issues and protect user data. Legal Basis: Legitimate interest and security.
+Regulatory Requirements: To comply with legal obligations. Legal Basis: Compliance with legal requirements.
+
+F. Employees
+
+Recruitment and onboarding: To evaluate and process applications, verify credentials, and complete onboarding procedures. Legal Basis: Agreement and legitimate interest
+Payroll and benefits administration: To process salaries, benefits, reimbursements, and comply with tax and employment obligations. Legal Basis: Agreement and compliance with legal obligations
+Compliance and audits: To meet labor and legal requirements, conduct internal audits, and cooperate with regulators. Legal Basis: Compliance with legal obligations
+Access and security: To enable secure access to physical and digital resources and ensure workplace safety. Legal Basis: Legitimate interest and consent (where applicable)
+Performance and conduct management: To evaluate employee performance and manage conduct issues and grievances. Legal Basis: Legitimate interest
+Health and biometric data processing: To process health and biometric data where required by law for access, safety, or health monitoring. Legal Basis: Explicit consent and legal requirement
+
+3. Data Processing
+
+Jeeny is the Data Controller responsible for the collection and ultimately decides why and how the Personal Data is collected, processed and shared for Services on the Application and is responsible for ensuring that Your Personal Data is collected and processed securely in accordance with the Law and this Privacy Policy. Jeeny collects and processes Your Personal Data for specified, lawful purposes outlined in this Privacy Policy ensuring that Data is used only as necessary to operate Our Services and fulfill Our obligations.
+
+Jeeny may engage third-party processors to perform certain Services on Our behalf. In these cases, We implement contractual safeguards requiring them to adhere to Our security standards and legal obligations under the Law.
+
+Legal Basis and Explicit Consent:
+
+All Personal Data collected by Jeeny or if needed via a third party is processed in line with the Law. We collect and process Your Personal Data only upon obtaining Your explicit consent, provided by Your acceptance of this Privacy Policy and continued use of the Jeeny Application.
+
+The Table below elaborates upon the different stages of the Data life cycle at Jeeny (collecting, storing, using, sharing, and destroying) linked to the specific objective of each stage along with the Data processing operation for each stage.
+
+Collection: Jeeny collects Personal Data directly from Users, , as detailed in the Collection of Personal Data section above through the Application, or from Third parties with User consent. Data Types Involved: Account Data, Payment Data, Location Data, Usage Data. Objectives: Ensure efficient and lawful collection for secure Service delivery and to ensure that data is not modified or tampered with during collection. Legal Basis: Consent, legitimate interest, or agreement as detailed in the Policy only as necessary to operate Our Services and fulfill Our obligations as per the Law. Sensitive Data, such as biometric and health data, is handled with heightened security measures. This data is processed only when necessary for legal or security purposes and is restricted to authorized personnel.
+
+Storage: Data is stored securely on encrypted servers, accessible only by authorized personnel. (Please see the Sharing Your Personal Data Section below for further details on Storage) Data Types Involved: All collected Data (Account, Payment, Usage, Location). Objectives: Maintain data integrity, ensure compliance with data retention regulations, and facilitate secure operations. Security Measures: access controls, and confidentiality agreements.
+
+Usage: Data is processed to deliver, personalize, and improve Services, including analyzing patterns and processing payments. Data Types Involved: Usage Data, Payment Data, Location Data. Objectives: Enhance User experience, improve Service quality, prevent fraud, and manage notifications. Security Measures: Anonymization and pseudonymization, where applicable, and active monitoring to maintain data security and detect vulnerabilities.
+
+Sharing: Data may be shared with authorized Third-party processors and regulatory bodies, including cross-border transfers under legal safeguards. Please see the Sharing Your Personal Data Section below for further clarity. Data Types Involved: Account Data, Payment Data, Location Data. Objectives: Facilitate essential services like payment processing, data analytics, Data storage and customer support. Security Measures: Standard Contractual Clauses (SCCs), Data Processing Agreements (DPAs), and cross-border safeguards to protect data when shared externally.
+
+Destruction: Data is securely deleted or anonymized once it is no longer necessary or as required by law. Data Types Involved: All Personal Data. Objectives: Comply with Data retention policies and the Data minimization principle by securely disposing of outdated or unnecessary data. Security Measures: Data disposal protocols that ensure secure destruction or anonymization, in accordance with the Law.
+
+Data Security: Technical and organizational measures are in place to protect data integrity and confidentiality. (For further details please see the Data Security Section below) Data Types Involved: All Personal Data, especially sensitive data (e.g., biometric, payment info). Measures: Encryption, access control, anonymization, pseudonymization, regular system audits, and security assessments. Incident Response: A plan to notify users and relevant authorities of data breaches promptly.
+
+4. Data Security Measures
+
+We implement appropriate technical and organizational measures to protect Your Personal Data from unauthorized access, misuse, or disclosure, alteration, destruction and loss. These measures include, but are not limited to, the following:
+
+1. Access Controls and Confidentiality Agreements: We restrict access to Your Personal Data to authorized personnel only, ensuring that those handling Your information are trained in data protection and bound by confidentiality agreements to ensure secure and responsible Data management.
+2. Data Anonymization and Pseudonymization: Where applicable, We anonymize or pseudonymize Your Data to further protect Your privacy, particularly when processing location or Usage Data for analysis purposes.
+3. Monitoring and Auditing: We regularly monitor Our systems for potential vulnerabilities and conduct security audits to ensure the integrity of Your Data. Periodic security assessments, including penetration testing, are also conducted to identify and mitigate potential risks.
+4. Data Retention and Secure disposal: Personal Data is retained only for as long as necessary to fulfill the purposes outlined in this Privacy Policy or as required by the Law.
+5. Incident Response Plan: In the unlikely event of a Data breach, Jeeny has an incident response plan in place. Affected Users and relevant authorities will be promptly notified, as required by the Law to minimize any risks to Your privacy and security.
+6. Data Protection Officer:: For any questions, concerns, or requests related to the protection of Your Personal Data, please contact Jeeny's Data Protection Officer at:
+
+Name: Muath Alfawzan
+Email Address: [email protected]
+
+While We strive to protect Your Personal Data, it is important to understand that no security system is entirely foolproof. Therefore, We cannot guarantee the absolute security of Your Data transmitted through the Application or stored in Our systems.
+
+User Responsibilities*
+
+You play a key role in keeping Your Personal Data secure. It is Your responsibility to maintain the confidentiality of Your Jeeny account username and password and to ensure that Your account is not accessed by unauthorized individuals. We recommend the following:
+
+1. Account Security: Do not share Your username or password with anyone, and take all necessary precautions to prevent unauthorized access to Your account.
+
+2. Reporting Security Incidents: If You suspect that Your Username, password, or any other account information has been compromised or is being Used without Your authorization, please notify Jeeny immediately so that We can take appropriate measures to secure Your account.
+
+Jeeny will never request Your account password through email or other electronic communication. You should disregard any such request as a potential phishing attempt and report it to Us.
+
+Limitations of Liability
+
+While We take reasonable steps to protect Your Personal Data, Jeeny cannot be held liable for any unauthorized access to Your account or Personal Data resulting from Your failure to maintain adequate security measures (e.g., sharing passwords or using weak credentials). You accept responsibility for any activity that occurs under Your Jeeny account, including transactions or changes made to Your account.
+
+5. Sharing Your Information
+
+We may share Your information with:
+
+1. Drivers and Riders: To facilitate ride requests and communication.
+
+2. Service Providers/Third Parties: Third-party vendors who assist with Data processing, payment processing, Data analysis, and customer support.
+3. Legal Authorities: When required by law or to protect Our rights and safety.
+
+A. Sharing Your Personal Data with Third Parties and Cross Border Transfers
+
+To operate the Jeeny Application and provide quality Services, We may share Your Personal Data with select Third parties under specific conditions, including those located outside KSA. These transfers are conducted in compliance with Law and are governed by agreements and safeguards to protect Your Data. Third Party Recipients of Personal Data. ("Third Parties")
+
+We may share Your Personal Data with the following categories of Third Parties.
+
+1. Service Providers and Consultants:
+
+Entities such as individuals, companies, associations, or professional firms that assist Jeeny in fulfilling operational and compliance obligations particularly in areas like registration, accounting, administration, legal matters, taxation, and finance.
+
+2. Application Service Partners:
+
+Companies working on behalf of Jeeny, to facilitate Services through the Application including, but not limited to, Data analytics, payment processing, marketing activities and communications (for more details please refer to the Marketing Section below), and personalization features. These entities act as Data Processors and handle Your Personal Data soley under Jeeny's instructions and for Jeeny's purposes.
+
+3. Corporate Transactions:
+
+In the event of a sale, merger, liquidation, receivership, or transfer of Jeeny's assets or those of one of Our affiliates , Personal Data may be transferred to the prospective buyer and their professional advisers.
+
+4. Affiliates and Group Companies:
+
+Companies within the same corporate group for purposes including aggregate Data analysis, User profile management, Service personalization and with Your consent, targeted marketing communications. These affiliates uphold Data protection standards similar to Jeeny's to ensure the confidentiality and lawful processing of Your Data.
+
+5. Legal and Regulatory Compliance
+
+Parties who are legally entitled to access Personal Data, including authorities requesting Data via the Law, court orders, or regulatory mandates. This also includes sharing information with other companies and organizations for fraud protection.
+
+6. Business Partners
+
+Trusted Third-party companies and clients with whom Jeeny collaborates as business partners (e.g., for promoting goods or Services), including those assisting Us in providing Our Services to You or performing certain functions on Our behalf, such as User research insights ( For further detail please see the User Research section below) IT support, management Services, or professional consultations.
+
+B. Cross Border Data Transfers and Storage
+
+The Personal Data may be disclosed, to the aforementioned categories of Third Parties who have their registered offices in the KSA or other jurisdictions as necessary for technical or operational reasons. They may act as Data processors on behalf of Jeeny or as separate Data controllers, providing You with the necessary information under their own responsibility.
+
+Any transfer of your Personal Data outside Saudi Arabia will occur only to countries that offer adequate levels of data protection comparable to those required by the Law. Jeeny ensures that the countries to which Data is transferred have in place data protection laws and standards aligned with Saudi Arabia's requirements, thereby ensuring the continued security and confidentiality of your Data. When Data is transferred outside Saudi Arabia, and even if the country receiving the Data does not have stringent data protection standards, We ensure that appropriate safeguards are in place, including:
+
+Standard Contractual Clauses: Agreements with third parties stipulating that they will protect Personal Data to the standards required under the PDPL.
+Data Processing Agreements: Contracts that clearly define the roles and responsibilities of Third parties as Data processors or independent Data controllers, with stringent Data protection obligations.
+
+Your Personal Data is primarily stored on servers located in the KSA. If it becomes necessary to use cloud-based systems or Services based outside Saudi Arabia, Jeeny ensures that appropriate safeguards, such as standard contractual clauses and valid contracts with processors, are in place to protect Your Data.
+
+C. Third Party Applications and Websites
+
+This Privacy Policy applies only to Personal Data collected on Jeeny 's Application. We are not responsible for the content or privacy practices of Third-party applications and Websites operated linked to or from the Jeeny Application. We encourage You to review the privacy policies of any Third Party applications or websites before providing them with Your Personal Data.
+
+6. Data retention period
+
+Your Personal Data will be retained only to the extent necessary to fulfill the purposes for which it was collected, or as otherwise required by the applicable legal and regulatory obligations under the Law unless there is a legal basis for retaining the Data beyond the purpose of collection but shall be destroyed upon the lapse of that period. We retain Data based on the following considerations:
+
+1. Transaction Data: Transaction Data will be retained for the duration required by applicable financial and legal regulations read in light with the Law and based on specific regulatory mandates.
+
+2. Communication Data: Records of communications between You and Jeeny will be retained for the period necessary to address Your inquiries, complaints, and to improve Our Services.
+
+3. Legal and Compliance Retention: We may retain Your Personal Data for a longer period if it is necessary to comply with legal obligations, resolve disputes, enforce agreements or comply with regulatory requirements.
+
+4. Marketing Data:: Personal Data processed for marketing purposes will be retained until You withdraw Your consent or request the deletion of Your Data in line with the Law or User rights.
+
+We regularly review Our Data retention periods to ensure Data is not kept longer than necessary, updating retention criteria based on legal, operational, and regulatory requirements.
+
+7. Personal Data of children under 18 years of age
+
+Jeeny is committed to protecting the privacy of children and does not knowingly collect, retain or process Personal Data of individuals under the age of 18 ("Children" or "Child"). The Jeeny Application may only be used by individuals who are 18 years of age or older and who can form legally binding contracts under Law.
+
+If You book or Use Our Services on behalf of a Child (e.g through a parent or guardian's account), We may by necessity, collect limited Data indirectly related to the Child. By Using Our Services on behalf of a Child You represent and warrant that:
+
+Legal Authority: You have the legal right to act on behalf of the Child including providing consent for the collection and Use of any necessary Data related to the Child;
+Informed Consent: You consent to Jeeny's collection and Use of the child's Personal Data as necessary to provide the requested Services, in accordance with this Privacy Policy and the Law.
+
+Safeguards for Data Related to Children
+
+Jeeny implements strict safeguards to protect any Data associated with Children under 18, including limiting access to such Data only to authorized personnel and ensuring that all processing aligns with legal and regulatory standards under the Law.
+If Jeeny becomes aware of any inadvertent collection of Personal Data directly from individuals under 18 without verified parental or guardian consent, We will promptly delete such Data to protect the Child's privacy
+
+8. Marketing
+
+Jeeny may use Your Personal Data, including usage patterns and preferences, to send You promotional messages, special offers, and advertisements tailored to Your interests ("Marketing Activities"). This may include profiling based on Your interactions with the Application and Your usage history.
+
+By accepting this Privacy Policy and continuing to use the Application, You provide Your consent for such Marketing Activities, including profiling, unless You explicitly choose to opt out.
+
+You may opt out of receiving marketing communications or object to profiling for marketing purposes at any time by:
+
+Accessing the "Contact Us" section within the Application, or
+
+Emailing Us at: [email protected]
+
+Please note that opting out of Marketing Activities does not affect Your ability to receive essential notifications or communications related to Your rides and account operations.
+
+9. Data Use for Research and Studies
+
+We may Use Your Data in an aggregated and anonymized form to conduct internal research and improve Our Services and gain insights into market trends. This Usage allows Jeeny to enhance User experience and optimize Service offerings. Your individual Data will remain confidential and will not be shared in a personally identifiable manner ensuring compliance with the Law and its requirements for privacy and Data protection.
+
+10. Your Rights
+
+Under the Law, You have the following rights regarding Your Personal Data. Jeeny is committed to assisting You in exercising these rights to ensure the transparency, security, and confidentiality of Your Data.
+
+1. Right to Access and Obtain:
+
+You have the right to request access to Your Personal Data that We hold. Upon verification of Your identity, We will provide a copy of Your Data along with information on how it is being used and shared, in compliance with the Law. Where applicable, You have the right to request access to Your Personal Data in a structured, commonly used, and machine-readable format
+
+2. Right to Update or Correct Information:
+
+You may request correction or updating of any inaccurate, outdated, or incomplete Personal Data. We encourage You to keep Your information current to improve the effectiveness of Our Services.
+
+3. Right to Erasure (Right to be Forgotten):
+
+You can request the deletion of Your Personal Data when it is no longer necessary for the purposes for which it was collected, or if You withdraw consent, provided there are no overriding legal or regulatory obligations for Us to retain the Data.
+
+4. Right to Restrict Processing:
+
+You may request a restriction on the processing of Your Personal Data if You contest the accuracy of the Data, object to processing, or require Us to retain the Data only for limited, lawful purposes..
+
+5. Right to Object to Processing:
+
+You may object to the processing of Your Personal Data for certain purposes, including direct marketing or profiling, in cases where the processing is based on legitimate interests.
+
+6. Right to Withdraw Consent:
+
+Where We process Your Data based on Your consent, You have the right to withdraw this consent at any time. Upon withdrawal, Jeeny will cease processing Your Data for the consented purposes, except where required by law.
+
+7. Right to Lodge a Complaint:
+
+If You believe Your Data protection rights have been violated, You have the right to lodge a complaint with the relevant regulatory authority, in addition to contacting Us to address any concerns directly.
+
+8. Right to claim compensation
+
+If You have been harmed as a result of any violation by Us as stipulated in the Law, You have the right to claim compensation for material or moral damage.
+
+To exercise any of these rights, please contact Us at ( Please see the Contact Us section below). We may request identity verification to ensure that We are responding securely to Your request.
+
+Note on Identity Verification:
+
+For security purposes, Jeeny may require additional information to confirm Your identity before processing requests to access, update, or delete Data
+
+11. Contact Us
+
+If you have any concerns regarding our processing of your Personal Data or believe that we are not in compliance with the Personal Data Protection Law, You may file a complaint through Jeeny's complaint/request portal. Our team is dedicated to addressing all Data-related inquiries and complaints. You can reach us through any of the following channels:
+
+If you have any questions about this Privacy Policy please contact us at:
+E-mail address: [email protected]
+Visiting Us: Head Quarters: Qurtubah District - Al Thoumamah Road 46 Plaza - First floor - Riyadh, Saudi Arabia Regional Office: Mecca St. - Al Hijaz Tower - Building 158 - Amman, Jordan
+Submit an inquiry: Contact us
+
+Upon receiving Your complaint, We will strive to respond within the timeframe as required under the Law. If You are not satisfied with Our response, or if We fail to address Your complaint within this timeframe, You have the right to escalate the issue by filing a complaint with the Saudi Data & Artificial Intelligence Authority (SDAIA), the Competent Authority for data protection compliance in Saudi Arabia.
+
+Contact Details for SDAIA:
+
+Address: Kingdom of Saudi Arabia, Riyadh
+
+Website: Saudi Data & AI Authority (sdaia.gov.sa)
+
+National Data Governance Platform: National Data Governance Platform (DGP)
+
+12. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date. We encourage You to review this Privacy Policy periodically. By continuing to Use Our Services after updates are posted, You agree to the revised terms.

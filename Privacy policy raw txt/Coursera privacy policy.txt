@@ -1,0 +1,267 @@
+Privacy Notice
+
+Effective as of January 1, 2022.
+
+Key Information
+
+- Coursera, Inc. is the data controller of the Personal Data we collect about you (i.e., the entity that determines the means and purposes of collecting, using, and disclosing the Personal Data (as defined below)), unless you are part of a degree, certain MasterTrack programs, or certain other circumstances as communicated to you, in which case Coursera is the data processor.
+- We collect the Personal Data set out in the "What Information We Collect" section of this Privacy Notice below, including account registration details such as name and email, details of Content Offerings you undertake, survey information (where you provide it), identity verification data, and information about your use of our site and Services.
+- We use your Personal Data for the purposes set out in the "How We Use the Information" section of this Privacy Notice below, including providing our site and Services to you, ensuring the security and performance of our site, conducting research relating to Content Offerings, sharing information with our Content Providers and our suppliers, direct marketing, and performing statistical analysis of the use of our site and Services.
+- You have a number of rights that you can exercise in relation to our use of your Personal Data, as set out in the "Your Rights" section of this Privacy Notice below.
+
+You can find information about us and how we collect, use, and store your personal data in each section of this Privacy Notice:
+
+- Purpose and Who We Are
+- What Information This Privacy Notice Covers
+- What You Agree to by Using Our Site
+- What Information We Collect
+- How We Use the Information
+- External Links
+- Retention of Personal Data
+- Confidentiality & Security of Personal Data
+- Your Rights
+- Questions, Suggestions and Complaints
+- U.S. State Privacy Rights
+- International Privacy Practices
+- Changes to Our Privacy Notice
+- No Information from Children Under 13
+- Live2Coursera Privacy Notice
+
+Purpose and Who We Are
+The purpose of this Privacy Notice is to describe how Coursera, Inc., along with our subsidiaries and international branches (collectively "Coursera," "we," "us," or "our"), collect, use, and share your personal information through the online interfaces (e.g., websites and mobile applications) that we own and control, including but not limited to coursera.org and rhyme.com (collectively, the "Site"). Please read this Privacy Notice carefully to understand our practices. If you have any questions about our privacy policy, feel free to contact us at privacy@coursera.org. Your use of our Site is also governed by our Terms of Use. Terms used but not defined in this Privacy Notice can be found in our Terms of Use. Coursera, Inc. is a subsidiary of Delaware, headquartered at 381 E. Evelyn Ave., Mountain View, CA 94041. Subject to the provisions of this Privacy Notice, if you reside in or are located in the European Economic Area ("EEA"), Coursera is the data controller of the following information: all personal data collected through the Site (as described below), as well as certain personal data collected through third parties, unless you are part of a degree, certain MasterTrack programs, or certain other circumstances communicated to you, in which case Coursera is the data processor.
+
+What Information This Privacy Notice Covers
+This Privacy Notice covers the information we collect from you through the Site. You do not need to provide any personal data to use some features of the Site, but you must provide personal data to use features and services related to Content Offerings. To access certain features or benefits of our Site, you will need to submit or we will need to collect 'Personal Data' (i.e., information that can identify you, also known as 'Personally Identifiable Information' or 'Personal Information'). Personal Data may include information such as your name, email address, IP address, and device identifiers. You are responsible for ensuring the accuracy of the Personal Data you submit to Coursera. Submitting inaccurate information will affect your use of our Site, the messages you receive when using the Site, and communications between us. For example, your email address must be up to date, as it is one of the primary ways we contact you.
+
+What Information We Collect
+
+We collect the following types of information from users through the Site:
+
+Information related to your use of the Site. When users visit our Site, we may track, collect, and aggregate information about which pages users visit on our Site, the order of visits, the time of visits, and which hyperlinks they click. We will also collect the URLs from which you accessed our Site. Collecting this information may involve recording the IP address, operating system, and browser software used by each user on the Site. We can determine a user's Internet service provider and the geographic location of their connection point through their IP address. We may use location data to route your traffic to the nearest regional server to reduce latency and improve your experience. We may also use cookies and web beacons when you visit our Site. For more information on how we use cookies and web beacons, please see our Cookie Policy.
+
+- Personal Data provided by you or through third parties. We collect personal data you provide when you register for an account, update or change account information, purchase products or services, complete surveys, sign up for email updates, participate in public forums, send us emails, and/or use Content Offerings or other services on our Site. We may use the personal data you provide to answer your questions, provide you with specific Content Offerings and/or selected services, send you updates about Content Offerings or other Coursera activities, and send you emails about Site maintenance or updates.
+
+Account Registration. If you register for an account on our Site, you will need to provide personal data such as your name and email address. You may also voluntarily provide us with other personal data.
+
+- Updates. Coursera may provide you with updates via email or in specific registered user access areas of the Site. You must provide us with personal data such as your name and email address to subscribe to these services.
+- Forums. Coursera may from time to time offer public forums ('Forums') where you can share comments and ideas. To participate in the Forums, you will need to register and/or provide us with personal data such as your name and email address. Please note that information you post or provide in the Forums will be public. You must not post any personal data or other personal or sensitive information about yourself or others in forum posts. Also, please refer to our Terms of Use and Code of Conduct for other information on the proper use of our Forums.
+- Participation in Content Offerings. Coursera offers users the opportunity to participate in Content Offerings on or through the Site. If you wish to participate in a Content Offering, you will need to provide us with certain information required to complete the Content Offering. This information may include your name and email address.
+
+If you participate in a Content Offering, we may collect content you generate as a user, such as assignments you submit, peer-reviewed assignments, and peer review feedback. We also collect course data, such as answers provided in video quizzes, standalone quizzes, exams, and surveys. You should not add any personal data or other personal information or sensitive information about yourself or others, assignments, exams, or surveys, except for information that must be provided to participate in or submit such assignments, exams, or surveys.
+
+- Identity Verification. Coursera provides identity verification features for selected services. To register for these services, you will need to provide personal data to us or a third-party identity verification provider, such as your name, address, date of birth, a headshot taken with a webcam, and a photo ID. In addition, if you apply for financial assistance related to these services, you will need to provide information related to your income.
+- Contacting Coursera. When you send us email messages or contact us, we may receive your personal data.
+- Third-Party Websites. We may obtain your personal data when you visit or log in to third-party websites, such as logging in to Facebook from our Site. Content may include personal data such as text and/or images you leave on third-party websites.
+- Surveys. We receive your personal data when you provide information in response to surveys from us or our Content Providers.
+- Partner Websites. Partner websites that provide tools and services related to Content Offerings to Coursera users may collect non-financial personal user data about individuals' use of the partner websites, and partner websites provide these services to Coursera. Partner websites may share this data with Coursera to improve our services and partner website services and enhance the user learning experience. This data includes information such as the duration of users' use of partner websites and pages browsed.
+- Third-Party Credit Card Processing. Coursera provides you with the ability to pay for Content Offerings and other services using a credit card or other payment method through third-party payment processing service providers. Please note that our service providers (not Coursera) will collect and process your financial information.
+
+What You Agree to by Using Our Site
+
+We believe the legal bases for using your personal information as set out in this Privacy Notice are as follows:
+
+- We need to use your personal information to perform our obligations under any contract we have entered into with you (for example, complying with the Site Terms of Use you accept when browsing our Site and/or complying with a contract between us to provide services to you, your academic institution, your employer, or other organization that provides you with access to our services); or
+- We need to use your personal information to comply with our legal obligations; or
+- We need to use your personal information for our or others' legitimate interests. Our legitimate interests include:
+- Operating, growing, and developing our business;
+- Operating our Site and providing our services;
+- Selecting experienced and qualified suppliers;
+- Building relationships with partners and academic institutions;
+- Conducting research and statistical analysis;
+- Advancing market development and business development; and
+- For internal management and audit purposes.
+
+- You agree to us sending you certain communications or submitting certain information to us in these communications, or including consent statements required by local law in these communications.
+
+The legal basis applicable to specific activities will depend on the type of personal information used and the context in which it is used.
+
+If we use your personal information based on our (or another party's) legitimate interests, we will apply a balancing test to ensure that our (or the other party's) legitimate interests do not outweigh your interests or fundamental rights and freedoms that require protection of personal information.
+
+We may process your personal information for marketing purposes in certain circumstances based on your consent (which you can withdraw at any time as described below).
+
+We use your personal information in a specific way based on your consent, but if you later change your mind, you can remove your consent by visiting your profile page and clicking the relevant text box to withdraw your consent, and we will stop such activities. If you withdraw your consent, it may affect our ability to provide you with certain services.
+
+How We Use AI
+
+We use certain AI product features ("Features") to achieve the purposes described above. We categorize these Features as follows:
+
+Supporting Teaching and Course Generation: Features such as Course Builder, Program Builder, and Smart Ingestion take data from instructor content to generate course drafts that match Coursera for students to use.
+
+Supporting Learning: These Features support learning, such as dubbing content into students' native languages (e.g., AI Dubbing) or helping students self-study (e.g., creating AI-generated flashcards) or providing feedback (e.g., coaching, coaching conversations, tool-based exercise generation, and role-playing).
+
+Enabling Assessment and Review: These Features allow for Peer-to-Peer review, grade assessment, and providing written feedback (e.g., AI Enabled Peer Review, AI Open Ended Questions, and AI Integrity Check). Some Features can also generate assessments (Assessment Generator) or detect signs of potential exam misconduct (Course Proctoring).
+
+- Powering Chatbots and General Analysis Tools: We have developed chatbots (e.g., Cora) and analysis tools to assist learners and Coursera's own internal employees, including providing assistance with customer service.
+
+Your Rights and Safeguards Regarding Automated Decision-Making
+
+You have the right not to be subject to a decision based solely on automated processing that produces legal effects or similarly significantly affects you.
+
+Certain Features (e.g., AI Enabled Peer-to-Peer Review) may affect the score you receive in an assessment. In such cases, you can choose to have a human grader instead. You can also request a human review of your grade. You also have the right to appeal your grade.
+
+If you would like to discuss a Feature with us and how it works, or would like to learn more about the logic involved in that Feature, please contact us using the following methods.
+
+External Links
+For your convenience, we provide links to websites operated by other organizations that are not Coursera ('Third-Party Websites') because we believe this content may be helpful to you. Unless we have a legitimate basis, we will not disclose your personally identifiable information to these Third-Party Websites. We do not endorse and are not responsible for the privacy policies of these Third-Party Websites. If you click on a link to these Third-Party Websites, you will need to review the privacy policies posted on those websites to understand how the Third-Party Websites collect and use your personal data.
+
+How We Use the Information
+
+Coursera collects and uses personal data for the purposes described in this section. When Coursera discloses personal data to third parties for the purposes described above, such sharing will be described.
+
+Providing Site Content and Services. We use the personal data you provide to us for the following purposes: to allow you to access and use our Site, and to provide you with any information, products, or services you request from us.
+
+Technical Support and Security. We may use personal data when necessary to provide you with technical support and to ensure the security of our services and Site.
+
+Updates. We use the personal data you provide when registering for our various email or update services to send you messages related to the Site or Content Offerings. We may also archive this information and/or use it to contact you in the future to the extent permitted by law.
+
+Analyzing and Improving the Site and Services. We use personal data related to your use of the Site and services to analyze how learners interact with the Site, Site features, and content, and our services. This analysis may require the use of technologies such as machine learning or AI tools. We use this information to better understand demand for Coursera and partner products, inform the development of Coursera websites and products, and create higher-quality, more useful services.
+
+Forums. You must not post any personally identifiable information or other personal or sensitive information about yourself or others in forum posts. If you choose to post personally identifiable information, we may collect such personally identifiable information during your use of the Forums. We may post this information through platform extensions using third-party services (e.g., mobile apps). We reserve the right to reuse forum posts containing personally identifiable information in future versions of Content Offerings and to enhance future Content Offerings. We may archive this information and/or use it to contact you and/or your designees in the future and/or provide it to Content Providers, business partners, or instructors related to your chosen course. We may also use or publish posts submitted to the Forums that do not contain personally identifiable information.
+
+Participating in Content Offerings. When you participate in a Content Offering through the Site, we use the personal data collected from you for processing, including but not limited to tracking attendance, learning progress, and Content Offering completion. We may also share your personal data and performance in a specified Content Offering with one or more instructors of that course, teaching assistants, or other personnel designated by the instructors to assist in creating, modifying, and operating the Content Offering, as well as the Content Provider to which the instructors belong. We may also use information generated when you participate in a Content Offering or use the services to perform predictive analysis of your performance in the Content Offering. In addition, we may archive this information and/or use it to contact you in the future to the extent permitted by law.
+
+Using Interactive/Personalized Site Features. We use personal data to facilitate and personalize your interaction with Site features such as chatbots, automated translation and grading features, tailored recommendations, and learner engagement features. These may utilize machine learning and/or AI tools. Where necessary or appropriate, we will provide you with supplemental information in advance about the processing of your personal data through these features, including whether any relevant automated decision-making exists (and meaningful information about the logic involved and the significance and envisaged consequences of such processing).
+
+Identity Verification. For services requiring identity verification, we use the personal data collected to verify your identity and ensure that it is you submitting on the Site. This service may be provided through a third-party identity verification provider. Upon successful verification of your profile information, the photo ID will be deleted.
+
+Contacting Coursera. When you send us emails, use in-platform messaging/chat features (which may use technology provided by third-party service providers contracted by Coursera), or otherwise contact us, we may record and use the information you provide to respond to your communications and/or for other purposes described in this Privacy Notice or other privacy information provided to you when you interact with our communication systems. We may archive this information and/or use it to contact you in the future to the extent permitted by law. When we send you emails, we may track how you interact with those emails (e.g., when you open the email or click on links in the email). We use this information to optimize and better tailor our communications with you.
+
+Contacting Coursera Business Partners. We may share your personal data with Coursera Content Providers and other business partners so that Content Providers and other business partners can share information related to products and services that may be of interest to you to the extent permitted by law.
+
+Research. We may share general course data (including quizzes or assignments, grades, and forum discussions), information about your activity on our Site, and demographic data from surveys we conduct with Content Providers and other business partners so that our Content Providers and other business partners can use this data to conduct online education-related research.
+
+Marketing and Advertising. We use personal data to send marketing messages and provide advertising services, to inform our marketing and advertising strategies and content, to learn more about our audience, and to personalize our marketing and advertising to make them more relevant to specific audiences. We may share personal data with third-party tools and service providers to conduct some of these activities, particularly for online advertising purposes (including targeted advertising and custom audience activities) - for more information, please see our Cookies Policy.
+
+Disclosure to Coursera Contractors. We use various third-party service providers, vendors, and contractors (collectively "Contractors") to support Coursera's activities, including for the purposes listed in this section of the Privacy Notice. Our Contractors will access personal data to the extent necessary to provide services to Coursera. These Contractors may include vendors and suppliers that provide us with technology, services, and/or content related to the operation and maintenance of the Site or Content Offerings, or related to other Coursera business activities. These Contractors' access to your personal data is limited to the information reasonably necessary for the Contractors to perform their limited functions for us.
+
+Government Agencies: Coursera may share your personal data with various government agencies (e.g., regulatory agencies, law enforcement activities, and national security organizations) pursuant to a lawful subpoena, court order, or other legal process; to establish or exercise our legal rights or protect our property; to defend against legal claims; or as required by law. In these cases, we reserve the right to raise or waive any legal objection or right.
+
+Legal Rights and Actions: Coursera may share your personal data with government authorities, external advisors, and other relevant or affected third parties when we deem appropriate: to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of Coursera, the Site, our users, customers, or others; and in connection with our Terms of Use and other agreements.
+
+Disclosure to Acquirers. Coursera may disclose and/or transfer your personal data to an acquirer, assignee, or other successor entity in connection with the sale, merger, or reorganization of all or substantially all of Coursera's equity, business, or assets.
+
+- E-Readers. If we receive any personal data related to your use of a designated e-reader to access Coursera materials, we may archive it and use it for research, commercial, or other purposes.
+
+Retention of Personal Data
+We retain your personal data no longer than necessary for the purposes for which it was collected and processed. The length of time we retain personal data depends on the purposes for which we collect and use it and/or as required by applicable law and the establishment, exercise, or defense of legal rights.
+
+Confidentiality & Security of Personal Data
+We will use industry-standard physical, technical, and administrative security measures to ensure the privacy and security of your personal data to the extent permitted by applicable law, and we will not share this information with third parties except as described in this Privacy Notice or in special circumstances where we reasonably believe disclosure is necessary (e.g., where you or others are in physical danger). Because the Internet is not a 100% secure environment, we cannot guarantee the security of your personal data, and unauthorized third parties may find ways to bypass our security systems, or information we transmit over the Internet may be intercepted. You are responsible for protecting the security of your login information. Please note that email communications are generally not encrypted and should not be considered a secure means of communication.
+
+Your Rights
+
+You have certain rights regarding your personal data. You can access your personal data and confirm its accuracy and currency, choose whether to receive materials from us or certain partners, and log in to the Site and select 'Settings' from the drop-down list in the upper right corner and scroll down to find the relevant option to request that we delete or provide a copy of your personal data. The delete account feature may be disabled for certain users, particularly those registered for credit-bearing courses (e.g., degrees, MasterTrack certificate programs, and other similar courses).
+
+If you would like to learn more about your rights or wish to exercise any rights, you can also contact us at privacy@coursera.org. If you reside in or are located in the EEA, UK, Switzerland, or regions providing similar protection, you have the right to request that we: provide access to the personal data we hold about you; prevent the use of your personal data for direct marketing; update any outdated or incorrect personal data; delete any personal data we hold about you; restrict how we use your personal data; provide your personal data to a third-party provider or service; or provide you with a copy of the personal data we hold about you.
+
+We will respond to each request as promptly as possible and within the timeframes required by applicable law. Please note, however, that when we delete your personal data, there may be residual information in our databases, access logs, and other records that may or may not contain your personal data. Please also note that in some cases, we may not be required to comply with such requests when processing certain personal data, which may include: where we need to continue using your personal data to comply with a legal obligation. When you send us a request via email, we may ask you for information necessary to confirm your identity.
+
+For more information for residents of U.S. states that have adopted relevant U.S. state privacy laws, please see our U.S. State Privacy Law Notice.
+
+Questions, Suggestions and Complaints
+
+If you have any privacy-related questions, suggestions, unresolved issues, or complaints, you can contact us at privacy@coursera.org.
+
+If you reside in or are located in the EEA, UK, Switzerland, or regions providing similar protection, you may also complain to our supervisory authority (i.e., the UK Information Commissioner's Office or the Dutch Autoriteit Persoonsgegevens) about data protection-related issues; if you believe your rights have been infringed, you may also seek remedies through your local courts.
+
+Coursera BV is the EU representative of Coursera, Inc. To contact Coursera BV, please use the following contact information:
+Post: Coursera Europe B.V.
+      Attn: Privacy Requests
+      Schiphol Boulevard 195, 1118BG Schiphol
+
+Email: eu-representative@coursera.org
+
+Coursera UK Limited is the EU representative of Coursera, Inc. To contact Coursera UK Limited, please use the following contact information:
+Post: Coursera UK Limited
+      Attn: Privacy Requests
+      City Bridge House, 57 Southwark Street, London SE1 1RU
+
+Phone: ++44 20 3457 0256
+
+Email: eu-representative@coursera.org
+
+U.S. State Privacy Rights
+
+Shine the Light Law
+Under California's 'Shine the Light' law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2018 will receive information regarding 2017 sharing activities).
+
+To obtain this information, please send an email to privacy@coursera.org with 'Request for California Privacy Information' in the subject line and body. We will provide the requested information to you in a reply email. Please note that not all information sharing is covered by the 'Shine the Light' requirements and only information on covered sharing will be included in our response.
+
+U.S. State Privacy Laws
+
+Under certain U.S. state privacy laws ('U.S. State Privacy Laws'), residents of relevant U.S. states have the right to know what personal information is collected about them and how it is used and disclosed. Residents of relevant U.S. states may also exercise certain rights regarding their data (such as access, deletion, and opt-in/opt-out of certain disclosures and uses). For more information about how we handle personal information of residents of relevant U.S. states and the legal rights of these residents, please review our U.S. State Privacy Law Notice.
+
+International Privacy Practices
+
+Our Site is primarily operated and managed on servers located in the United States. To provide you with our products and services, you may need to send your personal data to countries outside your country of residence, including the United States. As a result, your personal data may be transferred to locations outside the country in which you reside or are located, including countries that may not provide an equivalent level of protection for your personal data. We are committed to protecting personal data when it is transferred. If you reside in or are located in the EEA, UK, Switzerland (or other regions providing similar protection), and such data transfer occurs, we will take appropriate measures to ensure that your personal data receives an equivalent level of protection. When transferring data from the EEA, UK, or Switzerland to the United States, we participate in and commit to comply with the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework, or the Swiss-U.S. Data Privacy Framework. For more details, please see the Privacy Shield Statement below.
+
+Changes to Our Privacy Notice
+
+Please note that we review our privacy practices from time to time, and that these practices are subject to change. Any changes, updates, or modifications will be effective immediately upon posting on our Site. We will post a notice on the Site's home page for a reasonable time after updates, or send an email to the email address associated with your user account and change the effective date to notify you of any material changes to this Privacy Notice (at the top and bottom of this page). Be sure to return to this page frequently to review the most current version of this Privacy Notice.
+
+No Information from Children Under 13
+
+Coursera is very concerned about protecting children's privacy. No child under 13 years of age is permitted to use or access the Site, and certain regions and Content Offerings may have other requirements and/or restrictions. Based on this belief, we do not knowingly collect or maintain personal data from children under 13 on the Site, and no content on our Site is directed to children under 13. If you are under 13 years of age, please do not use or access the Site at any time or in any manner. If we discover that such personal data exists, we will take appropriate steps to delete any personal data of children under 13 collected on our Site without parental consent.
+
+Live2Coursera Privacy Notice
+
+This section explains how Coursera collects and uses personal data of users using our Live2Coursera service, and supplements but does not replace our Privacy Notice, which governs how we handle personal data of all Coursera users. The terms of use for Live2Coursera can be found here. Any defined terms used in this section, if not otherwise defined in the Privacy Notice, can be found in the Live2Coursera Terms of Use.
+
+Live2Coursera enables instructors to record, share, and upload lectures (including lectures recorded using third-party products) to Coursera for students to view on mobile devices or computers. In addition to the other activities outlined in our Privacy Notice, Live2Coursera users should review the following:
+
+- Coursera will collect the audio and video content instructors choose to upload via third-party products, as well as the instructor's name, email address, and thumbnail image. Instructors may also provide us with their students' contact information so that Coursera can share the link to the content with those students. Before sharing student contact information, instructors should ensure they have obtained appropriate consent and permission from those students. Please note that the audio and video content provided by instructors to Coursera may include the voices of students participating in live lectures, and we may make all such content publicly available to all users of the platform.
+- Coursera will use your information to provide and operate our Live2Coursera service and will provide certain information to other Live2Coursera participants: for example, we will allow students to view content uploaded by their instructors and allow instructors to know which students viewed their lectures.
+- Coursera may also share certain information about your use of the Live2Coursera service with any relevant third-party providers. Please note that when you interact with any third-party product, that third-party product may independently collect information about you and request information from you. We cannot control or review third-party privacy practices and are not responsible for them. We recommend that you review all third-party privacy statements for more information.
+
+If you have any questions about how we handle your information, please contact us at privacy@coursera.org.
+
+Data Privacy Framework (DPF) Notice
+
+Effective as of January 1, 2022.
+
+Introduction.
+Coursera, Inc (also referred to as "we") believes that your privacy is protected. This DPF Notice contains supplemental information related to personal data transferred pursuant to the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework, or the Swiss-U.S. Data Privacy Framework. This DPF Notice should be read in conjunction with Coursera's Privacy Notice, which details the personal data processed, the purposes of collecting, processing, and disclosing personal data, the types of third parties to which personal data is disclosed, and the rights of individuals. In the event of any conflict between this DPF Notice and Coursera's Privacy Notice, this DPF Notice shall prevail.
+
+We participate in and commit to comply with the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework, and the Swiss-U.S. Data Privacy Framework (collectively, "DPF"), which include the DPF Principles: Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability ("Principles"), as applicable to the transfer of personal data from the European Economic Area, the United Kingdom, and Switzerland to the United States, respectively. To learn more about the DPF, please visit the DPF website: https://www.dataprivacyframework.gov. For more information about DPF certification, please click here or search for "Coursera" in the DPF Participant List.
+
+Your Choices
+You can also choose at any time to opt out of the use of your personal data for direct marketing and certain tracking technologies.
+
+Recourse, Enforcement and Liability
+We regularly review our compliance with the statements set forth in this Privacy Shield Notice, and we will provide independent recourse mechanisms to resolve complaints about our privacy practices. We encourage interested users to contact us (contact information provided below), and we will investigate and attempt to resolve any complaints and disputes regarding the use and disclosure of personal information in accordance with the relevant Principles. If you are not satisfied with our response to your question, we have registered with the International Centre for Dispute Resolution ('ICDR'), a division of the American Arbitration Association, which provides independent third-party dispute resolution services (at no cost). To contact ICDR and/or learn more about the company's dispute resolution services, including filing a claim, please visit: http://go.adr.org/privacyshield.html. In certain circumstances, disputes may be resolved through the Privacy Shield Binding Arbitration Program. For more information, please see the DPF website. For Swiss residents, the authority of the Swiss Federal Data Protection and Information Commissioner will replace that of the EU bodies. For UK residents, the Information Commissioner's Office will serve in this role.
+
+In the context of onward transfers, Coursera is responsible for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting on its behalf. If Coursera's agent processes such personal data in a manner inconsistent with the Principles, Coursera remains liable under the Principles unless Coursera proves that it is not responsible for the event giving rise to the damage.
+
+Jurisdiction
+As part of our participation in the Privacy Shield, we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission and other authorized statutory bodies.
+
+Changes
+We may revise this DPF Notice from time to time in accordance with the requirements of the DPF or any subsequent data transfer framework. The most recent version of the Privacy Shield Notice will always be posted on this website. Whenever we make such changes, we will update the effective date listed at the top of the Privacy Shield Notice. Please be sure to review the most current version of the Privacy Shield Notice each time you visit this website so that you understand how we collect, use, and retain personal information.
+
+Contact Us
+If you have any questions or comments about this DPF Notice, the transfer of your personal data from the EEA, UK, or Switzerland to the United States, our privacy practices, or your consent choices, please contact us by email at privacy@coursera.org.
+
+Revision History
+Last updated: December 3, 2025.
+
+Coursera provides and integrates a ChatGPT-branded application within ChatGPT that is solely for providing access to OpenAI courses to employees of OpenAI customers ("you") ("this Application"). To access this Application, you must have a Coursera account. If you choose to close your Coursera account, or if Coursera closes or suspends your Coursera account in accordance with its Terms of Use, you will no longer be able to access the App and any related OpenAI courses provided through the App.
+
+The Coursera Privacy Notice ("Privacy Notice") continues to apply to your use of Coursera services, including use of the App. This Privacy Notice Appendix ("Appendix") is incorporated into and forms part of the Privacy Notice. This Appendix provides supplemental information about how Coursera handles your personal information (particularly in relation to the App). For information on how to contact Coursera about any privacy-related issues or to exercise your privacy rights, please refer to the Privacy Notice. In the event of any conflict between this Appendix and the Privacy Notice, this Appendix shall control solely with respect to the App.
+
+Personal Information Processed by Coursera and Why
+
+In addition to the information described in the Privacy Notice, Coursera may receive the following personal information from you, OpenAI, or your employer to support your access to the App and participation in OpenAI courses:
+
+Your name, email address, and similar specific organizational identifiers. Coursera uses this information to create or manage your Coursera account or enable single sign-on (SSO) as requested by OpenAI or your employer.
+
+- Limited data related to your course activity in ChatGPT (e.g., your course grades and the reasons for those grades). Coursera uses this information only to track your course progress, help you complete OpenAI courses, and issue your OpenAI course completion badge on behalf of OpenAI.
+
+Sharing Personal Information
+
+As described in the Privacy Notice, Coursera shares information when necessary to provide and support our services. For OpenAI courses learned through the Application:
+
+Coursera will provide limited personal information (name, email address, and badge metadata) to its third-party digital credentialing platform (Credly) so that you can create an account on Credly and receive your OpenAI course completion badge.
+
+- Coursera may share your course progress, completion status, and other analytical or usage information with: (i) OpenAI, to monitor the performance of the App, evaluate course engagement, and improve the integration between the App and ChatGPT; (ii) your employer (if they are an existing Coursera enterprise customer), for organizational purposes such as verifying enrollment, tracking completion of mandatory or optional training, supporting internal learning and development programs, and generating related reports. Once shared, OpenAI and your employer will process any personal information received through the App in accordance with their respective privacy practices.
+
+Opt-Out Request Honored

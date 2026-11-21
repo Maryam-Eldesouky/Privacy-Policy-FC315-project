@@ -1,0 +1,257 @@
+Privacy Notice
+v.2.0.0: 05 February 2026
+
+Tabby’s Data Privacy Notice was updated on 05 February, 2026 and shall become effective on 08 March, 2026.
+
+1. About Us
+Tabby Financing Company JSC, a closed joint-stock company incorporated under the laws of the Kingdom of Saudi Arabia (KSA) holding commercial register number 1010614810 provides flexible payment solutions that help customers better manage their spending. Tabby enables shoppers to split payments over time and supports merchants by offering their customers flexible payment options both online and in store.
+
+2. Introduction
+This privacy notice (“Notice”) explains how Tabby (also "we", "us", and "our") collects, uses, and protects your Personal Data. This Notice applies to all natural persons, whether customers or merchants ("you" and "your"), who interact on the Tabby App or use our services (together, the “Platform”).
+We are committed to protecting your privacy and want to be transparent about how we handle your personal data.
+
+3. Purpose of this Notice
+The purpose of this Notice is to provide an insight into our privacy practices and the Personal Data that we collect and process about you through various sources. This Privacy Notice covers the following:
+- What Personal Data do we collect?
+- How do we use your Personal Data?
+- What Gives Us the Right to Use Your Personal Data
+- Processing of Personal Data where we need your explicit consent
+- Who do we share your information with?
+- Where do we store your information?
+- Transfer of Personal Data abroad
+- What about payment processing?
+- How do we protect your information?
+- How long do we keep your information?
+- What rights do you have?
+- Changes to this Notice
+- How to Contact Us
+- Terms and Definitions
+
+4. What Personal Data Do We Collect?
+
+4.1. Information You Provide To Us
+When you use our Platform – for instance, to create an account, use our services, make a purchase with Tabby, or contact us – we collect information directly from you during the onboarding process or our provision of services to you. Data may be directly collected by us when we request you to provide information in the Tabby App, fill in mandatory fields or select options in a drop down list. Additionally, we may ask you to upload documents or gather information during our verbal communications. Such information includes:
+- Identity and contact details: your name, email, address, phone number, date of birth, and National ID.
+- Financial details: your credit or debit card number and bank account (IBAN) details.
+- Communications: a record of our conversations, including emails, calls, texts and in-app messages, when you contact us or we contact you.
+
+4.2. Information We Receive From Others
+We work with trusted third parties like retailers, business partners, technical service providers, debt collection agencies, advertising networks, analytics providers, and search information providers. Such data collection is considered indirect and may occur through cookies or other tracking technologies, monitoring and analytics tools, or system-generated data derived from customer interactions, including IP addresses and similar identifiers. We may receive information about you from these sources, including:
+
+a. Credit Information
+Information Collected: Your information on open loan, credit score, National ID, address, utility bills, name, credit score, past and ongoing court cases, etc.
+Source of Information: Credit Bureau Service providers
+
+b. KYC Verification
+Information Collected: We use a third-party service to verify who you are. You will be asked to provide them with an appropriate form of government ID (like scan of the ID or ID number) and in some cases, a selfie (to match against your ID). Your use of this service is regulated by that organisation's own terms and privacy policy.
+Source of Information: KYC verification service providers
+
+c. Bank Account details
+Information Collected: Customer Bank Balance and transaction details
+Source of Information: Open Banking Service providers
+
+d. Risk scoring details
+Information Collected: Details on social media/ network sites where you are registered, IP address, location of IP, risk level of IP, risk level of email and phone
+Source of Information: Third party service providers
+
+e. Advertising
+Information Collected: Advertisers may share technical information and information about your visits with them, including your experiences or interactions with them
+Source of Information: Advertisers
+
+4.3. Information we collect automatically
+When you use our Platform, we automatically collect:
+- Technical information: your IP address, login information, browser type and version, any plug-in you may have installed, your device ID and settings (e.g. language, time zone), operating system, hardware version, mobile operator or ISP.
+- Usage information: We gather information about your visit and how you interact with our Platform, which includes the full web addresses (URLs) you visit, and the path you take to, through, and from our site, including the date and time of your visit, the products you looked at or searched for, how long you spent on pages, and your interactions with the page, such as scrolling, clicks, and mouse-overs, the methods you used to navigate away from a page and the phone number you used to call our customer service line or the social media username you used to connect with our support team.
+- Location data: your geographic locations using GPS, Wi-Fi or Bluetooth signals. To do this, we may check your precise coordinates (latitude/longitude), your country or region by looking up your IP address and/or your device's unique advertising identifier, such as the Identifier for Advertisers (IFA) on Apple devices or the Android ID on Android devices. This may be collected in combination with your device ID, so we can recognise your mobile browser or device when you return to using our services. You have the option to opt-out of location sharing.
+- In-app Browser Usage: customer activities within our in-app browser. This includes tracking the URLs you visit while using the in-app browser.
+
+5. How do we use your Personal Data?
+We use your Personal Data in the following ways:
+If you browse our Platform, we use automatically collected information to:
+- Understand how you use our Platform and how we can improve it.
+- Ensure content from our Platform is presented in the most effective manner for you and for your computer.
+- Provide you with the information, products and services that you request from us, or we think you may be interested in.
+
+If you create and use an account with us, we use your contact details, identity, log-in details, financial information, credit, verification and automatically collected information to:
+- Create and administer your account with us.
+- Verify your identity (including appropriate screening processes).
+- Conduct credit checks and receive results from our third-party credit check providers.
+- Verify and carry out financial transactions in relation to payments you make online/through the platform.
+- Provide aggregated reporting information to, and otherwise manage and fulfil our agreements with, our shareholders, investors and finance providers.
+- Identify you when you sign-in to your account and give you appropriate access to our Platform (in accordance with your agreement with us).
+- Enforce or apply our terms or other agreements with you.
+- Notify you about changes to our service.
+We may conduct some profiling and automated decision-making to help us determine whether or not to verify and approve your account, including on the basis of your credit history.
+If you would like more information about our automated decision-making practices or would like to request a manual review of any decision, please contact us.
+If you deactivate your account and later decide to open a new one using the same contact or identity details, you will need to wait 180 days from the date of deactivation before reapplying.
+
+When you contact or engage with us, we use your contact details, identity, log-in details, financial information, credit verification and communications information to:
+- Provide you with customer support, including contacting you if you've asked us to do so or for troubleshooting problems, and helping with any issues concerning our Platform, and
+- Providing you with the information, products and services that you request from us.
+
+If we share marketing or advertising with you, we may use your contact, marketing, advertising and automatically collected information to:
+- Provide you with promotional update communications by email, SMS, in-App alerts, and phone about our services about goods or services we feel may interest you.
+- Contact you for your opinions about our Platform, including through surveys and other market research.
+- Understand how you use and interact with our services and the things you're connected to and interested in.
+- Provide you with personalised recommendations, promotional updates and marketing to improve your experience with our Platform.
+- Measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you.
+We may conduct some profiling and automated decision-making to help us provide you with relevant information, suggestions and recommendations for products. We do this if permitted in our legitimate interests (where we have considered these are not overridden by your rights) or with your prior consent (where required by law).
+You can opt-out of further marketing at any time by contacting us as set out in the “How to contact” section below.
+
+When we maintain and improve our Platform, we may use your account information, marketing, advertising and automatically collected information (including location data) to:
+- Administer our Platform and services and for internal operations, including audits, troubleshooting, data analysis, testing, research, statistical and survey purposes.
+- Evaluate and improve our products, services and Platform, including developing and testing new features.
+- Keep our Platform safe and secure to detect and protect against error, fraud or other criminal activity.
+- Improve our Platform to ensure that content is presented in the most effective manner for you and for your computer, and to alert you to any hardware or software incompatibility issues.
+- Allow you to participate in interactive features of our service, when you choose to do so.
+We do this in our legitimate interest, where we have considered these are not overridden by your rights.
+We also do this to comply with our legal obligations.
+
+Information we receive from others. We may combine this information with information you give to us and information we collect about you in our legitimate interests (where we have considered that these are not overridden by your rights). We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+
+Anonymised and grouped data. We may alter your information so that it no longer identifies you personally. This is done in two ways:
+- Pseudonymization: This process removes direct identifiers from your data. You can only be re-identified if the data is combined with other specific information that we hold separately.
+- Anonymization: This process removes identifiers completely, so you cannot be identified from the data at all, such as when we create broad statistics.
+We use this anonymized and grouped data for several purposes:
+- To analyze how customers use our website and app, including tracking behavior patterns across multiple devices.
+- To understand how users interact with us on social media, such as gathering demographic statistics.
+- To provide more useful information to our customers and learn which of our services are the most interesting to them.
+- We may also share this grouped data (for example, demographic statistics about our customers) with our partners or other third parties. This may be done to gain access to their products or services, or to promote our platform.
+
+6. What Gives Us the Right to Use Your Personal Data
+
+Legal Basis: To fulfill our agreement with you
+Particulars: We collect, store and process your Personal Data where it is necessary for performing a contract you have with us (such as our terms and conditions), or where you have asked us to take specific steps before entering into that contract.
+
+Legal Basis: Tabby’s legitimate business interest
+Particulars: We may process your Personal Data if it is necessary for our legitimate interests or the legitimate interests of a third party, provided those interests are not outweighed by your rights and interests. Our legitimate interests include:
+- Providing you with the information, products and services that you request from us.
+- Providing you with our promotional updates and marketing if we reach out to you and/or you are interacting with us in a business-to-business context (or in certain cases if you have purchased a service from us and have not opted-out at the time of purchase or any time since) (you are free to opt-out at any time).
+- Providing you and our other customers with personalised recommendations, promotional updates and marketing to improve your experience with our Services.
+- Gaining insights into how customers use our Services, delivering, developing and improving our Services, and growing our business and informing our marketing strategy.
+- Measuring and understanding the effectiveness of advertising we serve to you and others and delivering relevant advertising to you.
+- Keeping our Services safe and secure.
+- Improving our Site to ensure that content is presented in the most effective manner for you and for your computer.
+- Administering our Site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
+- Carrying out our obligations in our agreements with our business partners.
+
+Legal Basis: Your consent
+Particulars: With your consent, we may need to Process your Sensitive Data, Credit Data or automatically process some of your Personal Data in order to offer our services to you, or may Process your Personal Data to send you marketing communications. Please refer to section 7 of this Notice for a detailed list of scenarios where we require your explicit consents and applicable conditions.
+
+Legal Basis: To comply with another law or judicial order
+Particulars: We may need to process your Personal Data to comply with our legal obligations, including under applicable local laws and/or any court orders. This may include compliance with know-your-client and anti-money laundering rules.
+
+7. Processing of Personal Data when we need your explicit consent
+What is explicit consent?
+Direct and explicit consent given by you in a form that clearly indicates your acceptance of personal data processing in a manner that cannot be interpreted otherwise, with a record proving when and how the consent was given.
+
+Why we need your explicit consent
+We need your explicit consent for the following:
+- To process your Sensitive Data
+- To process your Credit Data
+- For automated Processing of your Personal Data, including profiling
+
+What is Credit Data?
+Any personal data related to an individual's request for, or obtaining of, financing from a financing entity, whether for a personal or family purpose, including any data relating to that individual's ability to obtain and repay debts, and the credit history of that person.
+
+What is Sensitive Data?
+Personal data revealing racial or ethnic origin, or religious, intellectual or political belief, data relating to security, criminal convictions and offenses, biometric or genetic data for the purpose of identifying the person, health data and data that indicates that one or both individual’s parents are unknown.
+
+Sharing data with third parties
+We may collect or share any data collected with your express consent in accordance with section 8 of this Notice.
+
+Your rights
+Consent Withdrawal: You may contact us through any of our customer support outlined in section 15 below and request to withdraw your consent. Our customer support team will verify your identity and clarify the scope of the consent to be withdrawn, including the relevant purpose. The validated request is then escalated to the Privacy team which will take necessary action to update consent records, disable related processing activities, and notify any applicable third parties. Upon completion of the withdrawal, you will be informed that the withdrawal has been successfully implemented and your account will be de-activated.
+For more information on rights available to you, please refer to section 14 of this notice.
+
+8. Who do we share your information with?
+We may share your personal information:
+- with any member of our group (which includes our subsidiaries and our ultimate holding company and its subsidiaries, who support our processing of personal data under this Notice, who we support in processing your personal data, or who we otherwise share your personal data with.
+- with selected third parties (inside the jurisdiction or outside based on regulatory requirements), including the credit reference agencies we work with. Our selected third parties may include:
+- Organisations who process your personal data on our behalf and in accordance with our instructions and the Data Protection Law. This includes supporting the services we offer through the Platform, in particular those providing website and data hosting services, providing fulfillment services, distributing any communications we send, supporting or updating marketing lists, facilitating feedback on our services and providing IT support services from time to time. These organisations (which may include third party suppliers, agents, sub-contractors and/or other companies in our group) will only use your information to the extent necessary to perform their support functions.
+- Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we will provide them with aggregate information about our users. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience and subject to the cookie section of this Notice.
+- Analytics and search engine providers that assist us in the improvement and optimisation of our site (this will not identify you as an individual).
+- Merchants and business partners who provide services to you, and with whom we have entered into agreements in relation to the processing of your personal data a list of whom can be provided upon request.
+- Credit Reference Agencies for the purpose of assessing your credit score whether when setting up an account with us or on an ongoing basis. We do this to assess creditworthiness and product suitability, check your identity, manage your account, trace and recover debts and prevent criminal activity. We continue to exchange information about you, your settled accounts and debts not fully repaid on time with the Credit Reference Agencies while you use our services. The Credit Reference Agencies will share your information with other organisations. Your data will also be linked to the data of your spouse, any joint applicants or other financial associates.
+- Payment processing providers who provide secure payment processing services.
+- Debt collection agencies, should your account fall into arrears, in order to collect the amount you owe us from you.
+- any person to whom disclosure is necessary to enable us to enforce our rights under this Privacy Notice or under any agreement we have with you, or to protect our rights or the rights of third parties. This includes exchanging information with law enforcement agencies (including regulators) or other similar government bodies
+- where required to do so by court order or where we are under a duty to disclose or share your information in order to comply with (and/or where we believe we are under a duty to comply with) any legal obligation.
+- in the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer.
+
+If we share your personal information with our group companies or other third parties, we will take steps to protect your personal information in our contractual agreements with these third parties, and to require that they have appropriate technical and organisational security measures in place, in compliance with applicable data protection laws.
+Personal Data may be disclosed either on a one-time basis or on a recurring basis, depending on the nature of the service or regulatory requirement.
+
+9. Where do we store your information?
+If you are a KSA data subject, your personal data is stored exclusively within the Kingdom of Saudi Arabia. We take all reasonably necessary measures to ensure that your data is subject to appropriate safeguards and is processed securely and in full compliance with this Notice.
+
+10. Transfer of Personal Data abroad
+We may transfer your Personal Data outside the country where it was originally collected in the following cases:
+- in order to store it.
+- in order to enable us to provide goods or services to you and fulfil our contract with you. This includes order fulfilment, processing of payment details, and the provision of support services.
+- in order to facilitate the operation of our group of businesses, where it is in our legitimate interests, and we have concluded these are not overridden by your rights.
+When we transfer your personal data to another country for Processing by a third party, we will require that third party to protect the personal data received in accordance with the data protection requirements under Applicable Laws. This may include the requirement to put appropriate safeguards in place to protect the personal data. Details of any such appropriate safeguards can be requested via the “How to Contact Us” section below.
+
+11. What about payment processing?
+Payment details you provide will be encrypted using secure sockets layer (SSL) technology before they are submitted to us over the internet.
+Payments made on the Platform are made through our payment gateway providers in each country. You will be providing credit or debit card information directly to our payment gateway providers which operate a secure server to process payment details, encrypting your credit/debit card information and authorising payment. Information which you supply is not within our control and is subject to their own Privacy Notice and terms and conditions.
+
+12. How do we protect your information?
+We take reasonable steps, including physical, technical and organisational measures, to protect your Personal Data from unauthorised access and against unlawful Processing, accidental loss, destruction and damage.
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Platform; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+External links - Our site may, from time to time, contain links to external sites. If you follow a link to any of these websites, please note that these websites have their own privacy policies. Please check these policies before you submit any personal data to these websites. We are not responsible for the privacy policies or the content of such sites.
+Child safety. Protecting the safety of children when they use the Internet is important to us. Our Platform is intended for use only by persons who are at least 18 years of age. You may not use our Platform unless you are 18 or older.
+
+13. How long do we keep your Personal Data?
+We will keep your Personal Data for:
+- as long as you have an account with us in order to meet our contractual obligations to you, and
+- for ten years after that to identify any issues and resolve any legal proceedings.
+If you opt-out from us sending you promotional updates and marketing, or object to any other Processing of your Personal Data, we may keep a record of your opt-out or objection so we can ensure we respect your direct marketing preferences.
+We may also retain aggregate information beyond this time for research purposes and to help us develop and improve our services. You cannot be identified from aggregate information retained or used for these purposes.
+
+14. What rights do you have?
+You have rights over your Personal Data. Here’s a summary of those rights and how you can use them:
+1. Right to be informed: you are entitled to know how, why, for how long, on what legal bases your Personal Data is processed and be informed of any automated decision making process that relies on your Personal Data. This Notice provides you with such information. If you have any additional queries on this matter, please contact us as set out in the “How to contact” section below.
+2. Right to access: you are entitled to access your Personal Data in writing and enquire as to whether or not we are Processing any Personal Data relating to you, receive information at least on the purposes of the Processing, the categories of Personal Data concerned, and the recipients or categories of recipients to whom the Personal Data are disclosed.
+3. Right to correct: you are entitled to request that we correct your Personal Data when they are not accurate.
+4. Right to delete: you are entitled to request that we delete your Personal Data after fulfilling certain requirements. This right is not absolute and only applies in certain circumstances.
+5. Restriction of processing: you can limit the way that we as Data Controllers use your Personal Data. If you make such a request, to the extent applicable we will only store the Personal Data to comply with Applicable Laws, and not for anything else.
+6. Right to object: in some cases, you are entitled to object to certain processing. For example, if you do not want to be contacted by a Data Controller for marketing purposes. This right is subject to conditions.
+7. Data portability: In some cases, you may request us as Data Controller to provide you with a copy of your Personal Data in a digital format or send it to a third party appointed by you. This right is subject to conditions.
+8. Right to file a complaint: with the appropriate authority.
+9. Right to withdraw consent: whenever Personal Data is Processed based on your consent, you may withdraw such consent at any time. However, this will not affect the lawfulness of any Processing done before the consent was withdrawn.
+
+How to exercise your rights
+You may exercise your rights by using the contact methods outlined in the “How to Contact Us” section. Before fulfilling your request, we may ask you additional information to verify your identity and confirm you are authorized to make it.
+
+How we handle your requests
+We endeavor to respond to all data-related requests within 30 days of receipt.
+Where a request is complex or multiple requests are received, this timeframe may be extended by an additional 30 days. In such cases, we will notify you in advance and provide an explanation for the delay.
+If a request is submitted electronically, we will respond electronically where feasible, unless you request an alternative method of response.
+If we are unable to act on your request, we will notify you within 30 days of receiving it, and explain the reasons for our decision.
+
+Changes to this Notice
+We have the right to change this Notice at any time in future by posting the relevant update on this website. This page will always show the latest notice applicable to you and the relevant effective date. In some cases, for example if we make significant changes to this Notice, we may also notify you by e-mail, sms or in-app messaging.
+
+15. How to Contact Us
+If you would like to contact us about your Personal Data, or if you have a question or comment regarding this Notice or any other privacy matter, you can reach out in the following ways:
+- by sending us an email to myprivacy@tabby.sa
+- by calling us at: 800 111 0999
+- by sending a letter to the registered address of any Tabby group company, or using this address: Tabby Privacy, Anas Ibn Malik An Narjis, Riyadh, Saudi Arabia.
+
+16. Terms and Definitions
+
+Applicable Laws: Saudi Arabia Personal Data Protection Law
+
+Credit Data: Any Personal Data related to an individual's request for, or obtaining of, financing from a financing entity, whether for a personal or family purpose, including any data relating to that individual’s ability to obtain and repay debts, and the credit history of that person.
+
+Data Subject: The individual to whom the Personal Data relate.
+
+Personal Data: Any data, regardless of its source or form, that may lead to identifying an individual specifically, or that may directly or indirectly make it possible to identify an individual, including name, personal identification number, addresses, contact numbers, license numbers, records, personal assets, bank and credit card numbers, photos and videos of an individual, and any other data of personal nature
+
+Processing: Any operation carried out on Personal Data by any means, whether manual or automated, including collecting, recording, saving, indexing, organizing, formatting, storing, modifying, updating, consolidating, retrieving, using, disclosing, transmitting, publishing, sharing, linking, blocking, erasing and destroying data.
+
+Sensitive Data: Personal Data revealing racial or ethnic origin, or religious, intellectual or political belief, data relating to security criminal convictions and offenses, biometric or genetic data for the purpose of identifying the person, health data and data that indicates that one or both of the individual’s parents are unknown.
+
+Transfer: The transfer of Personal Data from one place to another for Processing

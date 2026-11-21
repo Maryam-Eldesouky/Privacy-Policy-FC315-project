@@ -1,0 +1,188 @@
+Discord Privacy Policy
+Effective: September 29, 2025
+Last Updated: August 29, 2025
+
+Welcome!
+
+About Discord
+The Information We Collect
+Information You Provide to Us
+Information We Collect Automatically
+Information We Receive From Other Sources
+How We Use Your Information
+How We Disclose Your Information
+Data Retention
+How We Protect Your Information
+How to Control Your Privacy
+International Data Transfers
+Services Provided by Third Parties
+Data Protection Officer
+Information About Local Privacy Laws
+Changes to This Privacy Policy
+Contact Us
+
+Welcome!
+
+This Privacy Policy explains how we collect, use, store, protect, and share your personal information through our services. For users residing in the European Economic Area ("EEA"), the "data controller" for personal information collected through the services is Discord Netherlands BV (see our Terms of Service for details); for all other users, the data controller is Discord Inc. We have summarized the key points of this Privacy Policy below for a quick overview, but please be sure to read this policy carefully and completely.
+
+- We take privacy very seriously. We are committed to enabling you to build meaningful connections around the joy of gaming through voice, video, and text features. Respecting user privacy is key to this mission.
+- We do not sell your personal information. Our business is funded through subscriptions, paid products, and sponsored content, not by selling your personal information to third parties.
+- We only collect necessary information. You only need to provide us with information necessary for account creation, service provision and maintenance, fulfillment of user commitments, and meeting legal requirements. Provision of other information is not mandatory and is at your discretion.
+- We are highly focused on safety. We have a dedicated Trust and Safety team working hard to ensure user safety. We also use specific information to help identify violations of our terms and policies (such as our Community Guidelines) to prevent harmful content or behavior on the service.
+- Privacy control is in your hands. At Discord, your privacy control is in your own hands.
+
+About Discord
+
+Discord enables you to build meaningful connections around the joy of gaming through voice, video, and text features. Whether you are part of a club, a gaming group, or just a group of friends wanting to spend time together, Discord makes it easy to hang out with friends.
+
+"Services" in this policy has the same definition as in our Terms of Service. The Services include the Discord app, which is accessible on mobile, web, desktop, game consoles, and even internet-connected home appliances. As long as a device has a web browser and internet access, you can use Discord. In addition, we have websites, blogs, and a customer support center, and may collect your information through other means such as surveys, emails, and social media. All products we launch fall within the scope of "Services."
+
+As explained in our Terms of Service, users can add content to the service in a variety of ways, including direct messages, small and large servers, and more. Content you share in larger spaces may be accessible to many people, including strangers you don't know. For example, some servers in the "Discover" section of the app can be joined without an invite link, and some server owners may post server invite links on public websites, allowing anyone to join. Please note that such permissions (such as server size) are set by server owners or administrators and may change over time.
+
+We may also use content posted in larger spaces to help us develop, improve, and support our services, including chat-related features, harmful content detection safety features, and help enforce our Terms of Service and Community Guidelines. These rules and guidelines improve the Discord user experience, so we take them very seriously. Although we cannot control where invite links are shared, or interfere with specific server permissions, we will always try our best to explain the type of space you are in. You can limit the use of content for the stated purposes in accordance with the "How to Control Your Privacy" section below. To learn more about our safety and content moderation measures, including how information is used for such purposes, please visit the Safety Center. When using our services, please consider these factors comprehensively and choose the most appropriate space, features, and settings for your content.
+
+We do not profit by selling your personal information to third parties. Our business is funded through subscriptions, paid products, and sponsored content (such as Quests and other sponsored formats).
+
+The Information We Collect
+
+When you use Discord, we collect certain information, including information you actively provide to us, information we collect automatically, and information from other sources.
+
+Information You Provide to Us
+- Account Information. When creating a Discord account, you can choose a username and password, and provide contact information such as an email address and/or phone number. You also provide your date of birth. In some cases, you may also need to provide additional information to verify your age. You may need to verify your account or add additional information to your account (such as a verified phone number). In addition, you can optionally add a name or nickname.
+- Content You Create. This includes any content you upload to the service, such as text messages or posts (including drafts), voice messages, custom emojis, or other content created using features we develop. You can also upload or share files through the service. In addition, content you create includes profile information and information you provide when creating a server. We typically do not store the content of video, voice calls, or voice channels. If this changes (for example, to facilitate content moderation), we will notify you in advance. We also do not store live streams when you share your screen, but we may retain thumbnail cover images of live streams for a short period. We may build features to help users engage with voice and video content, such as creating or sending short recordings.
+- Payment Information. When purchasing any paid services through Discord, you may need to provide a valid payment method and related billing information, including your real full name, billing address, etc. Payment processors such as Stripe and PayPal will receive and process your payment information. We may also receive and store certain billing information, including the last four digits of the credit card number associated with a transaction, depending on the payment processor. If you engage in selling activities on Discord, you may need to provide additional information to Discord or our payment processors, such as bank account information for payment processing, tax identification information, and government-issued identification documents, to verify user identity in compliance with regulatory obligations. If we decide to process payments ourselves in the future, we will also receive and process such information ourselves.
+- Information Generated by Your Actions. We collect information about your Discord usage and activity on the service. For example, friends you add, users, bots, and apps you interact with, servers or other communities you join and participate in, your roles in servers, moderation decisions you make, purchases or sales you make on or through Discord (including items purchased or sold), and other related actions. When Discord is running, we may also collect limited information from your device (such as the game you are playing). You can control the extent to which we collect, use, and display such information. To learn how to control this, please see the "How to Control Your Privacy" section below.
+- Information from Optional Features. To use certain features, such as contact syncing, you may need to provide additional information or grant us permission to access such information. This also includes if you choose to interact with sponsored content, enable integrations, or authorize third-party services to share data with us. For example, if you link a music streaming service or gaming account, we may collect information about that account, such as the track you are listening to or the game you are playing, and display relevant information on your profile or status with your permission.
+- Other Information You Directly Provide to Us. During your use of Discord, you may choose to submit additional information. For example, you may participate in surveys, provide feedback about the service, or submit information to our Discord support team.
+
+Information We Collect Automatically
+During your use of Discord, we also automatically collect information, including:
+- Information About Your Device. We collect information about the device you use to access the service. Such information may include IP address, operating system, browser information, device settings (microphone and/or camera), etc.
+- Information About Your App or Website Usage. We collect logs and activity information related to how and when you use the service, such as pages, servers, and channels you visit, activities you play, features used, and interactions with the interface or embedded content.
+- Other Information We Collect Automatically. If you take certain actions on other websites, we may receive information about you. For example, if we place Discord ads on third-party platforms and you click on that ad, we will know which ad on which platform you saw. Similarly, if you click on a referral link, we may receive certain information, such as which website you came from.
+
+We may receive information through cookies and similar technologies. Cookies are small text files placed on your computer or device. To learn more about Discord's use of cookies and how to manage cookie consent, please see our Cookie Policy.
+
+Information We Receive From Other Sources
+We may receive information about you from other sources (such as other users and third parties) and combine it with other information we have about you. For example, if you interact with our social media accounts on another platform, we may receive certain information about you, such as your username on that platform. Similarly, when we advertise on other services, we may receive information about your interactions with those ads. We may also receive information about you from advertisers and third-party data providers, such as demographic information and how you interact with other products and services outside of Discord.
+
+How We Use Your Information
+
+In accordance with data protection laws such as the General Data Protection Regulation (GDPR), companies and organizations must have a "legal basis" – a valid and legitimate reason – to process personal information. Discord processes your personal information for a variety of purposes and under a variety of legal bases as described in this Privacy Policy. The information we collect includes: account information, content you create, payment information, information generated by your actions, information from optional features, other information you directly provide to us, information about your device, information about your app or website usage, other information we collect automatically, and information we receive from other sources. The corresponding reasons for collection and legal bases are set out below (where applicable). For each reason for collection, we describe how we process your information for that purpose. This processing may include the use of automated technologies, such as machine learning systems that help us support and improve the service. In some jurisdictions, we rely on consent (implied or express) to collect, use, and disclose personal information, with limited exceptions. Therefore, the legal bases described below may not apply to you. Please refer to the "Information About Local Privacy Laws" page located here.
+
+To fulfill our contract with you
+- To provide you with the service. We use your information to provide the Discord service. For example, during a video call, we process your image and audio to enable the video call function. Messages are similar: we collect and store the messages you send and display them in the manner you specify. We also use the information you provide to create and manage your account for you and to help you make purchases. If you enable optional features (such as linking your Discord account to other platforms), we also use information to provide you with the features you have chosen, such as displaying the song you are listening to or the game you are playing on another service within the Discord app.
+- To fulfill our commitments to the Discord community. We always make every effort to make Discord a safe, positive, and inclusive space. To achieve this, we need to use your information to monitor violations of our Terms of Service, Community Guidelines, and other policies, and to take action against violating users and content. This includes responding to user reports, transcribing content during investigations, detecting fraud and malware, and proactively scanning attachments and other content for illegal or harmful activity. We also use specific information to build automated systems and models to more quickly monitor, classify, and address violating behavior and content. Such specific information includes reported content, content that violates the Terms of Service, and other content widely available on the service, such as public posts, usernames, avatars, banners, user profiles, server names, server icons, server banners, etc.
+- To contact you. We use your personal information to contact you regarding account-related issues (including account verification, setting up two-factor authentication, etc.). In addition, we use your information to contact you when there are important product or policy changes, and when we need to send you information about products you have purchased.
+- To provide customer service. We use your information to respond to your questions about our products and services and to investigate failures, errors, and other issues.
+
+For our legitimate business interests
+- To protect our service. We use your information to protect the security of our service, prevent abuse, and take action against violating users in accordance with policies such as our Terms of Service.
+- To report company performance. We use your information to monitor basic business metrics, create financial reports, fulfill regulatory obligations, and resolve billing and invoicing issues.
+- Product personalization. We use your information to personalize our service. This includes customizing your experience on Discord so that you see communities, activities, apps, features, or promotions from us or other content you may be interested in. As described in the "How to Control Your Privacy" section below, you can limit our use of your personal information for Discord experience customization.
+- To provide relevant sponsored content. We use your information to help us deliver sponsored content (such as Quests and other sponsored formats) that you may be interested in. As described in the "How to Control Your Privacy" section below, you can limit our use of your personal information for Discord experience customization.
+- To improve our service. We use your information to understand how users interact with the service, find features or products that users may be interested in, develop features that improve the safety and experience of Discord, or otherwise understand and improve our service. Such information includes how you use the service, the structure of servers, etc. We also use specific publicly available content to better understand topics covered by servers, the most noteworthy content in servers, and other issues. You can also limit our use of your personal information for such purposes.
+- To promote our service on Discord and other platforms. We are very proud of the products we develop. We may advertise features such as paid services directly within the service or through our own channels. We also pay for Discord promotion on other platforms. To do so, we use specific information for advertising purposes to monitor the effectiveness of product promotion and improve advertising and marketing performance in the future.
+- To contact you. When there are new products/features you may like, we may use your information to send you notifications, ask for service feedback, or inform you about tests you may be interested in. You can opt out of receiving such marketing communications. If required by local laws and regulations, we will request your permission before sending such communications.
+
+To comply with legal obligations
+When necessary, we retain and use your information to respond to potential legal claims and to meet compliance, regulatory, and audit requirements. For example, we retain your information when required by law, court order, or regulatory order. In addition, if you exercise any legal right to access, modify, or delete personal information, we may require you to provide additional information to verify your identity.
+
+With your consent
+With your permission, we may also collect and use your personal information as required by law, such as to send you marketing communications. You can withdraw your permission at any time (primarily directly through our service). However, please note that after withdrawing permission, you may not be able to access any services or features that require the collection or use of personal information.
+
+To protect someone's vital interests
+If we determine that someone's life is in danger, we may collect or share personal data. For example, to help address a medical emergency.
+
+How We Disclose Your Information
+
+- To fulfill your requests and instructions. By adding content to the service, you are instructing us to allow specific people/communities to access that content. Only people with access to a specific space can access this information. Server-related permissions are set by server owners or administrators. Server owners or administrators can decide whether a server is public to everyone or requires an invite link to join. Similar to server size, such permissions may change over time. Similarly, if you link your Discord account to a third-party service (such as a music streaming service or gaming platform), embed content, interact with content posted on Discord by third parties, interact with users who have linked their accounts on other services, or join a server that enables third-party features (such as bots), we may provide specific information to third-party services or other Discord users to help the corresponding content, service, or feature function properly. In addition, if you purchase goods or services from other users on Discord, we may disclose specific information to the seller to complete the delivery of the goods or services, or to help the seller understand and improve business performance. We may also disclose your information in accordance with your instructions or permission.
+- To facilitate the work of service providers. We may provide information to service providers we hire to facilitate their work. Such providers include payment processors such as Stripe and PayPal that process transactions on our behalf, and cloud service providers such as Google that host data and services. We may also provide limited information to advertising platforms to reach audiences who may like our products and to monitor the effectiveness of our ads on these platforms, thereby attracting more users to Discord and driving greater business success. We only provide information necessary for these services to function, including whether you have installed the Discord app or registered for Discord, etc. If you interact with sponsored content (for example, by starting a Quest or clicking on other sponsored content), we may also provide information to analytics and measurement partners to measure the effectiveness of sponsored content.
+- To comply with legal requirements. If we believe that data disclosure is required by law, including national security or law enforcement requirements, we will disclose data. Where permitted and practicable, we may notify you before such disclosure. To learn more about how we respond to government and law enforcement requests, please see our Transparency Report.
+- To prevent serious harm. If we determine in good faith that disclosure of information could protect others from death or other serious harm, we may disclose information.
+- To enforce policies and exercise rights. To enforce our Terms of Service, Community Guidelines, or any other policy, or to protect our rights, property, and safety and those of others, we may disclose information when necessary.
+- To share with affiliates. We may provide information to our affiliates, including parent companies, affiliates, subsidiaries, and other companies under common control and ownership.
+- Asset sale, merger, or transfer. If Discord is evaluating and/or participating in a merger, acquisition, reorganization, bankruptcy, or sale, transfer, or change of ownership of Discord/any Discord assets, we may disclose information.
+- Aggregated or de-identified information. We may disclose information that has been aggregated or de-identified and cannot reasonably be used to identify you. For example, we may share aggregated user statistics to describe our business, features, or promotions to partners or the public.
+
+Data Retention
+We retain personal information until we determine that it is no longer needed for the purposes for which it was collected or retained, or for legal compliance purposes. You can learn more about data retention periods in our Data Retention Policy.
+
+How We Protect Your Information
+We take a "multi-pronged" approach to protecting the security of your personal information. All information sent within the service is encrypted in transit and at rest. For example, we use Transport Layer Security ("TLS") to encrypt text and images in transit. In addition, we have implemented technical and administrative access controls that limit our employees' and contractors' access to non-public personal information. Voice and video communications on Discord are designed to be end-to-end encrypted. You can verify whether your call is encrypted in the service. Learn more about Discord's end-to-end encryption. You can also configure two-factor authentication (2FA) to better protect your personal account.
+
+How to Control Your Privacy
+We firmly believe that users should be able to customize their Discord experience, including privacy settings, according to their preferences. Legal requirements may vary by location, but we believe that users should have at least basic experience customization capabilities regardless of where they are located. Continue reading to learn how to control how we process your information, how to delete/correct information, and how to request access to your information. In accordance with local laws and regulations, users in certain regions may have specific rights. You can learn more in the Information About Local Privacy Laws page.
+
+Be aware of the Discord spaces you choose to participate in
+You can choose the spaces you want to join and the information you add to our service. You can also choose what messages to send or post, who to interact with (for example, one or more specific users, or potentially an unlimited group of users), what information to add to your profile, whether to link third-party services to your Discord account, and more. If you join a server in "Discover" or join a server via a public invite link, the content you share in those spaces will be visible to everyone.
+
+Customize your personal Discord settings
+You can use a variety of settings in Discord to customize your experience. Some settings affect specific features. For example, clicking the gear icon next to your username opens the "User Settings" interface. Here, you can choose to show or hide your current activity, such as the track you are listening to or the game you are playing, through your status.
+You can also find other privacy-related settings in User Settings, such as filtering potentially explicit content, who can add you as a friend, and more. Restrictions on specific types of information processing can also be configured in User Settings:
+- Limit our use of your data for service improvement purposes. We use specific data to understand how users use the service, what features or products users may be interested in, or other aspects that help improve the business. You can use specific settings to limit our information collection for such purposes. If you disable these settings, we will stop collecting and using information about how you use and/or browse Discord, and stop understanding and improving our service as described in these settings.
+- Limit our ability to customize Discord for you. You can use settings to control whether we can customize Discord for you and specify how we customize it, such as providing you with recommendations for content and features in the app, or providing relevant sponsored content. If you disable these settings, we will no longer use specific information from your account to support the Discord customization features described in these settings.
+To learn more about privacy-related settings, please visit our Help Center or the User Settings menu within Discord. Depending on your age, location, and other factors, the default state and availability of some of these settings may vary.
+
+Deactivate or delete your account
+You can access the "User Settings" menu to deactivate or delete your account. After account deactivation, no new data processing will occur, but you can reactivate your account at any time to avoid disruption. If you delete your account, your identifiable information will be permanently deleted, and other information will be anonymized in accordance with our Data Retention Policy. To learn more about how to delete your account, please see this Help Center article; for account deactivation methods, please see this article.
+
+Manage your content and servers
+You can edit or delete specific information in the service:
+- You can edit or delete any messages you have sent; if you still have access to the space where the content was posted after posting, you can also edit or delete the posted content.
+- With the necessary permissions, you can edit or delete Discord servers.
+- With the necessary permissions, you can edit or delete channels within a Discord server.
+Discord may retain content in accordance with other provisions of this policy and the Data Retention Policy. In rare cases, even if you have deleted information or your account, we will still retain specific information for the purpose of complying with legal obligations.
+
+Access your information
+To view the personal information we have collected, you can go to "User Settings," find the "Data & Privacy" section, and request a copy of your personal data. Normally, you will receive your data package within 30 days. The data package is in a common digital format, such as JSON or other file formats used when uploading attachments to the service. To learn more about how to view information, please visit our Help Center.
+
+International Data Transfers
+Our headquarters are located in the United States, and our data processing and storage servers are also located in the United States. Depending on various factors, such as the location of users and service providers, we may also store data on servers and devices in other countries/regions. Such data transfers enable us to provide services to you. By accessing/using our services or otherwise providing information to us, you understand that your personal information will be processed, transferred, and stored in the United States and other countries/regions. Countries/regions outside the United States may apply different data protection standards and/or you may not enjoy the same rights as under your local laws.
+When transferring data outside the European Economic Area, we use Standard Contractual Clauses (Modules 1 and 2) and comply with the European Commission's adequacy decisions for specific countries/regions, or other lawful mechanisms or conditions for such data transfers.
+Discord and its U.S. entities/affiliates (Backgammon Merger Sub II, LLC, Brazos Games, LLC, Discord International, Inc, Flames Sub LLC, and Sentropy Technologies Inc.) also comply with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks, and the UK Extension to the EU-U.S. Data Privacy Framework. If you have any questions or complaints about our compliance with the Data Privacy Framework Principles, please contact us at privacy@discord.com. If we are unable to resolve your complaint, you may submit a complaint in accordance with the section titled "Resolving Disputes Between You and Discord" in our Terms of Service. Under certain conditions of the Data Privacy Framework Principles, you may also invoke binding arbitration for dispute resolution. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to third parties outside these countries/regions.
+Discord commits to comply with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF). For unresolved complaints arising from our receipt of personal data under these frameworks, we will cooperate with and comply with the advice of the panel established by the EU data protection authorities (DPAs), the UK Information Commissioner's Office (ICO), and the Swiss Federal Data Protection and Information Commissioner (FDPIC), respectively.
+To learn more about the Data Privacy Framework Principles and to view our relevant certifications, please visit the U.S. Department of Commerce's Data Privacy Framework website.
+To learn about specific rights you may have regarding international transfers of personal data, please refer to the relevant Standard Contractual Clauses or adequacy decisions, or contact us at privacy@discord.com. Regardless of whether your data is transferred, the rights listed under "Exercising Your Rights" always apply.
+
+Services Provided by Third Parties
+We allow third-party developers to develop specific features or other services and offer them within the Discord service, or to integrate certain Discord-supported features into their services. For example, server administrators can add "bots" developed by third-party developers to enable content moderation, interactive games, and other features. Similarly, you can access your Discord friend list or messaging features in third-party games or in games or activities built by third parties and offered within the Discord service.
+Such third-party services are subject to all applicable policies (often including Developer Terms of Service and Developer Policies). As part of these policies, we require developers to establish their own privacy policies and clearly explain how personal information is used. These privacy policies describe how third-party services use your information, so please be sure to read them carefully. We also require certain popular apps to request permission before accessing certain data. However, these services are operated by third parties, and Discord cannot control or manage the information they collect. Please carefully review and carefully decide whether to join servers or other spaces that use apps, and whether to use third-party services.
+
+Data Protection Officer
+You can contact the Data Protection Officer of Discord Netherlands BV by emailing dpo@discord.com.
+In accordance with Article 27 of the UK General Data Protection Regulation, we have appointed VeraSafe to handle Discord's data protection matters in the UK. To contact VeraSafe, please see the "Contact Us" section below. Please note: VeraSafe only accepts matters related to personal data processing.
+
+Information About Local Privacy Laws
+Certain local laws, such as the European Union's General Data Protection Regulation (GDPR), Brazil's Lei Geral de Proteção de Dados (LGPD), and California's Consumer Privacy Act (CCPA), require services to provide information about the information they collect, how they use it, and the lawful basis for processing it. We've described most of that already in the earlier portions of this Policy, but you can find state and region specific information and disclosures here.
+How to exercise your rights: As described in the "How to Control Your Privacy" section above, all Discord users can control their information, edit or delete information directly from their personal accounts, and limit our data processing. If you reside in a specific region (such as the EU), you may also have other rights listed below and may exercise the rights under the state/region specific information and disclosure provisions. You can exercise the following rights directly in the Discord app or by contacting us:
+- Right to access personal data
+- Right to correct personal data if it is inaccurate
+- Right to delete personal data
+- Right to restrict processing of personal data
+- Right to data portability
+- Right to object to processing of your personal data
+- Right to withdraw consent. Withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal.
+If you have questions about these rights or wish to exercise control over your personal information, please email privacy@discord.com.
+
+Changes to This Privacy Policy
+We will update this Privacy Policy from time to time. We will always indicate the date of the last update. If there are material changes, we will provide more prominent notice as required by law, such as sending you an email or highlighting the changes in the service.
+
+Contact Us
+If you have questions about this Privacy Policy or how we process your personal information, please email privacy@discord.com and we will be happy to assist you.
+To contact Discord's Data Protection Officer, please email dpo@discord.com.
+You can also contact us by mail. If you reside in the European Economic Area (EEA), please send letters to:
+Discord Netherlands BV
+Attn: Privacy Policy
+Schiphol Boulevard 195
+1118 BG Schiphol,
+Netherlands
+Residents of other regions please send letters to:
+Discord Inc.
+Attn: Privacy Policy
+444 De Haro Street #200
+San Francisco, CA 94107, USA.
+UK residents may also contact VeraSafe. VeraSafe is Discord's appointed representative for data protection matters related to personal data processing. VeraSafe contact form: https://verasafe.com/public-resources/contact-data-protection-representative; phone: +420 228 881 031; mailing address:
+VeraSafe United Kingdom Ltd.
+37 Albert Embankment
+London SE1 7TL United Kingdom

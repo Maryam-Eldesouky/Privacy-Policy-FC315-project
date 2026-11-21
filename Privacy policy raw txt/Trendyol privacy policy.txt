@@ -1,0 +1,291 @@
+CUSTOMER PRIVACY NOTICE
+
+We are committed to protecting your privacy and personal data in accordance with the applicable data protection laws, under which services will be provided to data subjects ("Data Protection Laws"). This Privacy Notice explains how we collect, use, share, and protect your personal data when you accept the Membership Agreement and become a "Platform Member" in order to utilize the services (collectively, the "Platform Services") offered through our Company's mobile applications and/or websites (collectively, the "Platform").
+
+RESPONSIBLE FOR DATA PROCESSING
+
+If you are located in the Kingdom of Saudi Arabia, the data controllers responsible for the processing of your personal data shall be Trendyol Arabia for Trading LLC and DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş ("DSM"). For the other Gulf Cooperation Council (GCC) countries, the data controllers shall be Trendyol General Trading LLC and DSM. These parties will collectively be referred to as "Trendyol" or "Company" in this Notice.
+
+The contact details of the Companies are:
+
+Trendyol General Trading LLC
+
+Office 4/4501, Corporate Trade Centre 1, Dubai, UAE
+
+Trendyol Arabia for Trading LLC
+
+Airport Road, Qurtubah Dist., Unit No 1110, 7546, Riyadh 13244-2284, Kingdom of Saudi Arabia
+
+DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş.
+
+Maslak Mahallesi, Saat Sokak (Spine Tower), No: 5, İç Kapı No: 19, 34485, Sarıyer/İstanbul, Turkey.
+
+DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş.
+
+Maslak Mahallesi, Saat Sokak (Spine Tower), No: 5, İç Kapı No: 19, 34485, Sarıyer/İstanbul - Turkey.
+
+As a shareholder, DSM processes your personal data as a data controller for purposes including tax, accounting, transfer pricing, management of centralized shared services, platform operations, determination of commercial strategies, execution of possible structural changes like mergers and acquisitions, and management of payment processes.
+
+Which Personal Data Do We Process?
+
+If you become a Platform Member, the following personal data are processed:
+
+User Account Information: Your first name, last name, customer number, membership email address, and if you choose to add them to your user details, your phone number, gender, date of birth, height and weight information, and your personal identification number (If necessary for the fulfilment of customs and delivery processes(.
+
+Customer Transaction Information: Your order and invoice details, your transaction history regarding your purchases, your requests and complaints, your Platform usage information, any information you personally share in your comments or questions if you provide product feedback or ask questions on the Platform, your score and evaluation information, information regarding communication via the chat channel, as well as your cancellation/refund information.
+
+Delivery Information: The phone number and delivery address you provide for product delivery, along with details of the delivery transaction, and customs transaction information.
+
+Payment Information: Information regarding the payments you have made and your chosen payment methods, as well as your stored card information.
+
+Transaction Security Information: Your device information (e.g., your operating system, device IDs, types of device used and browser information), IP address, password and credential details, Platform access logs, and your login method (e.g., via Google/Facebook), interaction and indirect interest data (e.g., whether you clicked on an item that was recommended or displayed to you, A/B test data).
+
+Legal Action Information: Information contained in correspondence with authorized persons, institutions, and organizations; data from lawsuits and enforcement files; and information regarding official requests for data.
+
+Audio Recording Information: In the event that you speak with our call center, an audio recording of your call.
+
+Marketing and Profiling Information: Purchase history, campaign participation, profiling and segmentation information
+
+Cookie data: When you browse our website or apps and agree to their usage, we place cookies or similar technologies on your device to better comprehend your interaction with our platform. For more information on the use, you can look at our consent banner.
+
+What Are the Legal Grounds, Purposes, and Methods of Collecting Your Personal Data?
+
+Your personal data is collected by our Company through electronic means via the mobile applications or websites containing the Platform Services you use under our membership agreement, either fully or partially automated or non-automated, provided it is part of a data recording system. When you contact us through live chat, call center, or email channels, your personal data is collected electronically via the channel you use to communicate. Additionally, your personal data may be collected physically if submitted to our Company through printed forms, notifications, mail, or by official authorities. The purposes and legal grounds for processing your personal data are detailed below.
+
+Your personal data is processed based on the below mentioned legal bases only if they are regulated within the scope of the applicable data protection laws to which you are subject. Otherwise, your personal data is processed based on your consent by entering into a contractual relationship with us. In terms of this process, your consent will be processed if you approve the agreement between you and the Company, and your personal data will be processed for the purposes specified in this privacy notice.
+
+If you wish to withdraw your consent for your personal data processed on the basis of your consent, you can submit your request to the Company in this regard by the methods under the title "8-Contact for Your Rights and Requests".
+
+Membership and Account Creation Process:
+
+Categories of personal data: Your User Account Information, Customer Transaction Information, and Transaction Security Information.
+
+Purposes:
+
+Carrying out processes related to the establishment and performance of the Membership Agreement.
+
+Managing the processes of creating and closing the Platform Member profile/account.
+
+Verifying contact information.
+
+Conducting activities related to completing your purchases through the Platform.
+
+Carrying out and auditing the Company's business activities.
+
+Ensuring the security of Platform operations.
+
+Conducting Platform activities in compliance with applicable legislation.
+
+Fulfilling the Company's obligations to share and retain data in accordance with our legal responsibilities arising from applicable regulations.
+
+Legal grounds: The necessity of fulfilling the Company's legal obligations, the necessity of performing our membership agreement with you.
+
+Order, Delivery, and Cancellation/Return Processes:
+
+Categories of personal data: Your User Account Information, Delivery Information, Customer Transaction Information, Payment Information, and Transaction Security Information.
+
+Purposes:
+
+Placing and creating orders.
+
+Establishing and performing the terms and conditions.
+
+Conducting delivery and logistics activities.
+
+Managing cancellation/return processes.
+
+Carrying out payment and invoicing processes.
+
+Fulfilling the legal obligations outlined in the applicable legislation or guidelines published by competent authorities.
+
+Managing the purchase processes for products/services listed on the Platform.
+
+Legal grounds: The necessity of fulfilling the Company's legal obligations, the necessity of performing our membership agreement with you.
+
+Customer Experience Improvement Processes:
+
+Categories of personal data: Your User Account Information, Customer Transaction Information, Delivery Information, Transaction Security Information, Legal Action Information, Marketing and Profiling Information and Audio Recording Information.
+
+Purposes:
+
+Ensuring quick and easy access to products that align with your preferences and interests.
+
+Providing a better user experience during service transitions within the Platform Services offered by our Company.
+
+Enhancing and improving the user experience.
+
+Improving the quality of our services.
+
+Conducting analysis and reporting activities.
+
+Carrying out communication activities.
+
+Evaluating requests, complaints, and suggestions regarding our products and services.
+
+Managing after-sales support services for goods and services.
+
+Performing on and offsite analytics on browsing, shopping and purchase behavior (e.g., we might display customers with various versions of our website to see which ones perform best or we analyse purchased goods to enable us to make informed decisions about new future products and wares).
+
+Legal grounds: The necessity of performing our membership agreement with you, the necessity of data processing for the legitimate interests of the Company.
+
+Company's Information Security, Risk, Audit, and Control Processes:
+
+Categories of personal data: Your User Account Information, Customer Transaction Information, Delivery Information, Payment Information, and Transaction Security Information.
+
+Purposes:
+
+Carrying out and auditing financial and accounting processe.
+
+Managing invoicing processes.
+
+Conducting information security processes and investigating suspicious transactions.
+
+Ensuring the security of operations related to the Platform.
+
+Monitoring, improving, and enhancing the quality of the products and services offered by the Company.
+
+Conducting risk assessments and analyses, as well as managing complaints.
+
+Preventing fraud.
+
+Carrying out legal and financial due diligence activities in the event of potential mergers, acquisitions, joint ventures, spin-offs, or other structural changes.
+
+Legal grounds: The necessity of performing our membership agreement with you, the necessity of data processing for the legitimate interests of the Company.
+
+Legal Dispute Processes:
+
+Categories of personal data: Your User Account Information, Customer Transaction Information, Delivery Information, Payment Information, Transaction Security Information, Legal Action Information, and Audio Recording Information.
+
+Purposes:
+
+Managing legal and litigation processes, responding to your legal requests, and reviewing and responding to your duly submitted applications as a data subject.
+
+Ensuring compliance with Data Protection Laws and fulfilling the Company's obligations under such legislation.
+
+Managing legal consultancy processes.
+
+Sharing information with authorized individuals, institutions, and organizations when required.
+
+Exercising and protecting a legal right in the event of a legal dispute.
+
+Legal grounds: The necessity of data processing for the establishment, exercise, or defense of a legal right or a legal claim, the necessity of fulfilling the Company's legal obligations.
+
+Processes Conducted Based on Explicit Consent:
+
+Categories of personal data: Your User Account Information, Customer Transaction Information, Delivery Information, Marketing and Profiling Information and Payment Information.
+
+Purposes:
+
+Conducting marketing, advertising, and promotional activities.
+
+Managing financial offer processes.
+
+Providing you with exclusive advantageous offers, carrying out activities to enhance your satisfaction by understanding you better, and sending commercial electronic messages within this scope.
+
+Conducting analysis activities for better understanding your interaction with the Platform through non-strictly necessary cookies or similar technologies on your device.
+
+Legal ground: Your explicit consent.
+
+If you wish to withdraw your consent, you may submit your request to the Company using the methods specified under the section titled "8- Contact us".
+
+Does the Company Share Your Personal Data?
+
+Our Company takes care to process and share your personal data in accordance with the principles of "need to know" and "need to use", by ensuring the necessary data minimization and taking the necessary technical and administrative security measures.
+
+The nature of our business and our operations require us to transfer your personal data to other centers of operations, data centers, authorized distributors, or service providers that may be located in countries outside of the country where you are located for the purposes mentioned in this Privacy Policy. Trendyol will take appropriate measures (giving consideration to the level of protection of the rights and freedoms of data subjects in the recipient country), to ensure your personal data is securely transferred in accordance with the applicable data protection laws and regulations.
+
+Your personal data are shared with the following parties in accordance with the Data Protection Laws:
+
+Membership and Account Creation Process:
+
+Within the scope of the services we receive in relation to the Platform and under our contractual relationship, in order to enable you to benefit from the Platform Services and to establish and perform the membership agreement, your personal data is shared with our affiliates and group companies,
+
+For the purpose of operating the Platform, obtaining information, technology, and software services, your personal data is shared with our affiliates, group companies, business partners, and service providers that provide, operate, or offer our information technology infrastructure, as well as our affiliates and group companies located abroad.
+
+Legal ground: The necessity of data processing for the establishment or performance of a contract, having a standard contractual clauses in place, if necessary.
+
+Order, Delivery, and Cancellation/Return Processes:
+
+For the purpose of enabling you to benefit from the Platform Services, carrying out purchasing and invoicing processes, and fulfilling the obligations of our Company and the seller of the product you wish to purchase as required by the legislation to which they are subject, your personal data is shared with the seller or service provider of the product you want to buy.
+
+For the purpose of conducting logistics activities and following up delivery processes, your personal data is shared with the product's seller and courier companies.
+
+For the purpose of carrying out and following up your payment processes, your personal data is shared with the banks and other payment institutions we have agreements with.
+
+For the purpose of informing you about matters such as the delivery of the product you purchased, your personal data is shared with our business partners that provide bulk SMS/email sending services.
+
+If you order products from abroad, for the purpose of carrying out delivery and return processes, logistics and supply chain processes, customs procedures, and Platform operations, your personal data is shared with cargo and logistics companies located abroad, the seller of the product you purchased, and customs consultancy companies.
+
+Legal grounds: The necessity of fulfilling our Company's legal obligations, the necessity of data processing for the establishment or performance of a contract, having a standard contractual clauses in place, if necessary.
+
+Customer Experience Improvement Processes:
+
+For the purpose of providing sales and after-sales support services, ensuring customer satisfaction, and handling requests and complaints, your personal data is shared with our business partners that provide call center services and our service providers offering customer support services.
+
+For the purpose of developing and improving the products and services offered by our Company, and in order to offer the Platform services and carry out Platform operations, your personal data is shared with service providers, our affiliates, group companies, business partners, and consultants that provide information technology infrastructure, software, and technology services.
+
+Legal ground: The necessity of data processing for the establishment or performance of a contract, having a standard contractual clauses in place, if necessary.
+
+The Company's Information Security, Risk, Audit, and Control Processes:
+
+For the purpose of conducting invoicing processes, physical delivery of contracts or invoices, managing financial and accounting processes, identifying and assessing risks, and preventing fraud, your personal data is shared with our business partners, consultants, service providers, banks, cargo and courier companies, private integrators, independent auditors, customs brokers, and financial advisor/accounting service partners.
+
+For the purpose of ensuring the security of Company operations, monitoring and improving the quality of the products and services offered by our Company, and conducting risk identification and analysis, your personal data is shared with independent auditors, customs brokers, financial advisor/accounting service partners, our community companies, affiliates, group companies, private integrators, technology companies, business partners, and service providers.
+
+In the event of a potential merger, acquisition, joint venture, spin-off, or other structural changes, for the purpose of conducting the legal and financial due diligence activities of our Company, your personal data is shared with potential buyers, sellers, or other counterparties to the transaction, as well as their employees, advisors, and relevant database service providers bound by confidentiality obligations.
+
+Legal Grounds: The necessity of fulfilling our Company's legal obligations, the necessity of data processing for the establishment or performance of a contract, the necessity of data processing for our Company's legitimate interests.
+
+Legal Dispute Processes:
+
+For the purpose of fulfilling the obligations arising from the legislation to which our Company is subject, conducting Platform activities in compliance with the legislation, providing information to authorized individuals, institutions, and organizations, handling and following legal matters, and exercising or protecting a right in the event of a legal dispute, your personal data is shared with regulatory and supervisory authorities, courts, enforcement offices, mediators, and other authorized public institutions and organizations.
+
+For the purpose of carrying out our Company's audit activities, managing legal consultancy processes, ensuring the security of Company operations, and investigating suspicious transactions, your personal data is shared with attorneys, auditors, tax consultants, forensic IT experts, cyber security consultants, tax consultants, our community companies, affiliates, and other third parties and business partners from whom we receive consultancy and services.
+
+If requested, your personal data is shared with authorized persons, institutions, and organizations for the purpose of providing information and, in the event of a legal dispute, for the exercise or protection of a legal right.
+
+Legal grounds: The necessity of fulfilling our Company's legal obligations, the necessity of data processing for the establishment, exercise, or defense of a right or a legal claim, and the necessity of data processing for the establishment or performance of a contract.
+
+Processes Conducted Based on Explicit Consent:
+
+For the purpose of carrying out marketing, advertising, and promotional activities, providing you with special advantageous offers, and conducting activities aimed at improving your satisfaction by getting to know you better, your personal data is shared with our affiliates, group companies, service providers, and business partners.
+
+Legal ground: Your explicit consent.
+
+Why Does the Company Use Cookies?
+
+When you use our website or applications, we place cookies or similar technologies on your device to better understand your interaction with the Platform. You can always access detailed information about cookies and make changes to cookie usage via the "Cookie Preferences" button located at the bottom of the homepage on the www.trendyol.com website. Please note that the use of mandatory cookies is essential for the operation of our website, and therefore, you do not have the option to manage this type of cookie. When you interact with our advertisements on third party platforms we obtain information about that interaction. This might include whether you clicked on the ad, or how long the ad was shown before an interaction took place, if by viewing that advertisement you directly or at a later time purchased a good on our platform, and indirectly the effectiveness of those advertisements.
+
+In the event you visit us on social media platforms we are the data controller of all the information you place on those pages or when you communicate with us. When you visit Fan Pages, social media platforms collect information about your use of those pages through the use of cookies and other method, which allows Trendyol to view certain statistics about the use of our pages so called "page insights". For the collection and use of these data the social media platform and Trendyol are considered jointly responsible. For more information on how the social media platforms use your personal data please visit their website.
+
+Data retention
+
+We collect and use your personal information for the various purposes described above. Each of these purposes has different requirements and therefore a different retention period. We will delete your personal data when it is no longer necessary to retain it for the purpose for which it was collected.
+
+If you request erasure of your personal information, we will endeavour to do so within 30 days. In some circumstances this may take longer. If this is the case, we will notify you accordingly. Please note, however, that we may be required by law to retain some of your personal information in order to comply with our own legal obligations.
+
+How Does the Company Protect Your Personal Data?
+
+Personal data shared with our Company is under the supervision and control of the Company. Our Company, as the data controller, has assumed the responsibility to establish and adapt the necessary organization and take technical measures to protect the confidentiality and integrity of the information, in accordance with the provisions of the applicable legislation. Being aware of this obligation:
+
+Periodic penetration tests are conducted in accordance with international and national technical standards concerning data confidentiality.
+
+Regular risk analyses are conducted regarding personal data processing activities, and actions are taken to mitigate risks.
+
+Access and authorization controls are implemented to prevent unauthorized access to personal data.
+
+Your rights
+
+As a data subject under the Data Protection Laws, you have the following rights only if they are regulated within the scope of the legislation to which you are subject; Right to access, Right to rectification, Right to be informed, Right to erasure, Right to data portability, Right to object/opt out, Right not to be subject to automated decision-making, right to lodge a complaint with the authorized institutions, Right to withdraw consent.
+
+To exercise your rights or if you have any questions or concerns about this Privacy Notice, please contact us using the contact details provided in Section 8.
+
+Contact us
+
+If you have any questions or comments about how we use your personal information, please contact our Data Protection Officer at dataprotection@trendyol.com.
+
+We kindly request that you use this email address solely for submitting requests related to personal data. Requests unrelated to personal data, such as order tracking, order cancellations/returns, or shipping processes, will not be considered or responded to through this channel. Such requests can be submitted via the Trendyol Assistant or the call center.
+
+Right to lodge a complaint with a data protection authority
+
+In the event that you feel that we have not adequately answered your query or question, you have the right to lodge a complaint with the supervisory authority in the country in which you live.

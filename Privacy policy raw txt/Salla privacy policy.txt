@@ -1,0 +1,146 @@
+Privacy Policy and Confidentiality of Information
+
+The Salla Platform team welcomes you. Out of our keenness to protect users, Salla Platform seeks to maintain the privacy of information related to merchants, practitioners, and consumers in accordance with the Privacy and Information Confidentiality Policy mechanism in force at Salla Platform. Accordingly, Salla Platform notes that this document informs you of the Privacy and Information Confidentiality Policy applicable to Salla Platform. Salla Platform has created this policy, the "Privacy and Information Confidentiality Policy", to clarify and outline the confidentiality and privacy mechanism applied on Salla Platform. Therefore, please read it carefully, as by using Salla Platform, all your information is subject to this policy.
+
+Definitions:
+
+(Salla Platform) means the platform owned by Salla App for Information Technology Company. This definition includes all forms of Salla Platform online, whether an application or a website, and includes the term "Mahally Platform" affiliated with Salla Platform in all its online forms, whether an application or a website.
+
+(Merchant) means any merchant who registers on Salla Platform to set up their online store, whether a natural or legal person. This definition includes all aspects of the store as long as it conducts its trade through Salla Platform, including the store's website or application.
+
+(Practitioner) means any e-commerce practitioner who registers on Salla Platform to establish their online store. This definition includes all aspects of the store as long as they practice trade via Salla Platform, including the store's website or application.
+
+(Online Store) means the store used by the Merchant or Practitioner on Salla's electronic platform, including the store's website or application.
+
+(Consumer) means any consumer who purchases a product or service from online stores registered on Salla Platform.
+
+(User) This term is used to refer to any person using Salla Platform, whether a merchant, practitioner, or consumer.
+
+Information Obtained by Salla Platform and Retained in its Electronic Systems:
+
+Personal information of the consumer: such as name, email address, and National ID number or Iqama number.
+
+Personal information of the merchant or practitioner: such as name, email address, National ID number or Iqama number, and residential address.
+
+Information related to the store and its legal entity: such as Commercial Registration (CR) number and a copy of the Commercial Registration, or Freelance Certificate number and a copy of the certificate, and the bank account "IBAN" certificate.
+
+Online store login credentials: such as username, password, email address, and the password recovery question and answer.
+
+Salla Platform uses cookies to enhance user experience and provide customized services.
+
+If the user does not provide the required information, Salla Platform may attempt to obtain it through other sources.
+
+Information Regarding Store Revenues, Goods, or Services:
+
+Salla Platform is continuously aware of store revenues, as the store uses payment gateways provided by Salla Platform.
+
+Salla Platform is aware of the type of goods or services offered in the store.
+
+Salla Platform monitors store performance should there be a need to direct support, advice, and guidance to the stores to help them and improve their performance.
+
+Information of Store Consumers or Merchant Customers:
+
+As Salla Platform seeks to improve the store experience and elevate their business quality, it constantly views the number of store consumers and their purchase transactions.
+This includes consumer orders, invoices, shipments, abandoned carts, product reviews and reviewer names, wishlists, loyalty points, store wallet transactions, and account activity such as the last login date, as well as statistics segmenting consumers by gender and age group.
+
+Information Sharing:
+
+Naturally, Salla Platform seeks to retain this information in a manner that preserves user privacy. Salla Platform only retains this information to improve the quality of the platform and the performance of stores, and to facilitate and streamline services.
+
+As a general rule, all of this information is accessible only to certain personnel of Salla Platform after obtaining authorization to access it from Salla Platform administration—this authorization is usually specific, restricted, and subject to legal and administrative oversight by Salla Platform.
+
+Since Salla Platform seeks to maintain a safe environment for conducting e-commerce, in the event that Salla Platform notices any illegal or unlawful activity committed by a user, Salla Platform—in application of the articles, clauses, and provisions of the Terms of Service and the Privacy and Information Confidentiality Policy—may share any of this information with competent authorities to take necessary action regarding the violating user, in compliance with the controls and provisions of regulations in force in the Kingdom of Saudi Arabia, including, without limitation, the E-Commerce Law, the Personal Data Protection Law, and the Anti-Cyber Crime Law.
+
+A merchant or practitioner who initiates the registration of their store on Salla Platform through success partners thereby grants the success partner through whom they registered the right to access all information related to the store.
+
+Salla Platform notes that unlawful practices by any user will result in sharing their data with official authorities or certain private entities such as banks.
+
+The user acknowledges and agrees that Salla Platform may use the information provided by them to send marketing communications.
+
+Security and Confidentiality of User Information:
+
+Salla Platform seeks to preserve the confidentiality of its users' information. However, since this cannot be 100% guaranteed in (cyberspace), the Salla Platform team notes the following:
+
+Salla Platform seeks to protect all user information and ensure no one accesses it in violation of the policy applied on Salla Platform.
+
+Salla Platform works to protect user information under high-quality electronic and technical security systems that are continuously and periodically updated.
+
+However, since the internet network cannot be 100% guaranteed due to potential breaches or viruses affecting electronic security systems and firewalls applied on Salla Platform, Salla Platform advises users to maintain complete confidentiality of their information and not disclose any information that the user considers critically sensitive, out of Salla Platform's keenness to protect, guide, and advise users.
+
+Salla Platform seeks to protect the personal data of its users according to the highest standards. In the event of any security breach leading to unauthorized access to or tampering with personal data, the platform is committed to immediately notifying competent authorities, as well as notifying affected users of the details of the breach, and the platform will take all necessary measures to address the breach.
+
+Strategic and Logistics Services (Third-Party Services):
+
+The user expressly and preliminarily acknowledges and agrees that in some cases, "Salla" platform may need to share certain relevant information with third-party strategic or logistical service providers. This includes—without limitation—shipping companies, payment solution providers, or technical service providers, in order to enable them to perform tasks or provide services associated with the store or related operations.
+This information is shared solely to the extent necessary and in fulfillment of the legitimate purpose associated with the service, in accordance with the provisions of the Personal Data Protection Law in the Kingdom of Saudi Arabia. The platform is committed to ensuring that relevant service providers maintain the confidentiality of the information and use it exclusively for the specified purpose.
+
+Integration with Google Services (Google Shopping API):
+
+As part of Salla Platform's commitment to providing comprehensive services to merchants, practitioners, and consumers, the Integration with Google Services feature has been enabled, specifically with the Google Merchant Center platform, aimed at facilitating product synchronization and securely and systematically managing store data.
+1. Granting Permission and Access to Data
+When the merchant grants explicit permission through Google's authorized authentication mechanism, Salla Platform accesses specific data from the merchant's Google account, including but not limited to:
+
+Product and inventory data registered in Google Shopping (such as product IDs, prices, descriptions, quantities).
+
+Relevant Google Merchant Center account settings.
+
+2. Purpose of Data Processing
+This data is used solely for enabling technical integration between the merchant's store on Salla Platform and their Google Shopping account, including:
+
+Creating, updating, or synchronizing product listings.
+
+Managing connection and authentication between the two systems.
+
+This is done to ensure catalog data consistency between both platforms and enhance the online store's performance.
+
+3. Data Protection and Regulatory Compliance
+Salla Platform affirms the following:
+
+Google user data is used only for the purposes specified above, serving the merchant's legitimate interest in improving their online store experience.
+
+Salla Platform does not sell, lease, or transfer this data to any third party for marketing, commercial, or advertising purposes outside the scope of the service provided.
+
+Data is retained for the period necessary to fulfill the purpose for which it was collected, in accordance with the General Privacy Policy in force on Salla Platform, or deleted upon the user's request, upon integration cancellation, or upon app removal.
+
+Salla Platform complies with all provisions of the Personal Data Protection Law in the Kingdom of Saudi Arabia and its Implementing Regulations, including applying the necessary security, confidentiality, and privacy standards to protect data when integrating with any external services.
+
+Integration with AI Assistants (Salla AI Connector):
+
+A merchant can connect their store to an AI assistant, such as ChatGPT by OpenAI or Claude by Anthropic, through the Salla AI connector. The merchant chooses to connect, signs in with their Salla account, approves the permissions the assistant receives, and can disconnect at any time from the AI assistant's connector settings.
+
+Granting Permission and Access to Data. Once connected, the assistant can read the store information the merchant authorizes, including products, orders, customers, shipments and reports. It can also make changes the merchant asks for, such as updating a product price. The AI assistant asks the merchant to approve changes before they are made.
+
+Information Shared with the Assistant. When the merchant asks about a specific order, customer or cart, the information sent to the assistant can include the consumer's personal information described in this policy, such as name, contact details, delivery address and map location. For a bank-transfer order it can include the transfer receipt and the store's receiving bank account, masked to its last four digits. Lists and reports generally show consumers' names and city, with contact details only when the merchant asks for them. Date of birth, gender and last sign-in date are sent only when the merchant asks for them.
+
+Information Never Shared. Salla never sends passwords, access tokens or other credentials, full bank account or IBAN numbers, consumers' IP addresses or device details, or redeemable digital codes. Private links that would let someone open a consumer's order, checkout or downloads are not sent, except an abandoned cart's recovery link and an order's own invoice and shipping label, which are sent only when the merchant opens that cart or order.
+
+Purpose, Recipients and Location. The AI provider receives this information only to answer the merchant's request, and handles it under the merchant's own agreement with that provider. The AI provider, and the infrastructure that runs the connector, may process it outside the Kingdom of Saudi Arabia. Any transfer or disclosure of personal data outside the Kingdom of Saudi Arabia shall be carried out in accordance with the applicable requirements of the Saudi Personal Data Protection Law, its Implementing Regulations, and the regulations governing the transfer of personal data outside the Kingdom.
+
+Retention. The connector keeps pending change previews for up to 15 minutes, keeps cached report results for up to 90 days, and keeps records of connector activity, including the changes made, for up to 12 months for security, troubleshooting, audit and resolving disputes about those changes. Information the AI provider receives is kept according to the merchant's agreement with that provider.
+
+Responsibility. The merchant decides what to share through an AI assistant and with which provider. Merchants are responsible for using consumer information obtained this way in line with their own obligations to their customers.
+
+User Rights Regarding Personal Data:
+
+Salla Platform is keen to protect the privacy of its users and provide clear mechanisms to exercise their rights regarding personal data, including the following rights:
+
+Right of Access: The user has the right to access their personal data stored by Salla Platform.
+
+Right to Obtain a Copy: The user can obtain a copy of their personal data that has been collected and processed by Salla Platform.
+
+Right to Rectification: The user has the right to amend or update their personal data to ensure its accuracy and completeness.
+
+Right to Destruction: The user has the right to request the deletion or destruction of their personal data if there is no longer a need to process it.
+
+Right to Withdraw Consent: The user has the right to withdraw their consent to the processing of their personal data at any time.
+
+Rules and Provisions for Using Salla Platform:
+
+All obligations of Salla Platform, all user obligations, and all rights set forth in the relationship between the user and Salla Platform (are found in the Terms of Service). We note that all transactions taking place between the merchant and the consumer are unrelated to Salla Platform as an entity, and Salla Platform bears no responsibility for them, as such dealing is an independent contractual relationship governed by the agreement concluded between the merchant and the consumer.
+
+These rules constitute the "Privacy and Information Confidentiality Policy", established to ensure the credibility and trust that Salla Platform is committed to providing to all users.
+
+For further details regarding the processing of your personal data and how to exercise your rights, you can contact the Personal Data Protection Department at Salla Platform for Information Technology Company using the contact details provided below:
+
+Name: Cyber Security Department
+Email: dataprotection@salla.sa

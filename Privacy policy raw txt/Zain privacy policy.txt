@@ -1,0 +1,178 @@
+Privacy Policy (PDPL-Compliant Version)
+
+Introduction
+
+This Privacy Policy Statement (together with our Terms and Conditions and any other documents referred to on it) describes how Saudi Mobile Telecommunications Company (Zain) referred as ZAIN KSA (hereinafter referred to as ("we," "us," or "our") the operator of this website or mobile app or service collects, uses, discloses, and protects the Personal Data and respects the privacy of ZAIN KSA’s channel users (herein referred to as "you" and "your"). We are committed to ensuring the privacy and security of your Personal Data and comply with the applicable data protection laws in Saudi Arabia, including but not limited to the Saudi Arabia Personal Data Protection Law (KSA PDPL), the Data Management & Personal Data Protection Standards of the National Data Management Office (NDMO) and other regulations.
+
+ZAIN KSA is an established, reliable telecom operator and a digital service provider whose services include telecom services, 5G network, digital payment services, cloud computing, IoT solutions, fiber services, drones, and many others. More details are provided below.
+
+These operations are governed by applicable laws, regulations, and regulatory directives issued by the relevant legislative and oversight authorities within Kingdom of Saudi Arabia’s jurisdiction.
+
+About ZAIN KSA:
+- Company Name: Saudi Mobile Telecommunications Company (Zain)
+- Commercial Registration Number: 1010246192
+- Registered Address: Riyadh, Al-Shohda Dist, Eastern Ring Road
+- Company Type: Joint Stock Company
+
+This Privacy Policy Statement outlines our core principles and practices regarding data protection and privacy and explains how we collect, use, disclose, and protect your Personal Data in connection with your use of Zain services and platforms. By using our services, you acknowledge that you have read and understood this Privacy Policy Statement and Consent to the collection, use, and Processing of your Personal Data as described herein.
+
+For the purposes of this Privacy Policy Statement, the following terms shall have the meanings set forth below:
+
+Personal Data:
+Refers to any information, regardless of its source or form, that relates to an identified or identifiable natural person. A person is considered identifiable if they can be identified directly or indirectly through reference to one or more identifiers, such as their name, identification number, voice, image, video, electronic identifier (e.g., IP address or cookies), geolocation data, or contact details including addresses, contact numbers, and email addresses. It also including, without limitation and without prejudice to the generality of the foregoing ,financial data such as bank account and credit card numbers, as well as any information related to an individual’s physical, physiological, genetic, psychological, mental, economic, cultural, or social identity. When determining whether a person is identifiable, all means reasonably likely to be used by the Data Controller or any other party must be considered.
+
+Sensitive Personal Data:
+A specific category of Personal Data that, due to its sensitive nature, requires enhanced protection. It includes data that reveals or relates to a person’s racial or ethnic origin, religious or philosophical beliefs, political opinions or affiliations, union or organizational membership, genetic or biometric data (when used for unique identification), health data (including mental, psychological, or physical health, or data arising from healthcare services), and data concerning a person’s sex life or sexual orientation. It also encompasses information relating to criminal convictions or offenses, security status, data concerning children, family or marital relationships, and—where specified by law—financial data such as banking and credit card information. Any data that, if disclosed or misused, could result in harm, discrimination, or infringement of an individual’s rights may also be deemed sensitive, subject to the determination of the relevant data protection authority.
+
+Processing:
+Any operation performed on Personal Data, whether automated or not, including collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, use, disclosure, dissemination, restriction, erasure, or destruction.
+
+Data Controller:
+The natural or legal person who determines the purposes and means of Processing personal and sensitive data.
+
+Data Processor:
+A natural or legal person who processes personal or sensitive data on behalf of the controller as per controller instructions pursuant to the agreement entered into between controller and processor, pursuant to the applicable personal data protection law.
+
+Data Subject:
+The identified or identifiable natural person to whom personal and sensitive data relates.
+
+Consent:
+Consent is a fundamental requirement for the lawful Processing of Personal Data under Personal Data protection law of KSA. It refers to a freely given, specific, informed, and unambiguous indication of the Data Subject’s wishes, by which they signify their agreement to the Processing of their Personal Data through a clear affirmative action. This may be expressed in writing, electronically, or orally, but silence, pre-ticked boxes, or inactivity do not constitute valid Consent. For Consent to be valid, it must be given voluntarily, without coercion or misleading practices, and cannot be bundled with other terms in a way that obscures its purpose. The Data Subject must be fully informed at the time of collection about the identity of the Data Controller, the purposes of Processing, and the types of data involved. If multiple Processing activities are involved, separate and independent Consent should be obtained for each purpose. Consent must be clearly expressed and documented in a verifiable manner, including the time, method, and scope of the Consent given. It must also be provided by a person with full legal capacity; in cases involving minors or others lacking capacity, it must be obtained from a parent, guardian, or legal representative. Furthermore, Data Subjects must be allowed to withdraw their Consent at any time, and this process should be as accessible and straightforward as the process for giving Consent. When presented in written form, the request for Consent must be clearly distinguishable from other content and expressed in plain, accessible language.
+
+Third Parties:
+A natural or legal person, public authority, agency or body, other than the Data Subject, controller, processor and persons who, under the direct authority of the controller, processor and persons who, under the direct authority of the controller or process, are authorized to process Personal Data.
+
+Personal Data Breach:
+Any incident that leads to Disclosure, Destruction, or unauthorized access to Personal Data, whether intentional or accidental, and by any means, whether automated or manual.
+
+Contract:
+A formal agreement between the Data Controller and the Data Subject establishes the terms and conditions under which services are provided. Where the Data Subject is affiliated with a corporate entity, the contract may be executed between the Data Controller and the company acting on behalf of the Data Subject in their capacity as an employee or authorized user. The contract outlines the scope of services, the roles and responsibilities of the parties, and the operational terms necessary for the delivery and management of the agreed services.
+
+Performance of a Contract:
+Lawful and operational basis for Processing Personal Data when such Processing is necessary to establish, deliver, and manage services under a legally binding agreement with the customer. This includes all activities required to fulfill the telecom services provider’s obligations and enable the customer to receive the subscribed telecommunications services.
+
+User:
+The individual using Zain website, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refers.
+
+Usage Data:
+Information collected automatically through Zain website (or third-party services employed in the website), which can include: the IP addresses or domain names of the computers utilized by the Users who use the website, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Website) and the details about the path followed within the Website with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+
+This Privacy Policy Statement applies to all Personal Data collected, processed, stored, or shared by all Zain KSA entities and all relevant business lines, subsidiaries, suppliers, and affiliated operations.
+
+The scope of this policy statement covers, but is not restricted to, the following:
+- Data Subjects: Individuals who interact with Zain as customers, website or mobile app users, service subscribers, or participate in promotional or support activities.
+- Channels: Where applicable, Data collected through Zain websites, mobile applications, customer service centers, retail locations, kiosks, digital campaigns, and network infrastructure.
+- Data Types: Includes personal identifiers, contact details, financial information, service usage data, device and network metadata, engagement records, and other data categories as defined in this policy statement.
+- Processing Purposes: Service delivery, account management, compliance, marketing (with Consent), analytics, support, fraud prevention, and legal obligations, among others.
+
+This policy statement is designed to comply with applicable Personal Data protection regulatory requirements in KSA jurisdiction Personal Data.
+
+a) What Data We Collect
+ZAIN KSA collects personal data from customers and clients to deliver services efficiently, meet contractual obligations, and comply with legal and regulatory requirements.
+We collect only the minimum data necessary for the specified purposes, and delete or anonymize it once no longer needed.
+We do not knowingly collect or process Personal Data of individuals under the legal age as defined by local regulations without obtaining verified Consent from a parent or legal guardian.
+We may collect, but are not limited to, the following categories of personal data:
+- Personal Identifiers: Such as full name, email address, phone number, date of birth, and national identification (e.g., Iqama or Saudi National ID) – used for customer verification and service eligibility.
+- Account Credentials: Including usernames and encrypted passwords or PINs – to authenticate users and ensure secure account access.
+- Financial Information: Credit/debit-card data is submitted directly to our third-party payment gateway and is never collected or stored by us. If you choose to save your card for future purchases, we store only the token provided by the gateway to facilitate recurring billing.
+- Usage and Device Data: Including browsing behavior, IP address, and device-specific details – used to improve user experience, optimize services, and support cybersecurity efforts.
+- Engagement Data (Optional): Collected through customer surveys, promotions, and interactions – to enhance service delivery, tailor marketing, and gather feedback for continuous improvement.
+
+b) How do we collect your data
+We collect your Personal Data through multiple secure channels to provide services, respond to customer needs, and meet legal and operational obligations. The collection methods include, but are not limited to, the following:
+- Website and Mobile Applications: Personal data shall be collected via secure online portals and mobile apps during account creation, service use, form submissions, promotional campaigns, logs, Cookies or similar technologies.
+- Customer Care Channels (Call Centers, Chat, Email): Personal data may be collected during customer support interactions for inquiries, complaint resolution, and service updates.
+- Retail Stores, Kiosks, and Sales Agents: Information shall be collected during in-person interactions for SIM issuance, number portability, and device/service registration.
+- Telecommunication Network Infrastructure: Metadata (e.g., call logs, IP addresses, location) shall be collected automatically through service usage, in compliance with legal and regulatory requirements.
+- Social media and Digital Engagement: Personal data may be obtained from interactions through official social media pages, including messages, comments, surveys, and campaigns.
+- Email and SMS Communications: Responses to official communication (e.g., service confirmations, feedback requests) may result in personal data collection.
+- Mobile Device Usage: Data may be collected via telecom apps installed on customer devices, including usage analytics and device identifiers, with user consent.
+
+c) How do we process your data
+We process your Personal Data for specific, limited purposes in accordance with applicable regulation. Each Processing activity is based on a lawful basis and supports the delivery and improvement of our services. The table below outlines key purposes, descriptions, and the corresponding legal bases:
+- Service Activation & Delivery: To set up, activate, and manage telecom services you have subscribed to. (Contractual necessity)
+- Account Verification & Security: To verify your identity, enable secure login, and prevent unauthorized access to your account. (Legitimate interest / Legal obligation)
+- Billing, Payments and collection: To process transactions, generate invoices, and manage payments or refunds, Managed by the third-party gateway. (Contractual necessity / Legal obligation)
+- Compliance with Laws: To fulfill our obligations under Saudi laws and regulatory frameworks (e.g., CST, SDAIA). (Legal obligation)
+- Marketing & Offers (with consent): To send promotional messages, service offers, and personalized content based on your preferences. (Explicit consent)
+- Service Improvement & General Offers: To improve our products and services, and to send general offers that are not personalized using your personal data. (Contractual necessity / Legitimate interest)
+- Customer Support: To respond to your inquiries, manage complaints, and provide technical support across our channels. (Contractual necessity / Legitimate interest)
+- Network Performance Monitoring: To monitor service quality, detect outages, and improve network efficiency. (Legitimate interest)
+- Website & App Analytics: To understand user behavior and improve digital experiences on our platforms. (Legitimate interest / Consent (for cookies, tracking, etc.))
+- Product Development: To analyze trends and improve or develop new telecom products and features. (Legitimate interest)
+
+Zain KSA processes personal data in compliance with the Saudi Personal Data Protection Law (PDPL) and other applicable regulatory frameworks. Each data processing activity is carried out on a lawful basis, ensuring transparency, accountability, and the protection of individuals’ rights. Processing may rely on one or more of the following legal bases:
+- Consent of the Data Subject: Where required by law or best practice, we seek the data subject’s clear, specific, and informed consent prior to collecting or processing personal data. Consent may be obtained in digital or written form, depending on the nature of the service. Data subjects have the right to withdraw their consent at any time, without affecting the lawfulness of processing carried out before such withdrawal. We ensure that consent requests are understandable and not bundled with unrelated terms. You may withdraw your consent at any time by reaching out to ZAIN KSA through any of the contact methods listed below in this notice.
+- Performance of a Contract: We process personal data when it is necessary to establish, manage, or fulfill a contractual relationship with the data subject. This includes enabling service activation, billing, customer support, mobile network access, and usage-based features. Without such data processing, we may be unable to deliver the agreed services or respond to customer needs effectively. Data collected under this basis is strictly limited to what is necessary for contract execution.
+- Compliance with Legal or Regulatory Obligations: Certain processing activities are required under the applicable laws and regulations of the Kingdom. We may also be obligated to disclose certain data to governmental authorities or judicial bodies upon lawful request, without the necessity of obtaining any further consent, and in full compliance with the prevailing laws and regulations. Such processing is imperative for the discharge of our legal obligations and for ensuring ongoing regulatory compliance.
+- Protection of Public Interest or Vital Interests: In some cases, we process data to protect the vital interests of individuals, for example, during emergencies, public safety threats, or natural disasters. We may also process data to support broader public interest tasks, such as cyber security, fraud prevention, or ensuring continuity of critical telecom infrastructure. These activities are carried out in line with PDPL principles and with appropriate safeguards in place.
+
+We only share data, when necessary, with:
+- Service providers (Example: Payment processors, delivery companies, Debt Collection)
+- Government authorities (if legally required)
+- Analytics partners (Example: Google Analytics, Firebase)
+
+We may share Personal Data with carefully selected and contractually bound third parties but only when necessary to:
+- Deliver, manage, or improve the products and services requested by the Data Subject
+- Perform technical, operational, or support functions such as billing, hosting, analytics, or fraud prevention
+- Enable engagement with agents, resellers, contractors, vendors, or business process outsourcing partners who process data strictly on Zain’s behalf under written agreements
+- Comply with obligations under applicable laws, court orders, or legal proceedings
+- Respond to lawful requests from regulatory authorities, such as national data protection agencies, telecommunications regulators, financial services authorities, or law enforcement bodies
+- Protect vital interests, public safety, or the rights and freedoms of Zain, its customers, or other individuals in urgent or legally recognized cases
+
+We may transfer Personal Data to third parties located in other jurisdictions, but only when such transfers are necessary and in full compliance with applicable Personal Data protection laws and regulations. These transfers are strictly limited to trusted third parties who are contractually bound to uphold appropriate confidentiality, security, and data protection standards.
+
+Cross-border transfers are carried out only when one or more of the following conditions are met:
+- Adequate data protection safeguards are in place in the destination country or organization
+- The Data Subject has provided explicit Consent, where required by law or regulation.
+
+All Personal Data is stored securely, and any transfer across borders is subject to rigorous safeguards to ensure the continued protection and lawful Processing of the data.
+
+With respect to the relationship between Controller and Data Subject, as a Zain customer, you are entitled to exercise the following rights under the Personal Data Protection regulations:
+- Right to Be Informed: You have the right to know how we collect, use, process, store, and share your Personal Data, the legal basis for such Processing, and how long it will be retained.
+- Right of Access: You may request confirmation of whether we process your Personal Data and, if so, obtain access to the data and related information. This includes the purposes of Processing, categories of data, and details of any third parties with whom it has been shared. You may access certain data directly through your online account or by submitting a request via the contact details provided below. Please note that access may be limited in certain cases to protect the rights of others or to comply with legal obligations.
+- Right to Correction: If your Personal Data we hold about you is inaccurate or incomplete, you may request correction or update by contacting us through the details provided below. Corrections will be processed promptly, and you will be notified once processed.
+- Right to Erasure (Right to Be Forgotten): You may request deletion of your Personal Data under certain conditions where there is no legal or contractual reason for its continued Processing for example, if the data is no longer needed for its original purpose. Legal or regulatory obligations may limit this right in some cases.
+- Right to Restrict Processing: You can request temporary or permanent restriction of your Personal Data Processing in certain circumstances —for instance, when contesting its accuracy or objecting to its Processing.
+- Right to a Data Request: You may request to receive your Personal Data in a structured, commonly used, and machine-readable format, where technically feasible.
+- Right to Withdraw Consent: If the Processing of your Personal Data is based on your Consent (e.g. for marketing communications), you may withdraw your Consent at any time through your account preferences or by contacting us. This does not affect the lawfulness of Processing carried out before such withdrawal.
+- Right to Object (Opt Out) to Direct Marketing: Data subject may object at any time to the Processing of his/her Personal Data for direct marketing purposes, including profiling related to such marketing. Once a Data Subject opts out, Zain will terminate all such Processing activities immediately.
+- Right to Submit Complaint: Customer has the right to submit a compliant to DPO at Zain KSA or the competent data protection authority. The Competent Authority shall take the necessary measures regarding the complaint submitted to it and inform the complainant of the outcome. Zain will cooperate fully with any investigation or inquiry and seek resolution in line with applicable legal frameworks
+
+How to exercise rights:
+- Email: DPO@sa.zain.com.
+- Visit: Any Zain KSA Branch office.
+
+You may request to exercise the rights listed above. We will respond to such requests within 30 days, with a possible extension if needed, as permitted under the PDPL.
+
+We are committed to retaining your Personal Data only for as long as necessary to fulfill the lawful and clearly defined purposes for which it was collected. Our data retention practices are guided by internal retention schedules that consider the nature of the data, applicable legal and regulatory requirements, contractual obligations, operational needs, and your rights and freedoms as a Data Subject. The standard maximum retention period for Personal Data at Zain KSA is 60 months from the date the data was last actively processed, unless an alternative retention period is stipulated in law.
+
+Once no longer needed, data is securely deleted or anonymized in accordance with our internal data disposal procedures designed to prevent unauthorized access or recovery.
+
+Zain KSA is committed to enhancing its effectiveness at safeguarding Personal Data through the established knowledge and competencies of its employees and contractors, supported by ongoing training and awareness programs in applicable privacy and data protection requirements across our footprint.
+
+We are committed to protecting your Personal Data through the implementation of appropriate technical and organizational measures. These include:
+- Encryption and access control mechanisms to safeguard data against unauthorized access
+- An established incident response process to detect, manage, and resolve security incidents
+- Regular security audits and assessments to identify and mitigate potential risks
+- Adopt Privacy by Design by embedding data protection requirements into our systems, services, and internal practices from the outset
+- Access to Personal Data is strictly limited to authorized personnel based on job responsibilities and need-to-know principles.
+
+In the event of a serious Personal Data breach that causes serious harm to the Data Subject, we are committed to notifying the affected individuals and the relevant data protection authority within the timeframes prescribed by applicable data protection regulations.
+
+Zain KSA prioritizes the protection of personal data and is committed to taking reasonable technical and organizational precautions to prevent loss, misuse, or alteration of information. Zain will store collected information on secure servers and will only disclose this information as required by applicable laws and regulations in Saudi Arabia, including when disclosure is required by government entities or the Communications, Space and Technology Commission (CST) or the Saudi Data and Artificial Intelligence Authority (SDAIA) or when Zain deems such disclosure necessary for providing services, products, technical support, or analytical purposes.
+
+Zain KSA commits not to sell, share, trade, lease, or disclose any information to any third party outside of Zain KSA or its subsidiaries except where such disclosure is carried out in accordance with an appropriate legal basis for processing under applicable laws and regulations. Third parties are required to maintain the confidentiality of the information and access it only as necessary to provide services and products.
+
+We use cookies and similar technologies on our websites and mobile applications to enhance user experience, analyze usage patterns and traffic, remember your preferences, and deliver relevant content and advertisements. These technologies help us understand how our digital platforms are being used and enable us to improve their functionality and performance.
+You have the option to manage your cookie preferences at any time through your browser or device settings. Please note that disabling certain cookies may affect the functionality or performance of some features on our platforms.
+
+Zain KSA is committed to safeguarding Personal Data and upholding the highest standards of privacy and data protection. All employees, stakeholders, contractors, suppliers, and third parties acting on behalf of Zain are required to comply with this Data Privacy Policy Statement and all applicable data protection laws. Regular training and awareness programs are provided to ensure that all personnel have the necessary knowledge and capability to handle Personal Data responsibly and lawfully.
+
+In cases of a violation, appropriate disciplinary action will be taken in accordance with applicable laws and regulations and Zain KSA’s policies, along with corrective and preventive measures to mitigate the risk of future breaches. In case of any discrepancies between the provisions of this Policy and applicable laws and regulations, the laws shall prevail.
+
+This Privacy Policy Statement may be updated from time to time to reflect, for example, changes to our practices or for operational, legal, or regulatory reasons. The last update to this policy statement was in 18-12-2025.
+We may update this Privacy Policy Statement, and it will be shared through website and/or channels.
+
+If you have any concerns or complaints regarding how your Personal Data is handled, you may contact our Data Privacy Officer (DPO) at DPO@sa.zain.com.
+If unresolved, you may escalate your complaint to the Saudi Data & AI Authority (SDAIA) or NDMO.

@@ -1,0 +1,282 @@
+Privacy Policy | MBC Shahid
+
+Privacy at a Glance
+
+1. What data do we collect?
+- Username, Email, Mobile Number, account details, and device identifiers.
+- Technical data (device type, OS, app version, network details, IP address).
+- Usage Data (Viewing history, watchlist, session duration, content preferences).
+- Payment details (Invoice records; payment records; billing address; payment method; payment amount; payment date).
+- Support data (messages, calls, Emails or tickets with our support team).
+- Consent Records (records of any consents you have given).
+- Digital Data (online identifiers and any additional browser, device, or behavioral collected for the purpose of fraud detection and prevention).
+
+2. Why do we collect this data?
+- To provide and improve our services.
+- Provide streaming service, manage subscriptions, ensure service delivery.
+- To process payments and prevent fraud.
+- Respond to inquiries, provide customer support, send notifications.
+- To comply with laws and regulations.
+
+3. Who do we share it with?
+- Technical service providers (e.g., hosting, servers).
+- Customer support providers.
+- Advertising and social platforms (only with your consent and not for children).
+- Regulators or authorities if required by law.
+
+4. How long do we keep it?
+- We keep your data only as long as needed for the purpose it was collected, to comply with legal requirements, or for legitimate business needs.
+- Once no longer needed, we securely delete or anonymize your data according to our Data Retention Policy.
+
+5. Your rights (or your parent's rights)
+- You can ask us to access, correct, delete, or restrict your data.
+- You can withdraw consent (e.g., for ads or optional features) at any time.
+- You can object to certain processing.
+- You can file a complaint with us or with the Saudi Data & AI Authority (SDAIA), or with another data protection authority in your country.
+- For children: parental consent is required (under 18 in Saudi Arabia, under 16 in the EU unless local law sets a lower age).
+- We never use children's data for behavioral ads or profiling.
+
+Contact us: DataProtection@mbc.net.
+
+MBC Group Full Privacy Notice "Shahid"
+
+About MBC Group
+MBC Group is a leading media organization in the Middle East and North Africa, offering a wide range of entertainment services including television broadcasting, digital platforms such as Shahid (the region's leading video-on-demand and streaming platform), and interactive applications including gaming services. These platforms are designed to provide engaging and interactive experiences to users across various age groups. MBC Group is committed to protecting user data and ensuring compliance with applicable data protection laws.
+
+Who is the Controller of your Personal Data?
+MBC FZ LLC, headquartered in Dubai, United Arab Emirates, is the legal entity responsible for collecting, using, and safeguarding your personal data. As the data controller, we define the purposes and methods for processing your personal data.
+
+Contact Details
+Responsible Department: Data Protection Team
+Address: Dubai Media City, Building 3, Dubai, UAE
+Phone Number: +966 11 2684444
+License or Commercial Register: TBC
+Date of Last Update: The Privacy Policy was last updated on, 2025.
+
+What Personal Data is collected?
+When you use our services, we may collect and process the following categories of personal data:
+- Identifiers: such as your First name, Last name or username, Date of birth, Gender, and your profile age.
+- Contact Information: email address, telephone number.
+- Technical and Device Information: including device type, operating system, app version, language settings, time zone, browser information (if applicable), network connection details (e.g., service provider, network type), push notification tokens, crash and diagnostics data (e.g., error reports, performance logs, app stability data collected via SDKs), device identifiers (e.g., Device ID, Advertising ID), and IP address.
+- Location Data: approximate location derived from your IP address, and precise location (GPS) if you grant permission; login location country, city and state.
+- Payment Information: Invoice records; payment records; billing address; payment method; payment amount; payment date; payment receipts of 3rd party service provider, first 6 digits of credit card, Expiry date of credit card, your card tier (Gold, Silver, etc.). When payment is processed via 3rd party (e.g. Mastercard, Visa, PayPal and others), all details are passed directly to the 3rd party.
+- Usage Data: Viewing history, watchlist, session duration, content preferences, interactions with features (e.g., likes, comments, search history).
+- Customer Support Data: records of your communications with our support team, including emails, chat logs, and call recordings (if applicable).
+- Consent Records: records of any consents you have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent).
+- Marketing and Communication Data: Preferences related to receiving promotional content, newsletters, or service updates.
+- Views and Opinions: any views and opinions that you choose to send to us, or publicly post about us on social media platforms.
+- Digital Data: users' social media accounts, metadata (i.e., set of data that describes and gives information about other data), online identifiers (e.g., internet protocol addresses, cookie identifiers) and any additional browser, device, or behavioral collected for the purpose of fraud detection and prevention.
+
+We collect this data to operate, maintain, and improve our services, personalize your experience, provide customer support, ensure security, and prevent fraud. Where required by law, we will seek your consent before collecting certain categories of personal data (such as precise location).
+
+How do we collect your Personal Data?
+MBC ensures that all personal data is collected accurately and in compliance with applicable laws, such as the PDPL and GDPR. We collect personal data about you in two main ways:
+
+1. Direct collection (from you) – when you:
+- When you register an account or use our services (e.g., Shahid website, apps, or features).
+- Communicate with us through email or telephone, or by any other means.
+- When you provide information voluntarily (e.g., contact details, preferences, or participation in surveys and promotions).
+- Grant permissions for certain features (e.g., camera, microphone, GPS location, contacts). These permissions are only accessed if you explicitly enable them.
+- When you interact with our platforms (e.g., watch history, session duration, search activities).
+
+2. Indirect collection (from other sources) – when:
+- Automatically, through your device and browser (e.g., cookies, SDKs, app usage, crash reports) automatically log technical information such as your IP address, device ID, advertising ID, device type, operating system, app version, network provider, connection details and push notification tokens.
+- From publicly available information that you choose to make public (e.g., social media posts mentioning Shahid).
+- We may receive your personal data from third parties such as payment providers, advertisers, or partners we collaborate with. In some cases, our partners may share your information with us as part of your subscription with them. For example, if your subscription includes a bundled service such as "Shahid," certain data necessary to activate and manage your access may be provided to us by that partner.
+- Additionally, we may receive information from third-party platforms such as Facebook, Apple, and Google when you choose to log in or connect your account through these services. This information may include basic profile details and authentication data required to facilitate your login and enhance your user experience.
+- From regulatory or law enforcement authorities where required by law
+- We determine your approximate location from your IP address or network data.
+- We create inferred data profiles through automated analysis of your usage patterns and preferences.
+
+How do we use your Personal Data & Purpose?
+We collect and process your Personal Data for the following purposes and legal bases:
+
+Provide and operate Shahid service: Identifiers (account ID, email), Contact details, Identity data | Provide streaming service, manage subscriptions, ensure service delivery | Performance of contract
+
+Enable account registration and access to features: Registration details, Contact details | Allow users to sign up, use online forms, surveys, and account-based features | Performance of contract
+
+Carry out payment transactions: Payment data, Transaction history, Billing address, Partial credit card details | Process payments, verify subscription status, comply with billing requirements | Performance of contract
+
+Personalize user experience: Usage data (viewing history, preferences), Device info, Location data | Recommend shows, personalize content and ads, improve user experience | Legitimate interest / Consent (for personalized ads)
+
+Maintain and improve services: Technical data (logs, crash reports, app version), Digital data (cookies, IP) | Enhance platform stability, develop new services, fix issues | Legitimate interest
+
+Tailor ads and marketing content: Marketing and Communication data, Consent records, Inferred data | Deliver targeted ads and offers, send newsletters | Consent
+
+Communicate with users: Contact details, Customer support data (emails, chat logs, calls) | Respond to inquiries, provide customer support, send notifications, and request your feedback on your satisfaction with our services. | Performance of contract / Legitimate interest
+
+Create and maintain a trusted environment: Identifiers, Technical data, Transaction records, Fraud detection data | Enforce terms of service, protect rights and property, ensure safe use of services | Legitimate interest / Legal obligation
+
+Detect and prevent fraud or security incidents: Technical data, Digital data, Device info, Metadata | Prevent fraud, detect intrusions, monitor suspicious activities | Legitimate interest / Legal obligation
+
+Comply with legal obligations: Transaction records, Identity data, Contact details | Meet regulatory and legal requirements, respond to lawful requests | Legal obligation
+
+Respond to disputes and requests: Contact details, Identity data, Transaction history | Assist with dispute resolution, respond to service-related issues | Performance of contract / Legal obligation
+
+Perform tasks in the public interest: Any relevant personal data required by law | Fulfill public interest tasks based on clear legal basis | Public interest (where legally applicable)
+
+Change of purpose of processing
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us. If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. Please note that we may process your personal data without your knowledge or consent, where this is required or permitted by law.
+
+How do we disclose your Personal Data?
+For the purposes described above, we shall grant access to your Personal Data to authorized MBC Group employees and members of the MBC Group who have a need-to-know in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+In addition, we may need to transfer or allow access to the following authorized third-parties:
+- Internal Entities (MBC Group Companies): To manage internal operations, support customer account creation, and ensure service delivery | Identifiers, contact details, account information, subscription data | Recurring
+- Cloud / Technical Service Providers (e.g., AWS, GCP, Google Analytics, Youbora, mParticle): To host Shahid services, store data securely, and perform analytics that support platform operations, reporting, personalization, and decision making | Identifiers, device information, technical data, usage data | Recurring
+- Customer Account Management Providers (e.g., Gigya, CRM and CDP tools): To enable customer account creation and management, support user registration, login, profile management, and facilitate customer interactions with Shahid services | Identifiers, contact details, registration details, account profile data, subscription status | Recurring
+- Customer Account, Subscription & Identity Management Providers (e.g., Salesforce, Evergent, Magnaquest): To handle user authentication and identity management, manage customer subscriptions, billing and entitlement services, support revenue operations and customer relationship management, and ensure secure access to Shahid services. | Identifiers, contact details, account and authentication data, subscription and billing information, device and technical data, usage and activity data, location data (where applicable) | Recurring
+- Payment Service Providers & Fraud Prevention Partners (e.g., Amazon Web Service, Checkout Ltd): To process payments, verify transactions, and prevent fraud | Payment details, transaction history, billing info, identifiers | One-time per transaction / recurring for fraud checks
+- Suppliers and Other Service Providers: To process personal data or perform services on behalf of MBC | Identifiers, technical data, usage data, transaction details (as relevant) | Recurring / as needed
+- Successors in Title / New Owners: In case of business sale, reorganization, or transfer between MBC entities | Any personal data necessary for due diligence and transfer | One-time or depending on transaction
+- Media Representatives: To represent MBC in business or media-related activities | Limited identifiers or contact details (where relevant) | Occasional / recurring as needed
+- Legal Advisers, Witnesses, Experts, Judicial & Quasi-Judicial Authorities: To protect rights, property, or safety of MBC, users, or public, and to enforce Terms of Service | Identity data, contact details, transaction records, technical data | One-time or recurring depending on case
+- Administrative or Judicial Authorities: To comply with laws, regulations, legal processes, or enforceable governmental requests | Any data required by law | One-time or recurring depending on legal request
+- Aggregated / Anonymized Data Recipients (e.g., advertisers, partners, connected sites): To share insights and show trends about general use of Shahid services | Aggregated/anonymized data only (not identifying individuals) | Recurring / public reporting
+
+Legal Basis for Collecting and Processing Your Personal Data:
+In accordance with the relevant Personal Data Protection Law, the legal basis on which we rely in processing such data is:
+- Your consent: We process your Personal Data based on your explicit consent for specific purposes, such as receiving targeted advertisements. You can withdraw your consent at any time without affecting processing operations carried out based on other legal bases.
+- In fulfillment of a contractual obligation: We process your Personal Data when it is necessary to perform our contractual obligations to you, including providing our services, Account creation, payment processing, maintaining your account, and delivering customer support.
+- In compliance with a statutory obligation: We process Personal Data where it is necessary to comply with laws, regulations, or legal requirements, such as responding to lawful requests from regulatory or judicial authorities.
+- Achieving public interest: We may process or share Personal Data where necessary to protect public security, defend against legal claims, or prevent illegal activities, as permitted under applicable laws.
+- Achieving legitimate interests or objectives: We process Personal Data to improve our services, ensure security and fraud prevention, and enhance your experience, provided that such processing does not override your fundamental rights and freedoms.
+- Protecting vital interests: In exceptional circumstances, we may process your Personal Data to protect your vital interests or those of another person — for example, if we detect urgent threats to the safety or life of a user's through our communication channels.
+
+Where may your personal data be transferred?
+MBC FZ LLC is part of MBC Group, a multinational organization with affiliates, partners, and subcontractors located in various countries around the world. Because of the international nature of our business, we may transfer personal data within MBC Group entities and to third parties as noted in Section [How do we disclose your Personal Data], in connection with the purposes set out in this Privacy Notice.
+
+We process and store your personal information on our computers and servers located in the Kingdom of Saudi Arabia, the United Arab Emirates, Lebanon, Egypt, Jordan, and Cyprus. In addition, we may use service providers based in other jurisdictions such as the United States, Canada, Germany, and the United Kingdom. As a result, your personal data may be processed in jurisdictions that have data protection laws with standards that may be lower than those in your home country.
+
+Where this is the case, we take appropriate steps to ensure that your personal data receives an adequate level of protection. These transfers are made only when necessary and in compliance with applicable data protection laws, including the Saudi Personal Data Protection Law (PDPL) and its regulations. Where applicable, we rely on Standard Contractual Clauses (SCCs) or other safeguards recognized under the PDPL as valid transfer mechanisms.
+
+In addition, we may use other internationally recognized transfer tools when required, including:
+- Adequacy Decisions: Where personal data is transferred to countries deemed by relevant authorities to provide an adequate level of protection.
+- Standard Contractual Clauses (SCCs): When transferring data to countries without an adequacy decision, we ensure protection by using SCCs approved by data protection authorities.
+- Transfer Impact Assessments (TIAs): We may conduct assessments to evaluate risks associated with international transfers and implement measures to mitigate these risks.
+- Binding Corporate Rules (BCRs): For intra-group international data transfers, MBC may rely on BCRs to ensure that data is processed in compliance with the highest data protection standards across all MBC entities.
+
+For individuals in the European Union, if personal data is transferred to a service provider in a country outside the European Economic Area that is not recognized by the European Commission as providing an adequate level of protection, we rely on safeguards such as the EU Standard Contractual Clauses (SCCs) or other approved mechanisms under applicable law.
+
+How do we protect your Personal Data?
+MBC employs a combination of technical and organizational measures to ensure the security and confidentiality of your personal data.
+
+Technical Measures
+- Encryption: Personal data is encrypted both in transit and at rest to prevent unauthorized access.
+- Data Loss Prevention (DLP): DLP systems are in place to monitor and prevent unauthorized data transfers.
+- Access Control: We use role-based access control to restrict access to personal data, ensuring that only authorized personnel can access sensitive information.
+- Password Management: Strong password policies and password scanning tools are enforced across all systems.
+- Network Security: Firewalls, intrusion detection systems, and regular network assessments are used to protect our infrastructure from external threats.
+- Endpoint Protection: Devices such as computers and mobile devices are secured with antivirus software and regular security patches.
+- Secure File Sharing: Confidential files are encrypted and shared through secure, authorized channels.
+- Vulnerability Assessment and Cloud Security Layers: We conduct regular vulnerability assessments to identify and address security vulnerabilities in systems that contain sensitive data, including those hosted in the cloud. This is part of our overall strategy to strengthen the security of our systems and endpoints against emerging threats.
+
+Organizational Measures
+- Access Management: Strict access controls are enforced, ensuring that only those with the necessary roles can access personal data.
+- Vendor Management: Third-party vendors are required to adhere to our data protection standards through legally binding agreements and regular audits.
+- Physical Security: Sensitive areas, such as data centers, are protected by restricted access, biometrics, and CCTV monitoring.
+- Employee Training: Regular data protection training is provided to all employees to maintain awareness and compliance with security policies.
+- Data Breach Response: We have an established incident response plan to manage any data breaches, including immediate containment, investigation, and notification of affected parties and regulatory authorities when required.
+- Audits and Reviews: Regular internal and external audits are conducted to assess compliance with security standards and implement improvements where necessary.
+
+How long do we keep your personal data?
+We retain your personal data only for as long as necessary to fulfill the purposes for which it was collected or as required under applicable laws and regulations. Retention periods are defined in accordance with MBC's Data Retention Policy, which sets specific timelines based on the type of data, the purpose of processing, and regulatory requirements in each jurisdiction (if any).
+
+Personal data collected through our websites and applications will be retained for as long as your account remains active or for the period necessary to achieve the original purpose of collection. Once the applicable retention period expires, we will securely delete or anonymize the data in line with recognized industry standards, unless a longer retention period is required for legal, regulatory, or legitimate business purposes.
+
+Below are the key factors determining the retention period:
+1. Purpose of Data Collection: Personal data is retained for the duration necessary to provide our services, manage our relationship with you, fulfil legal obligations, and improve our operations.
+2. Legal and Regulatory Requirements: Certain data may be retained for specific periods to comply with legal or regulatory requirements, such as financial reporting, tax obligations, or compliance with labor and employment laws.
+3. Business Needs: Data may be retained for longer periods if it is necessary for business continuity, ongoing projects, or legitimate business interests such as audit, legal claims, or dispute resolution.
+4. Consent-Based Data: Where data is processed based on your consent, such as for marketing purposes, it will be retained until you withdraw your consent or request its deletion, provided there are no other legal grounds for retaining it.
+
+Once the applicable retention period has expired, we will apply secure destruction measures in accordance with recognized industry standards to ensure that the data cannot be viewed, reconstructed, or recovered. These measures may include:
+- Secure deletion from active systems and backups,
+- Anonymization so the data can no longer identify you, or
+- Secure archiving in limited cases required by law or necessary for legal claims.
+
+Cookies and Similar Technologies
+We may use cookies and similar technologies (such as SDKs, pixels, and device identifiers) on our website and mobile applications to:
+- Enable core features and improve functionality.
+- Analyze performance and usage patterns.
+- Personalize your experience and deliver relevant advertisements.
+
+You can manage or disable these technologies through your browser or device settings, but this may affect certain features of the game or website.
+
+How to Control Cookies and Similar Technologies
+1. On Websites (Cookies):
+- Browser Settings: You can block or delete cookies through your web browser settings.
+- Chrome: Settings → Privacy and security → Cookies and other site data
+- Safari: Preferences → Privacy → Manage Website Data
+- Edge: Settings → Cookies and site permissions
+- Firefox: Options → Privacy & Security → Cookies and Site Data
+- Effect: Disabling cookies may limit website functionality, including login persistence and saved preferences.
+
+2. On Mobile Applications (SDKs and Device Identifiers):
+- iOS Devices: Settings → Privacy & Security → Tracking → Turn off Allow Apps to Request to Track.
+- Android Devices: Settings → Privacy → Ads → Turn on Opt out of Ads Personalization.
+- Effect: Disabling tracking may limit targeted ads but will not stop all data collection necessary for app operation.
+
+Children's Data
+Our services may be used by users of various age groups, including children. In accordance with applicable laws, we take special care when processing the personal data of individuals under the minimum legal age for processing personal data in their country of residence (16 years old under the GDPR, unless the applicable law sets a lower age, which shall not be below 13 years old; 18 years old under the Saudi PDPL unless otherwise permitted by law).
+
+Age Verification
+When necessary, we use appropriate and proportionate measures to verify the age of our users. These may include:
+- Self-declaration of age during account creation.
+- Technical measures such as device or platform age settings.
+
+Where a user is identified as being under the applicable minimum legal age, we will:
+1. Obtain and verify consent from a parent or legal guardian before collecting or processing any personal data, except where the law permits processing without such consent.
+2. Limit the collection and processing of personal data to what is strictly necessary for the operation and to provide an appropriate experience for the child.
+3. Avoid behavioral advertising, profiling, or any processing that may pose a risk to the child's rights and freedoms.
+4. Ensure data retention periods are minimized, and securely delete the data once the purpose has been fulfilled.
+
+If you are a parent or legal guardian and have concerns about your child's personal data in relation to our games, you may contact us using the details provided in this Privacy Notice to exercise your rights, including access, correction, or deletion of such data.
+
+Your Rights Regarding Processing of Your Personal Data:
+Under the appliable Personal Data Protection Laws, you have the following rights, which primarily depend on the purpose of Personal Data collection and processing:
+- Right to Be Informed: You are entitled to be informed how we collect your personal data, legal basis for collection and processing, how such data is processed, stored, destroyed, and to whom it will be disclosed. You can access all details through the Privacy Policy or contact us using the below mentioned information.
+- Right of Access to Your Personal Data: You are entitled to request access to your personal data by contacting us and submitting your request through the communication channels provided in this Privacy Notice.
+- Right to Request Access/Data Portability: You can request a copy of your personal data held by us, in a structured, commonly used, machine-readable format, or have it transferred to a third party of your choice.
+- Right to Request Correction of Your Personal Data: You are entitled to request correction of your Personal Data that you believe is inaccurate, incorrect or incomplete, through the communication channels provided in this Privacy Notice.
+- Right to Request Destruction of Your Personal Data: You are entitled to request destruction of your Personal Data in certain circumstances.
+- Right to Withdraw Your Consent for Processing Your Personal Data: You are entitled to withdraw your consent for processing your Personal Data at any time unless there are legal bases that require otherwise.
+- Right to Object: You have the right to object to the processing of your personal data when we are relying on a legitimate interest (or those of a third party) and there is something about your situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms.
+- Right to Restrict Processing: You have the right to ask us to suspend the processing of your personal data in the following cases: (a) if you want us to establish the data's accuracy (b) when our use of the data is unlawful, but you do not want us to erase it (c) when you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims, or (d) if you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. You should note that if you ask us to restrict the processing of your personal data, we may not be able to provide our services to you.
+- Right not to be Subject to Automated Decision-Making: You have the right not to be subject to a decision when it is based on automated processing, and it produces an adverse legal effect or significantly affects you.
+- Right to File a Complaint: If you believe that MBC has not complied with the KSA Personal Data Protection Law (PDPL) or the other applicable regulations, you have the right to file a complaint with us. If you are not satisfied with the outcome, you may escalate your complaint to the Saudi Data & Artificial Intelligence Authority (SDAIA) or to the other competent authority.
+
+Unless otherwise stipulated by the law, you will not be required to pay any fees in return for exercising this right. In case of submitting a request for exercising this right, you will receive a response within 30 days as of the request receiving date.
+
+For further details regarding the processing of your Personal Data and how to exercise your rights, you can contact the Personal Data Protection Officer at MBC Group using the communication channels provided in this Privacy Notice.
+
+What if you have questions or want further information?
+For further details regarding the processing of your Personal Data and how to exercise your rights, please contact us using the below email address:
+dataProtection@mbc.net
+
+- If you are located in the European Union, please contact our EU Representative via email at: info@privacyminders.com
+EU Representative's Contact Details:
+Name: RF PRIVACY MINDERS LTD
+Address: 10 Patron Street, 6051 Larnaca, Cyprus
+
+- If you are located in the United Kingdom, please contact our UK Representative via email at: ukrepresentative@privacyminders.com
+UK Representative's Contact Details:
+Name: PRIVACY MINDERS (UK) LIMITED
+Address: 71-75 Shelton Street, London WC2H 9JQ, United Kingdom
+
+How does this Privacy Notice work with third-party data processing?
+Our services may be provided through and/or utilize features (such as voice controls) operated by third party platforms or contain links to sites operated by third parties whose policies regarding the handling of personal data may differ from ours.
+For example:
+- You may be able to access our services through platforms such as gaming systems, smart TVs, mobile devices, set top boxes and a number of other Internet connected devices. In addition, you may encounter third party applications that interact with our services. These third parties have an independent privacy or Personal Data policies and terms of use.
+- Our digital properties may contain links to other websites which are outside our control and are not covered by this Privacy Notice. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policies, which may differ from ours.
+We advise you to consult such policies and terms if you want to learn more about the processing of your personal data by such third parties.
+
+How may this Privacy Notice be updated?
+We may update this Privacy Notice from time to time in response to changing legal, regulatory or operational requirements. Any changes of this Privacy Notice will be published on this page. When these changes are material, we may provide you specific notice of any such changes (including when they will take effect) in accordance with the law.
+Where applicable (for instance, if the changes imply new data processing that shall rely on your prior consent), we will ensure that you have had the possibility to accept those changes so as to allow you to continue using our services or to refuse - in which case, you will be entitled to cancel your use of our Services.
+
+Complaint or Objection Filing Method
+If you have any concerns, or if we do not comply with the Personal Data Protection Law, you can file a complaint to the Data Protection Team using one of the following channels: DataProtection@mbc.net
+If you are not satisfied with how we process your complaint, or if we fail to respond to your request, you can file a complaint to the Competent Authority as follow:
+- Kingdom of Saudi Arabia: Saudi Data & AI Authority "SDAIA". Saudi Data & AI Authority (sdaia.gov.sa) National Data Governance Platform "DGP" (dgp.sdaia.gov.sa)
+For EU Residents: If you believe that your personal data has been processed in violation of applicable data protection laws, you have the right to lodge a complaint with a Data Protection Authority (DPA) in the European Union. You may submit your complaint to the DPA in your country of residence, place of work, or where the alleged infringement occurred. Each EU Member State has its own independent DPA responsible for supervising the application of the GDPR. You can find the contact details for all DPAs on the official European Data Protection Board (EDPB) website.
